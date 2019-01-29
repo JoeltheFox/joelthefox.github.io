@@ -3,7 +3,7 @@ layout: post
 title: Jelly no Puzzle
 ---
 
-Jelly no Puzzle is a brilliant puzzle game by Qrostar, where the player must combine all "jellies" of the same color by moving them left or right. Despite the simple rules, the game is full of challenges and surprises. The [Android version](https://play.google.com/store/apps/details?id=com.jellycrew.jellynopuzzle&hl=en) is the best to get with 70 levels by the designer, and is fairly cheap (the first few levels are free as a demo). The [Windows version](http://qrostar.skr.jp/en/jelly/) has the original 40 levels, a subset of the Android version, and is free. 
+Jelly no Puzzle is a brilliant puzzle game by Qrostar, where the player must combine all "jellies" of the same color by moving them left or right. Despite the simple rules, the game is full of challenges and surprises. The [Android version](https://play.google.com/store/apps/details?id=com.jellycrew.jellynopuzzle&hl=en) is the best to get with 70 levels by the designer, and starts with a free demo. The [Windows version](http://qrostar.skr.jp/en/jelly/) has the original 40 levels, a subset of the Android version, and is free. 
 
 Qrostar also released 3 bonus levels which were previously hosted on his website and are no longer there, but he gave me permission to share them. [Here](https://github.com/JoeltheFox/joelthefox.github.io/blob/master/jelly1000.zip?raw=true) is a zip of the Windows version including the bonus levels, with a completed save file so you can go straight to them. The bonus levels are 38, 39, and 40, replacing the original levels of those numbers. The last of these is particularly nice.
 
