@@ -13,4 +13,8 @@ Qrostar also released 3 bonus levels which were previously hosted on his website
 
 Recently created are [Jack no Puzzle](https://jackkutilek.itch.io/jack-no-puzzle) and its sequel [Jack no Puzzle . . . .](https://jackkutilek.itch.io/jack-no-puzzle-dot-dot-dot-dot)  Each contains 10 fan-made levels by Jack Kutilek written in PuzzleScript. They are on average slightly easier than the levels in Jelly no Puzzle.  These games are interesting if not quite as inspired as the original.
 
-A new game that is reminiscent of Jelly no Puzzle (though the creator actually hadn't seen it at the time) is Andy Duff's [Push Blox](https://lonelydeckchair.itch.io/push-blox) (also available on mobile).  In Push Blox you have a "pusher" rather than being able to control the jellies, and there are a few additional mechanisms introduced as the game progresses.  The puzzles are generally larger than those in Jelly no Puzzle, with similar overall difficulty. Despite being a bit less elegant than the original, it's a very good game.
+A new game that is reminiscent of Jelly no Puzzle (though the creator actually hadn't seen it at the time) is Andy Duff's [Push Blox](https://lonelydeckchair.itch.io/push-blox) (also available on mobile).  In Push Blox you have a "pusher" rather than being able to control the jellies, and there are a few additional mechanisms introduced as the game progresses.  The puzzles are generally larger than those in Jelly no Puzzle, with similar overall difficulty. Despite being a bit less elegant than the original, it's a very good game. An example level to show what it looks like:
+
+![Push Blox](PushBlox.png)
+
+
