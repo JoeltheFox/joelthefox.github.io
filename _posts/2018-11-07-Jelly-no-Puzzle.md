@@ -15,6 +15,6 @@ Recently created are [Jack no Puzzle](https://jackkutilek.itch.io/jack-no-puzzle
 
 A new game that is reminiscent of Jelly no Puzzle (though the creator actually hadn't seen it at the time) is Andy Duff's [Push Blox](https://lonelydeckchair.itch.io/push-blox) (also available on mobile).  In Push Blox you have a "pusher" rather than being able to control the jellies, and there are a few additional mechanisms introduced as the game progresses.  The puzzles are generally larger than those in Jelly no Puzzle, with similar overall difficulty. Despite being a bit less elegant than the original, it's a very good game. An example level to show what it looks like:
 
-![Push Blox](PushBlox.png)
+![Push Blox](https://github.com/JoeltheFox/joelthefox.github.io/blob/master/PushBlox.png)
 
 
