@@ -10,19 +10,19 @@ I made two puzzle games with [Mike Gelbart](https://www.mikegelbart.com/), Line 
 ![Herding Hero](https://joelthefox.github.io/img/herdingheroscreen.jpg "An early level of Herding Hero")
 
 Getting all the goats into the bottom left pen in this early level of Herding Hero is harder than it looks!
-
+&NewLine;
 
 In [Line of Sight](https://joel-fox.itch.io/line-of-sight), certain objects called *towers* are satisfied only if they see other towers in a straight, unobstructed line.  It's more of a sokoban-like game than Herding Hero, in that a lot of it is about pushing objects into the right positions, in the right sequence.  Unlike other sokoban games, the end state that you would like to achieve is not always clear (all towers might be satisfied in a number of possible arrangements), and will take some deduction.
 
 ![Line of Sight](https://joelthefox.github.io/img/LoSscreen.png "Level 3 of Line of Sight")
 
 The blue towers in this position are satisfied because they can see eachother vertically, while the one on the bottom is unsatisfied.
-
+&NewLine;
 
 [PuzzleScript Robots](https://joel-fox.itch.io/puzzlescript-robots) is a small collection of puzzles based on the boardgame [Ricochet Robots](https://boardgamegeek.com/boardgame/51/ricochet-robots) by Alex Randolph.  It has a move counter so that you can try to solve each level in the fewest moves possible.
 
 ![PuzzleScript Robots](https://joelthefox.github.io/img/pusslescriptrobots.png "Move 6 of level 3.  I made random moves, so don't try this at home.")
-
+&NewLine;
 
 I liked Jack Lance's game [I'm too far gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11), and decided to make a slight variation based on his code.  If you also liked his game, you can give my [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) a try!
 
