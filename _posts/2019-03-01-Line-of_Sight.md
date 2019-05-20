@@ -5,7 +5,7 @@ title: My Games
 
 I made two puzzle games with [Mike Gelbart](https://www.mikegelbart.com/), Line of Sight and Herding Hero, both using the language [PuzzleScript](https://www.puzzlescript.net/).
 
-[Herding Hero](https://joel-fox.itch.io/herding-hero) is our second game and I think it benefitted from our experience making Line of Sight.  It's about being a herding dog and having to herd goats and sheep, who behave differently and all seem to start in difficult positions!  It's quite a challenging game throughout, but I hope that the levels provide enough variety to keep it enjoyable.  Afterparty is the last level and is just a fun way to end the game, no matter the player decides to stop.
+[Herding Hero](https://joel-fox.itch.io/herding-hero) is our second game and I think it benefitted from our experience making Line of Sight.  It's about being a herding dog and having to herd goats and sheep, who behave differently and all seem to start in difficult positions!  It's quite a challenging game throughout, but I hope that the levels provide enough variety to keep it enjoyable.  Afterparty is the last level and is just a fun way to end the game, no matter when the player decides to stop.
 
 ![Herding Hero](https://joelthefox.github.io/img/herdingheroscreen.jpg "An early level of Herding Hero")
 
