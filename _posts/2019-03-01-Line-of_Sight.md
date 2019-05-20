@@ -27,6 +27,6 @@ The blue towers in this position are satisfied because they can see eachother ve
 
 -----
 
-I liked Jack Lance's game [I'm too far gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11), and decided to make a slight variation based on his code.  If you also liked his game, you can give my [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) a try!
+I liked Jack Lance's game [I'm too far gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11), and decided to make a slight variation based on his code.  If you also liked his game, give my [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) a try!
 
 ![Desecration](https://joelthefox.github.io/img/descecration.png "This is a desecration")
