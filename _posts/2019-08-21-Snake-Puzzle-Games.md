@@ -37,7 +37,7 @@ The most well-known of the snake puzzle games, and for good reason. The mechanic
 ###[Snakebird Primer](http://snakebirdprimer.noumenongames.com/) by Noumenon Games
 A newer game from the makers of Snakebird that uses the same mechanics, designed as an easier version that will be accessible to many more people.  The game remains fun and charming with the simpler levels, and you would be hard-pressed to find someone that wouldn’t enjoy it.  It’s quite a bit easier than the original, so for those who have completed the original game this might not feel like it adds much. 
 
-![Snakebird primer](https://joelthefox.github.io/img/Snakebirdprimer.jpg)
+![Snakebirdprimer](https://joelthefox.github.io/img/Snakebirdprimer.jpg)
 
 -----
 
