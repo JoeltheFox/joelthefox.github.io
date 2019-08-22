@@ -211,7 +211,7 @@ Pros: More interesting graphics; original music (Lime Rick didn’t have music);
 Cons: Need an emulator; no undo button; level 26 is easier and less interesting; on my machine at least, movement was slower (brief delay between key presses).  
 In order to play I used the Fuse emulator. To get the music running, select 128k machine in the options. The controls seem to be left = O, right = P, up = Q, restart = space.  The levels are generally modified to be on a smaller grid, to make room for the more interesting graphics of each tile. Most levels turn out to have basically the same solution as in Lime Rick, with the exceptions noted above.  Although the mechanics and most levels are derived from Lime Rick, it has the blessings of Lime Rick creator Tommi Tuovinen (which I personally confirmed).
 
-Bas de Reuever had an interesting idea to expand the game, which he demonstrated in a short prototype called [Snake Escape 2](https://www.puzzlescript.net/play.html?p=c4bf7294719b246686a456cd00e89b74), but it didn’t catch.
+Bas de Reuver had an interesting idea to expand the game, which he demonstrated in a short prototype called [Snake Escape 2](https://www.puzzlescript.net/play.html?p=c4bf7294719b246686a456cd00e89b74), but it didn’t catch.
 
 ![snake escape](https://joelthefox.github.io/img/SnakeEscape.png)
 
