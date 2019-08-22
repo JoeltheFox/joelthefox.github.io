@@ -260,7 +260,7 @@ Does feel very much like a snake maze - how do I escape from this labyrinth of w
 ![snake maze](https://joelthefox.github.io/img/SnakeMaze.png)
 
 > I was thinking of different existing games and how their mechanics could be extended upon, one such game being Snake. The idea of a snake pressing buttons just came to me, and since I couldn't find any games that used this mechanic, I decided I must create it myself. I think the idea was great but I acknowledge that my sadistic level design and lacking amount of additional mechanics scares many players off.  
-> -ZilberPhoenix
+> -ZilverPhoenix
 
 -----
 
@@ -475,7 +475,7 @@ Lime Rick|Tommi Tuovinen|Aug 2013|Reach higher by stepping on tail|Medium - Hard
 Snakeoban|Wayne Myers|Oct 2013|Snake + Sokoban|Easy|10||Web
 Wriggler Demake|Ardeej|May 2014|Fan version of Wriggle|Medium|14||Web
 Quetzalcoatl|1button sarl|Nov 2014|Match colors|Easy - Hard|180|$2|iOS
-Unconventional Guns|Rectangular Tim|April 2015|Snake gun|Medium|15||Web
+Unconventional Guns|Rectangular Tim|Apr 2015|Snake gun|Medium|15||Web
 SnakePace|LogicalCell|Apr 2015|Move backwards|Medium|15||Web
 Snakebird|Noumenon Games|May 2015|Eat to grow + gravity|Hard|51|$7|All
 Snakeoban|Jack Lance|June 2015|Snake + Sokoban|Hard|23||Web
