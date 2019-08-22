@@ -449,12 +449,12 @@ Deepest and most challenging: Vertebrae
 
 Best original mechanics: Snakehole,  Tail of the Serpent,  SnakekanS
 
-Honorable Mentions: 
-Snakeoban (Jack Lance) – excellent puzzle design
-Lime Rick – combination of interesting mechanics and levels
-Wriggle 3D – great optimization puzzles, elegant
-Snake Slider – great optimization puzzles with extra mechanics
-Snakefall – excellent fan-made levels for Snakebird
+Honorable Mentions:  
+Snakeoban (Jack Lance) – excellent puzzle design  
+Lime Rick – combination of interesting mechanics and levels  
+Wriggle 3D – great optimization puzzles, elegant  
+Snake Slider – great optimization puzzles with extra mechanics  
+Snakefall – excellent fan-made levels for Snakebird  
 
 Work great for mobile / touch controls: Snake Slider,  Quetzalcoatl,  Snake’s Tale
 
