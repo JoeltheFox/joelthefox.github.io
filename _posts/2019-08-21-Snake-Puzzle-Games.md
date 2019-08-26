@@ -236,12 +236,8 @@ A neat snake game that feels like somewhat like an adventure since the levels ar
 
 ![boa](https://joelthefox.github.io/img/Boa.png)
 
------
-
-### [Crate Snake](https://steven-miller.itch.io/crate-snake) by Steven Miller
-An interesting snake game where you need to push crates onto targets (like "Snakeoban"), but here your snake can wrap around the screen (using torus topology).  Some of the puzzles are not that tight, in the sense that target squares could have been put in different locations without changing the solution too much. It’s still pretty fun though.
-
-![crate snake](https://joelthefox.github.io/img/CrateSnake.png)
+>Boa was my first puzzle game, and it often shows through odd pacing and difficulty drops.  It was created for MiniLD 63, the theme for which was to take a classic game and give it a twist.  I went with snake on a whim.  At that point, I hadn't seriously played sokoban or its variants, so the mechanics were pulled from more casual games.  As it was my first foray into the genre, it wasn't very well thought out, resulting in somewhat awkward gameplay.  
+> -Steven
 
 -----
 
@@ -249,6 +245,19 @@ An interesting snake game where you need to push crates onto targets (like "Snak
 In this game you control both a snake and a square, and the snake is used as a raft to assist the square in moving around and pushing things. Nice idea! Not too many puzzles but the later ones are good.
 
 ![snake trail](https://joelthefox.github.io/img/SnakeTrail.png)
+
+>Snake Trail was my attempt at a game where the snake increased the freedom of player movement.  I had somewhat recently played Snakebird, so I wanted to try something with snakes again, but I wasn't too fond of how restrictive the snake character is.  Instead of having the snake segments clutter the movement space, I made it part of the movement space.  
+> -Steven
+
+-----
+
+### [Crate Snake](https://steven-miller.itch.io/crate-snake) by Steven Miller
+An interesting snake game where you need to push crates onto targets (like "Snakeoban"), but here your snake can wrap around the screen (using torus topology).  Some of the puzzles are not that tight, in the sense that target squares could have been put in different locations without changing the solution too much. It’s still pretty fun though.
+
+![crate snake](https://joelthefox.github.io/img/CrateSnake.png)
+
+>The next snake game I worked on was Crate Snake.  At the time, I was experimenting a lot with different movement mechanics, one of which was screen wrapping.  The idea was to have the character's length restrict movement but have the screen wrapping compensate by allowing more ways to avoid getting stuck.  I was unhappy with the result and I actually abandoned the project for a while despite it being almost done.  I released it almost 6 months later for the Finally Finish Something jam nearly unchanged.  
+> -Steven
 
 These three games above were made by Steven Miller, whose best game I think is [Vampire Garden](https://steven-miller.itch.io/vampire-garden), a fantastic, deep puzzle game that has nothing to do with snakes.  He also made another game called Snake Blocks that I am not reviewing only because he has a major overhaul planned.  I expect it will be very good!
 
@@ -426,7 +435,7 @@ Quetzalcoatl is an iOS game that draws on the original Wriggle mechanics, where 
 
 ### [Snake Blocks](https://store.steampowered.com/app/339320/Snake_Blocks/) by Spooky Cat
 
-Snake Blocks is a game about connecting pairs of colored points in 3D space, where one point is the start of that color of snake and the other point is its destination.  This is like a 3D version of the familiar 2D pen and paper puzzle – connect pairs of points using lines without crossing.  The 3D snakes can support themselves in the air (as long as any part of it is touching the ground), meaning that the order in which you draw out the snakes doesn’t matter. I think it might have been more interesting if it worked similar to Lime Rick, where every segment of a snake needs to be supported against gravity.  There is an added constraint that each snake can only grow to a certain maximum length.  It can be a bit tough to get the snakes to go exactly where you want them to using the cursor controls, but I didn’t find it too annoying.  The puzzles provide a good exercise in thinking in three dimensions, and can be fun but at times also has a bit too much trial-and-error.
+Snake Blocks is a game about connecting pairs of colored points in 3D space, where one point is the start of that color of snake and the other point is its destination.  This is like a 3D version of the familiar 2D pen and paper puzzle – connect pairs of points using lines without crossing.  The 3D snakes can support themselves in the air (as long as any part of it is touching the ground), meaning that the order in which you draw out the snakes doesn’t matter. I think it might have been more interesting if it worked similar to Lime Rick, where every segment of a snake needs to be supported against gravity.  There is an added constraint that each snake can only grow to a certain maximum length.  It can be a bit tough to get the snakes to go exactly where you want them to using the cursor controls, but I didn’t find it too annoying.  The puzzles provide a good exercise in thinking in three dimensions, and can be fun but at times also have a bit too much trial-and-error.
 
 ![SnakeBlocks](https://joelthefox.github.io/img/SnakeBlocks.jpg)
 
