@@ -3,7 +3,7 @@ layout: post
 title: Snake Puzzle Games
 ---
 
-Here lies a list of all the snake-themed puzzle games that I was able to find, complete with descriptions, pictures, and a few awards.  The order in which they appear is roughly the order that I finished playing them in.  The purpose of this article
+Here is a list of all the snake-themed puzzle games that I was able to find, complete with descriptions, pictures, and a few awards.  The order in which they appear is roughly the order that I finished playing them in.  The purpose of this article
 
 -----
 
@@ -144,7 +144,7 @@ Similar mechanics to the early levels in Jack Lance’s game, but the puzzles he
 -----
 
 ### [Sokoboros](https://trevnewt.itch.io/sokoboros) by Trevor Newton
-A short game about sitting over pressure plates to open doors, and growing your snake ever longer in order to do so.  Has a few easy puzzles and a few fun ones, and overall is very charming!
+A short, continuous game about growing from a baby snake into one of legendary size.  You'll be sitting over pressure plates to open doors, and growing your snake ever longer by eating fruit.  Has a few easy puzzles and a few more involved ones by the end, and overall is very charming!
 
 ![sokoboros](https://joelthefox.github.io/img/Sokoboros.png)
 
