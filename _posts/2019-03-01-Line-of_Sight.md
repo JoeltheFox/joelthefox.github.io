@@ -23,10 +23,10 @@ The blue towers in this position are satisfied because they can see eachother ve
 
 I have made a few difficult fan-levels for various games:
 
-[Temple](https://wolfesoftware.com/snakefall/#level=HyRr4JK1&20&40?*b1*A0*31*D0110*32*40111*70*3201102*102*I02*10201102022202*30*02*70202220201102024202*I0202420201100020002*401*902000200011000*12*30*02*70*1200011*Y0*01*W0*01*U0*21*U0*21*U0*21*U0*21*V0*11*202*O0*11*202*N0*212*102*N0*81222*410*510*j1/f25?325/f26?483/f27?526/f10?569/f0?652/s4?705/f8?670/f11?550/f6?220/f12?258/f1?196/f4?238/f2?665/b3?612/b4?625/f3?255/f5?138/), built in the [Snakefall](https://github.com/thejoshwolfe/snakefall/wiki) editor for [Snakebird](https://snakebird.noumenongames.com/) . 
-A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler) . 
-A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) for Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole) . 
-A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11) . 
+[Temple](https://wolfesoftware.com/snakefall/#level=HyRr4JK1&20&40?*b1*A0*31*D0110*32*40111*70*3201102*102*I02*10201102022202*30*02*70202220201102024202*I0202420201100020002*401*902000200011000*12*30*02*70*1200011*Y0*01*W0*01*U0*21*U0*21*U0*21*U0*21*V0*11*202*O0*11*202*N0*212*102*N0*81222*410*510*j1/f25?325/f26?483/f27?526/f10?569/f0?652/s4?705/f8?670/f11?550/f6?220/f12?258/f1?196/f4?238/f2?665/b3?612/b4?625/f3?255/f5?138/), built in the [Snakefall](https://github.com/thejoshwolfe/snakefall/wiki) editor for [Snakebird](https://snakebird.noumenongames.com/).   
+A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler).  
+A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) for Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole).  
+A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11).  
 I also made some contributions to Ali Nikkhah's masterpiece [Vertebrae](https://draxes.itch.io/vertebrae)
 
 -----
