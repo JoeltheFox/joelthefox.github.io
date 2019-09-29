@@ -34,9 +34,3 @@ I also made some contributions to Ali Nikkhah's masterpiece [Vertebrae](https://
 [PuzzleScript Robots](https://joel-fox.itch.io/puzzlescript-robots) is a small collection of puzzles based on the boardgame [Ricochet Robots](https://boardgamegeek.com/boardgame/51/ricochet-robots) by Alex Randolph.  It has a move counter so that you can try to solve each level in the fewest moves possible.
 
 ![PuzzleScript Robots](https://joelthefox.github.io/img/pusslescriptrobots.png "Move 6 of level 3.  I made random moves, so don't try this at home.")  
-
------
-
-I liked Jack Lance's game [I'm too far gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11), and decided to make a slight variation based on his code.  If you also liked his game, give my [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) a try!
-
-![Desecration](https://joelthefox.github.io/img/descecration.png "This is a desecration")
