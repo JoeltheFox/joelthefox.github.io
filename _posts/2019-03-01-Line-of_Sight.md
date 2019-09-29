@@ -13,7 +13,7 @@ Getting all the goats into the bottom left pen in this early level of Herding He
 
 -----
 
-In [Line of Sight](https://joel-fox.itch.io/line-of-sight), certain *towers* are satisfied only if they see other towers in a straight, unobstructed line.  It's more of a sokoban-like game than Herding Hero, in that a lot of it is about pushing objects into the right positions, in the right sequence.  Unlike other sokoban games, the end state that you would like to achieve is not always clear (all towers might be satisfied in a number of possible arrangements), and will take some deduction.
+In [Line of Sight](https://joel-fox.itch.io/line-of-sight), movable *towers* are satisfied only if they see other towers in a straight, unobstructed line.  It's more of a sokoban-like game than Herding Hero, in that a lot of it is about pushing objects into the right positions, in the right sequence.  Unlike other sokoban games, the end state that you would like to achieve is not always clear (all towers might be satisfied in a number of possible arrangements), and will take some deduction.
 
 ![Line of Sight](https://joelthefox.github.io/img/LoSscreen.png "Level 3 of Line of Sight")
 
