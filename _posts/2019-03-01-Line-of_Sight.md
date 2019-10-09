@@ -27,7 +27,8 @@ I have made a few difficult fan-levels for various games:
 A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler).  
 A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) for Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole).  
 A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11).  
-I also made some contributions to Ali Nikkhah's masterpiece [Vertebrae](https://draxes.itch.io/vertebrae)
+I made some contributions to Ali Nikkhah's masterpiece [Vertebrae](https://draxes.itch.io/vertebrae)  
+I explored a variant of Draknek and Corey Martin's [game](http://www.draknek.org/games/puzzlescript/create-blocks.php), which was mostly a disaster (my modification, not their fun game), but I did manage to make one [acceptable puzzle](https://www.puzzlescript.net/play.html?p=d1a5dd20da06233120ecd56380c5f14a).
 
 -----
 
