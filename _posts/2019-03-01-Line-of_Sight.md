@@ -28,7 +28,7 @@ A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa67755254852
 A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) for Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole)  
 A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11)  
 I made some contributions to Ali Nikkhah's masterpiece [Vertebrae](https://draxes.itch.io/vertebrae)  
-The last area of [What Gophers Go For](https://what-gophers-go-for.github.io/)
+The last level of [What Gophers Go For](https://what-gophers-go-for.github.io/)
 
 -----
 
