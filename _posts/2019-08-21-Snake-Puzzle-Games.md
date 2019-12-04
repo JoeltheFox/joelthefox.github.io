@@ -3,7 +3,7 @@ layout: post
 title: Snake Puzzle Games
 ---
 
-Here is a list of all the snake-themed puzzle games that I was able to find, complete with descriptions, pictures, and a few awards.  The order in which they appear is roughly the order that I completed them in.  The purpose of this article
+Here is a collection of all the snake-themed puzzle games that I was able to find, complete with descriptions, pictures, and a few awards.  The order in which they appear is roughly the order that I finished them in.  The purpose of this article
 
 -----
 
@@ -156,7 +156,7 @@ A short, continuous game about growing from a baby snake into one of legendary s
 -----
 
 ### [Dotsnake](https://www.puzzlescript.net/play.html?p=6642bf1b37f18bf77e75) by Franklin Dyer
-This game is like Snake in that you have to eat all of the food, but your snake has infinite length so it’s all about picking everything up without retracing any steps.  The puzzles in dotsnake tend to be quite simple.  Mechanically, it’s actually identical to one of the puzzle types in [The Witness](https://store.steampowered.com/app/210970/The_Witness/).  
+This game is like Snake in that you have to eat all of the food, but your snake has infinite length so it’s all about picking everything up without retracing any steps.  The puzzles in dotsnake tend to be quite simple.  Mechanically, it’s actually identical to one of the puzzle types in [The Witness](https://store.steampowered.com/app/210970/The_Witness/). This author also made another snake-like game, [Jormungandr](https://www.puzzlescript.net/play.html?p=ed5bfb43b4ff8d3ab73ad8e88bf7522d), but it was abandoned as a work-in-progress and is not possible to finish. The idea in Jormungadr is that your mythical serpent can cross the sea to visit other islands but only in a straight line.
 
 ![dotsnake](https://joelthefox.github.io/img/Dotsnake.png)
 
@@ -451,6 +451,28 @@ In SNIKS, like in Quetzalcaotl, the goal is to have each colored square (here re
 
 -----
 
+### [Snake Sokoban Spiral](https://ssstormy.itch.io/snake-sokoban-spiral) by Justas Dabrila
+
+Snake Sokoban Spiral is similar to Tail of the Serpent in that the goal is to match snake segments to symbols on the ground. One idea added in this game is that segments get stuck to their ground markers for 1 turn, which allows for rearranging segments but can also make things trickier. The next addition is the "roll" move, which works somewhat how you'd expect it to and definitely shakes things up. A short game with new ideas, interesting levels, and also some rough edges.
+
+![SSS](https://joelthefox.github.io/img/SSS.png)
+
+>Around the time of development I was frequently deconstructing various puzzle games and taking note of the individual actors, their states and the rules between them. It was fun to paper prototype games with a small amount of actors that maximize the state they can be in.  
+>LD45 was starting. It was around 1 in the morning. The theme was "Start With Nothing" and nothing exciting came to mind for a few hours. I recalled seeing a game by Lucas Le Slo titled "The Tail of the Serpent" on a stream a while ago. Feeling defeated, I attempted to sleep on the idea of making a snake game. It wasn't long before I started thinking of a design that had more actor states than actors.  
+>Instead of sleeping, I booted up my editor and messed up my sleep for the rest of the jam. I think it very clearly shows: Some of the levels have unintended solutions. The difficulty curve at the very start has a very unwelcome spike. I even neglected to think that the snake pieces should mirror their direction after being rolled!  
+>For the 48 hours it took me, I was happy with the game when I had called it done. Now having all this behind me, I can't help but be reminded of Chris Hecker's "Please Finish Your Game" rant from GDC 2010.  
+>-Justas Dabrila
+
+-----
+
+### [ENIGMASH](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c) by Jack Lance
+
+ENIGMASH is the Frankenstein's monster of puzzle games. Patching together different puzzle themes within individual puzzles, and then connecting those puzzles together in a single world, it's a marvel of PuzzleScript code and puzzle design. Whether Snakes appear in it is unknown. Perhaps I am including a game *without* snakes so that the next time I add a game with surprise snakes to my snake article, nobody will see it coming.
+
+![ENIGMASH](https://joelthefox.github.io/img/ENIGMASH.png)
+
+-----
+
 
 # Awards
 
@@ -516,13 +538,15 @@ Snakeshit|Dario Zubović|July 2018|Snakebird with excrement|Medium|6||Web
 Shitstain|Dario Zubović|July 2018|Snakebird with levitating excrement|Medium|2||Web
 Blocker Snake|Rosden Shadow|Sep 2018|Even more blocking|Easy - Medium|6||Web
 Circle Serpent|EvilArtBunny|Nov 2018|Return to your tail|Easy|19||Web
-Sokoboros|Trev Newt|Jan 2019|Keep growing!|Easy - Medium|1?||Web
+Sokoboros|Trev Newt|Jan 2019|Keep growing!|Easy - Medium|N//A||Web
 Snakehole|Jack Kutilek|Feb 2019|Snakes can enter holes|Medium|8||Web
 Snakebird Primer|Noumenon Games|Feb 2019|Easier version of Snakebird|Easy - Medium|76|$8|Win/Mac/Linux
 Tail of the Serpent|Le Slo|Apr 2019|Match symbols on ground|Medium|25||Web
 Train Snaking|Dario Zubović|May 2019|Deliver passengers safely|Medium|9||Web
 Snakey Snakey makes a Sixy|Increpare|June 2019|Mystery|Easy|1||Web
 SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
+Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
+ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N//A||Web
 
 -----
 
@@ -532,8 +556,9 @@ SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
 [Boa Bonanza](https://boabonanza.com/)  
 [Snake Blocks](https://steven-miller.itch.io/snake-blocks) (awaiting revision)  
 [Sausage Dog Tends to Infinity](https://itch.io/t/136400/sausage-dog-tends-to-infinity-3d-puzzle-game)  
- [Sushi Snake](https://benjamindav.is/sushisnake/) was published but ran into compatibility issues that are being worked on.  
-[The original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) which used defunct java applets are currently being updated to HTML5
+[Sushi Snake](https://benjamindav.is/sushisnake/) was published but ran into compatibility issues that are being worked on.  
+[The original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) which used defunct java applets are currently being updated to HTML5  
+[Kukulcan](http://www.black-spoon.com/)
 
 -----
 
@@ -566,6 +591,8 @@ There are some games that used the same mechanics as Snakebird or Wriggle withou
 
 Almost a puzzle is [Chnakess](https://hempuli.itch.io/chnakess), a snake + chess combination where you try to eat all the chess pieces.  The pieces will escape your bite if they can move without being blocked by your tail, and if they have multiple options they choose somewhat arbitrarily. This makes it feel slightly more like an arcade game than a puzzle, but it’s worth checking out.
 
+[Slime Path](https://siivergoid.itch.io/slime-path) is a game about slimes which probably would have made it if it had snake graphics. You control multiple slimes that act like infinite snakes, with some added mechanics like lock & keys, and you need to get all slimes to their exits.
+
 [Snackzzle](https://egordorichev.itch.io/snackzzle) technically fits but has some issues with arbitrary lock-key combinations, no undo, and uninteresting puzzles, so I didn’t include it.
 
 Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest of the mechanics are different from snake games:  
@@ -590,6 +617,8 @@ Also omitted (due to both fundamental differences and my lack of experience) are
 [Erich Friedman’s chess snake puzzles](https://www2.stetson.edu/~efriedma/puzzle/snake/) - the extra information is in the form of chess pieces!  
 [Para’s Puzzle Site](https://puzzleparasite.blogspot.com/search?q=snake) (link is to search results for their snake puzzles).
 
+There's a type of physical puzzle called a snake cube, where you have a long string connecting small 1x1 cubes together in a snake-like shape, and you need to turn the snake into a 3x3 or 4x4 cube. I had one of these to practice on when I was younger, and would pretend that I hadn't seen them before and then solve it in 2 seconds.
+
 -----
 
 
@@ -606,4 +635,4 @@ I didn’t want to spoil the mechanics of Vertebrae too much in my description o
 Wriggle 3D and Snake Slider have nice puzzles that are made more challenging by asking for the optimal solution.  Many puzzle solvers find this a cheap way to increase difficulty, since it could be added to any grid-based puzzle out there, and usually will not make it more interesting, just more time consuming.  This criticism is often accurate, but in certain types of puzzles it actually becomes more interesting having to find the shortest solution.  This is true in the great board game [Ricochet Robots](https://boardgamegeek.com/boardgame/51/ricochet-robots), and I would argue also in these two snake games, though I still don’t think they will be for everyone.  Trying to find the shortest solution can be frustrating, since it’s often not clear what part of the solution you need to improve.  In a more traditional puzzle, the challenge of the puzzle is presented clearly to the solver; the most satisfying puzzles are often ones that immediately evoke a “this is surely impossible.”  But in finding an optimal solution, you are not given the problem up front, and have to *find* the problem first of all.  Is there a part of your solution that could be improved? Is there an entirely different approach that might work better?  This can be good and bad.  In the best case, it is exciting to discover an elegant tactic where you didn’t think one existed, or a completely new way to solve the puzzle.  It can also be exhilarating playing out a new solution idea, and seeing as you get closer to the finish whether you’ll make it in the lowest number of moves.  In the worst case the solver must resort to brute force, checking all reasonable combinations of moves until stumbling upon the shortest sequence.  This unfortunate event is often caused by a lack of ‘understandability’ of the puzzle, so to speak.  The more intuitive or conceptual tools a solver has, the less trial and error they will need to use.  I was quite impressed with the two games mentioned here, whose puzzles keep the solver engaged and thinking conceptually, while searching for the optimal solutions.  There is something oddly satisfying about maneuvering snakes efficiently.
 
 
-As a final note, I will aim to answer the age-old question: Can a snake move into its own tail?  The answer, as given by the applicable games above, is no! (by a count of 14 to 8)  I do suspect though that part of this is due to the nuisance of programming it. Interestingly, in Snakebird there is a [bug](https://twitter.com/nohatcoder/status/621282209224368128) whereby a snake cannot normally move into its tail, but it *can* move another object into its tail.  The reverse situation is present in Snake Slider, where a snake can normally move into its tail, but *cannot* push a different object into its tail.
+As a final note, I will aim to answer the age-old question: Can a snake move into its own tail?  The answer, as given by the applicable games above, is no! (by a count of 16 to 8)  I do suspect that part of this is due to the slight nuisance of programming it. Interestingly, in Snakebird there is a [bug](https://twitter.com/nohatcoder/status/621282209224368128) whereby a snake cannot normally move into its tail, but it *can* move another object into its tail.  The reverse situation is present in Snake Slider, where a snake can normally move into its tail, but *cannot* push a different object into its tail.
