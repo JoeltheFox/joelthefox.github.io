@@ -538,7 +538,7 @@ Snakeshit|Dario Zubović|July 2018|Snakebird with excrement|Medium|6||Web
 Shitstain|Dario Zubović|July 2018|Snakebird with levitating excrement|Medium|2||Web
 Blocker Snake|Rosden Shadow|Sep 2018|Even more blocking|Easy - Medium|6||Web
 Circle Serpent|EvilArtBunny|Nov 2018|Return to your tail|Easy|19||Web
-Sokoboros|Trev Newt|Jan 2019|Keep growing!|Easy - Medium|N//A||Web
+Sokoboros|Trev Newt|Jan 2019|Keep growing!|Easy - Medium|N/A||Web
 Snakehole|Jack Kutilek|Feb 2019|Snakes can enter holes|Medium|8||Web
 Snakebird Primer|Noumenon Games|Feb 2019|Easier version of Snakebird|Easy - Medium|76|$8|Win/Mac/Linux
 Tail of the Serpent|Le Slo|Apr 2019|Match symbols on ground|Medium|25||Web
@@ -546,7 +546,7 @@ Train Snaking|Dario Zubović|May 2019|Deliver passengers safely|Medium|9||Web
 Snakey Snakey makes a Sixy|Increpare|June 2019|Mystery|Easy|1||Web
 SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
-ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N//A||Web
+ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 
 -----
 
