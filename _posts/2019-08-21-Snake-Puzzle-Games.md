@@ -156,7 +156,7 @@ A short, continuous game about growing from a baby snake into one of legendary s
 -----
 
 ### [Dotsnake](https://www.puzzlescript.net/play.html?p=6642bf1b37f18bf77e75) by Franklin Dyer
-This game is like Snake in that you have to eat all of the food, but your snake has infinite length so it’s all about picking everything up without retracing any steps.  The puzzles in dotsnake tend to be quite simple.  Mechanically, it’s actually identical to one of the puzzle types in [The Witness](https://store.steampowered.com/app/210970/The_Witness/). This author also made another snake-like game, [Jormungandr](https://www.puzzlescript.net/play.html?p=ed5bfb43b4ff8d3ab73ad8e88bf7522d), but it was abandoned as a work-in-progress and is not possible to finish. The idea in Jormungadr is that your mythical serpent can cross the sea to visit other islands but only in a straight line.
+This game is like Snake in that you have to eat all of the food, but your snake has infinite length so it’s all about picking everything up without retracing any steps.  The puzzles in dotsnake tend to be quite simple.  Mechanically, it’s actually identical to one of the puzzle types in [The Witness](https://store.steampowered.com/app/210970/The_Witness/). This author also made another snake-like game, [Jormungandr](https://www.puzzlescript.net/play.html?p=83015ef216bfdc4ca86bbc9f44b254fa), but it was abandoned in an unsolvable state. The idea in Jormungadr is that your mythical serpent can cross the sea to visit other islands, but only in a straight line. In the link provided, I added one land tile so that the game can be completed.
 
 ![dotsnake](https://joelthefox.github.io/img/Dotsnake.png)
 
