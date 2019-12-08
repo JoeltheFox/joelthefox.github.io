@@ -512,7 +512,7 @@ Unconventional Guns|Rectangular Tim|Apr 2015|Snake gun|Medium|15||Web
 SnakePace|LogicalCell|Apr 2015|Move backwards|Medium|15||Web
 Snakebird|Noumenon Games|May 2015|Eat to grow + gravity|Hard|51|$7|All
 Snakeoban|Jack Lance|June 2015|Snake + Sokoban|Hard|23||Web
-Snakefall|Josh Wolfe|July 2015|Fan version of Snakebird|Very Hard|58||Web
+Snakefall|Josh Wolfe|July 2015|Fan version of Snakebird|Hard - Very Hard|58||Web
 Snakebird fan edition|NohatCoder|July 2015|Fan version of Snakebird|Hard|6||Web
 Avis Anguis|Terzalo|July 2015|Fan version of Snakebird|Hard|6||Web
 Lime Richard|Richard Dyer|Sept 2015|Fan version of Lime Rick|Easy - Medium|10||Web
