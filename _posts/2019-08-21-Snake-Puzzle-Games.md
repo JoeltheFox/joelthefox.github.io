@@ -317,7 +317,7 @@ A more snake-like variation of [Cosmic Express](https://cosmicexpressgame.com/).
 -----
 
 ### [Puzzle Snake](http://www.kpym.com/puzzle-snake/) by Kroum Grigorov
-An old (2006) game with basic rules: red dots make you grow, try to eat them all and reach the exit door.  It has about a dozen levels, and the puzzles work but are not that exciting. This is the oldest game on the list! (though only because the original Wriggle puzzles are currently out of commission)
+An old (2006) game with basic rules: red dots make you grow, try to eat them all and reach the exit door.  It has eight levels, and the puzzles work but are not that exciting. This is the oldest game on the list! (though only because the original Wriggle puzzles are currently out of commission)
 
 ![puzzle snake](https://joelthefox.github.io/img/PuzzleSnake.png)
 
@@ -500,7 +500,7 @@ Most humorous: Trifecta of snake games by Dario Zubović (SnakeShit, ShitStain, 
 
 Game|Author|Published|Description|Difficulty|Num levels|Price|Platform
 ---|---|---|---|---|---|---|---
-Puzzle Snake|Kroum Grigorov|July 2006|Eat and exit|Easy - Medium|12||Web
+Puzzle Snake|Kroum Grigorov|July 2006|Eat and exit|Easy - Medium|8||Web
 Wriggle 3D|Andrea Gilbert, Tom Jolly|Sept 2009|Reach exit in optimal moves|Easy - Very Hard|80||Mac OS
 Snake Slider|Bas de Reuver|July 2011|Reach exit in optimal moves|Medium - Very Hard|75||Web
 Filler Snake|Jaberish|Mar 2013|Fill all squares|Medium|31||Web
