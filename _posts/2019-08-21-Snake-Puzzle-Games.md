@@ -623,6 +623,8 @@ Puzzle games where snakes are your enemies:
 
 [The Serpent’s Shadow](https://nusan.itch.io/the-serpents-shadow) has an interesting mechanic, which is that you need to shade an area of ground from a light source using your snake’s body.  The puzzles are not particularly deep though and there is a small real-time element.
 
+[Snake Pass](http://www.snake-pass.com/) is a snake game that has puzzle elements, but is overall more of an adventure game.
+
 Also omitted (due to both fundamental differences and my lack of experience) are the Pen and Paper snake puzzles.  Snakes in these logic puzzles tend to be contiguous groups of tiles whose shape has width 1 all along its length, and is bordered by empty tiles (ie the snake doesn’t touch itself).  The solver is tasked with finding the exact shape of the snake given certain information, such as numbers on rows and columns defining how many snake segments are present in that row or column.  Puzzle creators play around with what type of information to give, to keep things interesting.  I haven’t gone through enough of these puzzles to make recommendations, but here are some resources I found:
 
 [GMpuzzles snake collection](https://www.gmpuzzles.com/blog/category/loop/snake/)  
