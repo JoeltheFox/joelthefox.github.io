@@ -547,6 +547,7 @@ Snakey Snakey makes a Sixy|Increpare|June 2019|Mystery|Easy|1||Web
 SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
+Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32|Web
 
 -----
 
