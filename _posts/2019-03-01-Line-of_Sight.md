@@ -17,7 +17,7 @@ A few small contributions to Andy Duff's Push Blox 2, including a variant of the
 
 A half-original game is my Weird Bug. The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun exerpiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn. [My version](https://www.puzzlescript.net/play.html?p=17db830ed0a1d55310459de11ab1feff) is a complete game based on the original. I will soon add a level selector and put it on itch.io  
 
-![Weird Bug](https://joelthefox.github.io/img/WeirdBug.png "The first gem level in Weird Bug")
+![Weird Bug](https://joelthefox.github.io/img/WeirdBug.png "The first gem level in Weird Bug")  
 What does this shiny gem do?
 
 -----
