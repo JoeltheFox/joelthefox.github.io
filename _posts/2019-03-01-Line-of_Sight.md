@@ -24,7 +24,7 @@ What does this shiny gem do?
 
 I made two puzzle games with [Mike Gelbart](https://www.mikegelbart.com/), Line of Sight and Herding Hero, both using the language [PuzzleScript](https://www.puzzlescript.net/).
 
-[Herding Hero](https://joel-fox.itch.io/herding-hero) is our second game and I think the better of the two.  It's about being a herding dog and having to herd goats and sheep, who behave differently and all seem to start in difficult positions!  It's quite a challenging game throughout, but I hope that the levels provide enough variety to keep it enjoyable.  
+[Herding Hero](https://joel-fox.itch.io/herding-hero) is our second game and I think the better of the two.  It's about being a herding dog and having to herd goats and sheep, who behave differently and all seem to start in difficult positions.  It's quite a challenging game throughout, but I hope that the levels provide enough variety to keep it enjoyable.  
 
 ![Herding Hero](https://joelthefox.github.io/img/herdingheroscreen.jpg "An early level of Herding Hero")  
 Getting all the goats into the bottom left pen in this early level of Herding Hero is harder than it looks!  
