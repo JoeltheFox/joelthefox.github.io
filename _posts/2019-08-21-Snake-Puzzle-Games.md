@@ -598,6 +598,7 @@ Alcazar was the most popular implementation of this type of puzzle game, but is 
 [Snakes and Apples](https://apps.apple.com/us/app/snakes-and-apples/id655078064) adds apples to pick up in a specified order.  
 [Fill the world with your rainbow](https://mozz.itch.io/fill-the-world-with-your-rainbow) adds blocks to push around (though it’s a very short game).  
 [Mochi Mochi Boy](https://store.steampowered.com/app/932290/Mochi_Mochi_Boy/) defies description.  
+[Snek Konnect](https://nora-sellisa.itch.io/snek-konnekt) has a snake but no added mechanics.  
 
 There are some games that used the same mechanics as Snakebird or Wriggle without mentioning their inspiration, and without new ideas. With Snakebird it seems very likely that the mechanics were copied, while with Wriggle it’s possible that other developers just hadn’t known about it. [Too Many Snakes](http://www.whalefoodgames.com/too-many-snakes), [TruPuzzle](https://apps.apple.com/us/app/trupuzzle/id430437507), and [Twisted Snake]( https://apps.apple.com/us/app/twisted-snake/id840047572) have the same mechanics as Wriggle, but came after Wriggle did.
 
@@ -608,6 +609,8 @@ Almost a puzzle is [Chnakess](https://hempuli.itch.io/chnakess), a snake + chess
 [Slime Path](https://siivergoid.itch.io/slime-path) is a game about slimes which probably would have made it if it had snake graphics. You control multiple slimes that act like infinite snakes, with some added mechanics like lock & keys, and you need to get all slimes to their exits.
 
 [Snackzzle](https://egordorichev.itch.io/snackzzle) technically fits but has some issues with arbitrary lock-key combinations, no undo, and uninteresting puzzles, so I didn’t include it.
+
+[Getting Long](https://zeantwan.itch.io/getting-long) is a snake game disguised as a cute dog game. You need to eat all the crumpets without getting hit by a snail or spikes. Quite short and only a couple of real puzzles.  
 
 Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest of the mechanics are different from snake games:  
 [Statues](https://rosden.itch.io/statues)  
