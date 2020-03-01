@@ -612,6 +612,8 @@ Almost a puzzle is [Chnakess](https://hempuli.itch.io/chnakess), a snake + chess
 
 [Getting Long](https://zeantwan.itch.io/getting-long) is a snake game disguised as a cute dog game. You need to eat all the crumpets without getting hit by a snail or spikes. Quite short and only a couple of real puzzles.  
 
+[One Level](https://dario-zubovic.itch.io/one-level) by Dario Zubović has a single snake puzzle, and he made an [Alternate Snake Level](https://dario-zubovic.github.io/PuzzleScript/play.html?p=b7566d59583508dcc266f60ad7682c6c) as well.  
+
 Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest of the mechanics are different from snake games:  
 [Statues](https://rosden.itch.io/statues)  
 [Electric Wire](https://rosden.itch.io/electricwire)  
