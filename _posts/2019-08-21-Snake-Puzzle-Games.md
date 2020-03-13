@@ -182,6 +182,8 @@ A snake game where the main difficulty is restricted controls. Rather than being
 ### [Lime Rick](http://www.kongregate.com/games/kissmaj7/lime-rick) by Tommi Tuovinen
 An interesting snake game with gravity, where you need to eat all the apples but your snake grows with every move, not only after consuming fruit.  The most common maneuver is to climb on your own body to reach greater heights, but there’s a lot more to it than that.  It’s a longer game with many interesting levels, and adds two mechanics as the game progresses: locks and keys, and one that you might guess but I won’t reveal.
 
+There is a PuzzleScript [implementation](https://www.puzzlescript.net/play.html?p=6873930) of the first 10 levels, and there is also a fan level of Lime Rick at the end of [Simple Block Plagiarism Game](https://www.puzzlescript.net/play.html?p=5845220714269bdec8777532dfd943c6), which changes one mechanic slightly.
+
 ![lime rick](https://joelthefox.github.io/img/LimeRick.png)
 
 > Lime Rick is actually pretty much an improved remake of my older game "I
@@ -561,6 +563,8 @@ SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
+Bottom Feeder|Zachary Abel|Feb 2020|Eat with your tail|Hard|11||Web
+Puddle Knights|LockPickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|PC/Mac
 
 -----
 
