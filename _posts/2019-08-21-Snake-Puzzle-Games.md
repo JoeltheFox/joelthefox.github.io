@@ -563,7 +563,7 @@ SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
-Bottom Feeder|Zachary Abel|Feb 2020|Eat with your tail|Hard|11||Web
+Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard|11||Web
 Puddle Knights|LockPickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|PC/Mac
 
 -----
