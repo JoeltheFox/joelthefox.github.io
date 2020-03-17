@@ -504,7 +504,7 @@ It is unfortunate that snakes hold a reputation of being scary, menacing creatur
 
 -----
 
-### [Puddle Knights](http://www.lockpickle.com/) by LockPickle
+### [Puddle Knights](http://www.lockpickle.com/) by Lockpickle
 
 Riddle me this: what creature slithers like a snake in the morning, walks upright at noon, and when put in a barrel makes the barrel heavier? The answer of course is the unlikely Puddle Knight, whose cape trails behind him, snaking along the ground so that a bishop or lady may reach their exit unbesmirched. Aside from inspiring gratitude for modern-day drainage systems, this game brings to us an excellent puzzle solving experience.
 
