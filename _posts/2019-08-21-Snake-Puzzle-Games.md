@@ -488,6 +488,36 @@ Snakey Jakey is a snake that doesn’t like to follow the rules of physics. In S
 
 -----
 
+### [Bottom Feeder](https://zacharyabel.itch.io/bottomfeeder) by Zach Abel
+
+Bottom Feeder is a wonderful PuzzleScript game that explores an innocuous sounding twist on snakeoban: you move around like normal with your head, but can only eat from your tail. The way this works is when your tail comes into contact with a food pellet, it will gobble it up and move a space in that direction. The implications of this rule are quite interesting and are explored in the first few levels, while the later levels provide masterfully crafted snake challenges.
+
+![bottomfeeder](https://joelthefox.github.io/img/BottomFeeder.png)
+
+>As an excuse to experiment with Puzzlescript, I set out to make a short, narrowly focused game by adding a tiny spin on an otherwise familiar mechanic. A few rejected snakey prototypes later, and Bottom Feeder started taking shape! My first three level ideas (which eventually became 1/9, 3/9, and 7/9) all related to some form of pellet avoidance, so targets arose naturally to balance an otherwise one-sided "eat all the things!" feel.  
+>In retrospect, the way snakes reform front-to-back in Jack Lance's ENIGMASH partly inspired Bottom Feeder's "eat from your tail" mechanic.  
+>Stylistically inspired by Jack Kutilek's Snakehole, I experimented with levels that explored their key idea from multiple perspectives and/or with multiple "aha"s, instead of always splitting individual insights into separate levels. And some of the puzzles are better for it! For example, Level 6/9 benefits from breadth (no spoilers!): it features several loosely-dependent challenges that all relate to the same central premise, instead of needing to laboriously duplicate the basic setup multiple times. Level 8/9 explores depth: a single task that gets revisited multiple times as successive layers of nuance reveal themselves. Both seem to provide a clear sense of progress, so I like how they turned out!  
+>Unfortunately, Level 1/9 doesn't seem to offer that same assurance of partial progress. And especially given its early placement, it would benefit by being split into (or at least prefaced by) a more welcoming, multi-level intro sequence. I hope to revisit this eventually!
+>-Zach Abel
+
+-----
+
+### [Puddle Knights](http://www.lockpickle.com/) by LockPickle
+
+Riddle me this: what creature slithers like a snake in the morning, walks upright at noon, and when put in a barrel makes the barrel heavier? The answer of course is the unlikely Puddle Knight, whose cape trails behind him, snaking along the ground so that a bishop or lady may reach their exit unbesmirched. Aside from inspiring gratitude for modern-day drainage systems, this game brings to us an excellent puzzle solving experience.
+
+A similar idea was toyed with by Steven Miller in his Snake Trail (see entry above), but the key design idea that pushes this game to great heights is having all characters share the same open space, and dividing the *snake* character into a head (knight) that collides and a tail (cape) that does not. With several more interesting mechanics introduced along the way, Puddle Knights makes for a great game to be enjoyed by a wide audience. I would place it just behind snakebird as my second highest general recommendation.
+
+![puddleknights](https://joelthefox.github.io/img/PuddleKnights.png)
+
+>The theme of Ludum Dare 43 was "Sacrifices must be made". It was Olli Etuaho and Antti Hamara around the table, and we wrote a sheet full of whatever ideas and concepts came to mind from the theme as usual. One of them seemed to stand out: the cliches of chivalry and how knights would drag their capes through mud to let noble people pass through unsoiled. It seemed funny and was soon combined with snake-like mechanics. We had no idea where it would take us at that time.  
+>The prototype did OK in Ludum Dare but not great: We had no animations at all, the 3D graphics were extremely basic and generally everything was a bit rushed, so no polish to speak of. But it already had a handful of decent levels and cape tearing mechanics too, which is one of the more unique things about the game. Valtteri Heinonen had made some very medieval sounding music that created an odd ambiance in the prototype.  
+>Something about the concept stuck, so when it came time to find the first project for Lockpickle with Harri Dammert this eventually settled on this one. We liked that the game had fun characters and also gameplay and theme joined at the hip as opposed to some more abstract puzzle game prototypes we had at the time. We were still a bit nervous about how far the mechanics would scale, so we spent early months of the project just building out additional mechanics - which now seems like a mistake from a marketing perspective, but we ended up with fairly solid gameplay early on.  
+>From there on it was just iteration. On the design front we kept firing on all cylinders: in addition to Harri and Olli we had Pyry Takkunen working part-time on level designs so we had a variety of ideas, and got feedback from indie heavyweights like Arvi Teikari, Petri Purho, Elyot Grant and Olli Harjola. We think it shows in the final product.
+>-Olli Etuaho
+
+-----
+
 
 # Awards
 
@@ -497,14 +527,17 @@ Deepest and most challenging: Vertebrae
 
 Best original mechanics: Snakehole,  Tail of the Serpent,  SnakekanS
 
+Best snake game that is not a snake game: Puddle Knights
+
 Honorable Mentions:  
 Snakeoban (Jack Lance) – excellent puzzle design  
 Lime Rick – combination of interesting mechanics and levels  
-Wriggle 3D – great optimization puzzles, elegant  
-Snake Slider – great optimization puzzles with extra mechanics  
-Snakefall – excellent fan-made levels for Snakebird  
+Wriggle 3D – elegant optimization puzzles
+Snake Slider – optimization puzzles with extra mechanics  
+Snakefall – good fan-made levels for Snakebird  
+Bottom Feeder - excellent concept and puzzles
 
-Work great for mobile / touch controls: Snake Slider,  Quetzalcoatl,  Snake’s Tale
+Work best for mobile / touch controls: Snake Slider,  Quetzalcoatl,  Snake’s Tale
 
 Most humorous: Trifecta of snake games by Dario Zubović (SnakeShit, ShitStain, Train Snaking) 
 
