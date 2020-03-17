@@ -19,7 +19,7 @@ Here is a collection of all the snake-themed puzzle games in the known universe,
 
 -----
 
-## The games
+## The Games
 
 -----
 
