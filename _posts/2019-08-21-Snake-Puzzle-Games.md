@@ -490,7 +490,9 @@ Snakey Jakey is a snake that doesn’t like to follow the rules of physics. In S
 
 ### [Bottom Feeder](https://zacharyabel.itch.io/bottomfeeder) by Zach Abel
 
-Bottom Feeder is a wonderful PuzzleScript game that explores an innocuous sounding twist on snakeoban: you move around like normal with your head, but can only eat from your tail. The way this works is when your tail comes into contact with a food pellet, it will gobble it up and move a space in that direction. The implications of this rule are quite interesting and are explored in the first few levels, while the later levels provide masterfully crafted snake challenges.
+Bottom Feeder is a wonderful PuzzleScript game that explores an innocuous sounding twist on snakeoban: you move around like normal with your head, but can only eat from your tail. The way this works is when your tail comes into contact with a food pellet, it will gobble it up and move a space in that direction. The implications of this rule are quite interesting and are explored in the first few levels, while the later levels provide masterfully crafted snake challenges.  
+
+It is unfortunate that snakes hold a reputation of being scary, menacing creatures that evolved to ambush, strangle, and poison their unsuspecting prey. I can assure you, however, that you will find the present breed of snakes who rapidly grow by devouring up their anus to be delightfully cute.  
 
 ![bottomfeeder](https://joelthefox.github.io/img/BottomFeeder.png)
 
