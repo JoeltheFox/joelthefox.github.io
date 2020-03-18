@@ -638,6 +638,7 @@ Alcazar was the most popular implementation of this type of puzzle game, but is 
 [Fill the world with your rainbow](https://mozz.itch.io/fill-the-world-with-your-rainbow) adds blocks to push around (though it’s a very short game).  
 [Mochi Mochi Boy](https://store.steampowered.com/app/932290/Mochi_Mochi_Boy/) defies description.  
 [Snek Konnect](https://nora-sellisa.itch.io/snek-konnekt) has a snake but no added mechanics.  
+[Cardinal Chains](https://danijmn.itch.io/cardinalchains) has numbers on each tile, and the path must take an increasing sequence.  
 
 There are some games that used the same mechanics as Snakebird or Wriggle without mentioning their inspiration, and without new ideas. With Snakebird it seems very likely that the mechanics were copied, while with Wriggle it’s possible that other developers just hadn’t known about it. [Too Many Snakes](http://www.whalefoodgames.com/too-many-snakes), [TruPuzzle](https://apps.apple.com/us/app/trupuzzle/id430437507), and [Twisted Snake]( https://apps.apple.com/us/app/twisted-snake/id840047572) have the same mechanics as Wriggle, but came after Wriggle did.
 
@@ -663,7 +664,7 @@ Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest
 
 Puzzle games where snakes are your enemies:  
 [SnakEscape](https://store.steampowered.com/app/409440/SnakEscape_REMASTERED/)  
-[DROD](https://store.steampowered.com/app/314330/DROD_Gunthro_and_the_Epic_Blunder/)  
+[DROD](https://store.steampowered.com/app/314330/DROD_Gunthro_and_the_Epic_Blunder/) (though snakes are not a main focus)  
 
 [The Serpent’s Shadow](https://nusan.itch.io/the-serpents-shadow) has an interesting mechanic, which is that you need to shade an area of ground from a light source using your snake’s body.  The puzzles are not particularly deep though and there is a small real-time element.
 
