@@ -3,7 +3,7 @@ layout: post
 title: Snake Puzzle Games
 ---
 
-Here is a collection of all the snake-themed puzzle games in the known universe, complete with descriptions, pictures, and a few awards.  The order in which they appear is roughly the order that I played them in.  The purpose of this article
+Here is a collection of all the snake-themed puzzle games in the known universe, together with descriptions, pictures, and a few awards.  The order in which they appear is roughly the order that I played them in.  The purpose of this article
 
 -----
 
