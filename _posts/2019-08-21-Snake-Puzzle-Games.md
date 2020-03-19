@@ -26,7 +26,7 @@ Here is a collection of all the snake-themed puzzle games in the known universe,
 My main qualification to write about these games is that I have solved all the puzzles.  In describing them, I have sometimes left out key mechanics or high points, so that the reader will not lose the joy of discovery.  If you find that I have erred too far to the side of spoiler avoidance, don’t tell me!
 
 
-### [Snakebird](https://snakebird.noumenongames.com/) by Noumenon Games
+### [Snakebird](https://store.steampowered.com/app/357300/Snakebird/) by Noumenon Games
 The most well-known of the snake puzzle games, and for good reason. The mechanics are deep and intriguing, and the game is well polished, with good levels and some of the best graphics of any 2D puzzle game. The main novelty is combining snake movement with gravity, and it also has growth by eating fruit, and the ability to individually control multiple snakebirds.  My favorite trailer/video of Snakebird is [this one](https://www.youtube.com/watch?v=77d9xVIsoHc) (warning obscene language), which might be funniest if you watch after playing a few levels first.  There is also an in-depth [article](http://www.electrondance.com/tail-meets-head/) by ElectronDance about his experience playing through Snakebird.  Snakebird has great puzzles that reward planning ahead, and visualizing the shapes you will need to make in order to solve them.  Its difficulty catches some by surprise, as the visuals look playful and benign.  It’s not the hardest of the games here but it’s one of the harder ones.  Overall it gets a very high recommendation!  The creation of the game is discussed by its developers [here](http://noumenongames.com/snakebird-development-images-and-history/)
 
 ![Snakebird](https://joelthefox.github.io/img/Snakebird.jpg)
@@ -36,7 +36,7 @@ The most well-known of the snake puzzle games, and for good reason. The mechanic
 
 -----
 
-### [Snakebird Primer](http://snakebirdprimer.noumenongames.com/) by Noumenon Games
+### [Snakebird Primer](https://store.steampowered.com/app/1014140/Snakebird_Primer/) by Noumenon Games
 A newer game from the makers of Snakebird that uses the same mechanics, designed as an easier version that will be accessible to many more people.  The game remains fun and charming with the simpler levels, and you would be hard-pressed to find someone that wouldn’t enjoy it.  It’s quite a bit easier than the original, so for those who have completed the original game this might not feel like it adds much. 
 
 ![Snakebirdprimer](https://joelthefox.github.io/img/SnakebirdPrimer.jpg)
