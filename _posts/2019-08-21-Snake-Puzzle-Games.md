@@ -528,7 +528,7 @@ Snaliens is only about a third snake puzzles, but that still amounts to a good s
 
 ![Snaliens](https://joelthefox.github.io/img/Snaliens.jpg)
 
->Snaliens is the outcome of experiments and ideas over its development time. The original idea came way before the development phase. The plan was to create a casual snake game where the body parts influence each other. However, as the implementation of these ideas began, the emergent relationships between the different mechanics seemed to be a good fit for a puzzle game. From that point and with a prototype ready to play around, it was a matter of iterating through different ideas to find what worked in favor of the game.
+>Snaliens is the outcome of experiments and ideas over its development time. The original idea came way before the development phase. The plan was to create a casual snake game where the body parts influence each other. However, as the implementation of these ideas began, the emergent relationships between the different mechanics seemed to be a good fit for a puzzle game. From that point and with a prototype ready to play around, it was a matter of iterating through different ideas to find what worked in favor of the game.  
 >-João Ferreira
 
 -----
