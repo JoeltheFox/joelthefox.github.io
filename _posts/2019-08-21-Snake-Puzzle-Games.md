@@ -520,6 +520,20 @@ A similar idea was toyed with by Steven Miller in his Snake Trail (see entry abo
 
 -----
 
+### [Snaliens](https://store.steampowered.com/app/1214850/Snaliens/) by João Ferreira
+
+If snakes were also aliens, would you call them Snaliens? The problem with that is it will get confused with snails + aliens. To the best of my knowledge this is the reason snakes have not ventured outside the earth's atmosphere. But in a videogame, anything goes!
+
+Snaliens is only about a third snake puzzles, but that still amounts to a good selection. In this game, the aliens you control can pick up pieces that follow them around like snake tails, and these pieces have functions such as holding buttons down, or connecting switches to power. Like in Snake Sokoban Spiral, it is important to have your segments in the proper orientation as well as location. The game combines a large number of different mechanics that on their own feel familiar, but combined with snake movement make for unique feeling puzzles.
+
+![Snaliens](https://joelthefox.github.io/img/Snaliens.jpg)
+
+>Snaliens is the outcome of experiments and ideas over its development time. The original idea came way before the development phase. The plan was to create a casual snake game where the body parts influence each other. However, as the implementation of these ideas began, the emergent relationships between the different mechanics seemed to be a good fit for a puzzle game. From that point and with a prototype ready to play around, it was a matter of iterating through different ideas to find what worked in favor of the game.
+>-João Ferreira
+
+-----
+
+
 
 # Awards
 
@@ -539,7 +553,7 @@ Snake Slider – optimization puzzles with extra mechanics
 Snakefall – good fan-made levels for Snakebird  
 Bottom Feeder - excellent concept and puzzles
 
-Work best for mobile / touch controls: Snake Slider,  Quetzalcoatl,  Snake’s Tale
+Work particularly well for mobile / touch controls: Snake Slider,  Quetzalcoatl,  Snake’s Tale
 
 Most humorous: Trifecta of snake games by Dario Zubović (SnakeShit, ShitStain, Train Snaking) 
 
@@ -599,7 +613,8 @@ Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
 Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard|11||Web
-Puddle Knights|LockPickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|PC/Mac
+Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
+Puddle Knights|LockPickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
 
 -----
 
