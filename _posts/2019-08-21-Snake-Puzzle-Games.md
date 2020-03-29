@@ -614,7 +614,7 @@ ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
 Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
-Puddle Knights|LockPickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
+Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
 
 -----
 
@@ -667,7 +667,7 @@ Almost a puzzle is [Chnakess](https://hempuli.itch.io/chnakess), a snake + chess
 
 [Getting Long](https://zeantwan.itch.io/getting-long) is a snake game disguised as a cute dog game. You need to eat all the crumpets without getting hit by a snail or spikes. Quite short and only a couple of real puzzles.  
 
-[One Level](https://dario-zubovic.itch.io/one-level) by Dario Zubović has a single snake puzzle, and he made an [Alternate Snake Level](https://dario-zubovic.github.io/PuzzleScript/play.html?p=b7566d59583508dcc266f60ad7682c6c) as well.  
+[One Level](https://dario-zubovic.itch.io/one-level) by Dario Zubović has a fun snake puzzle in it, and he made a more challenging [Alternate Snake Level](https://dario-zubovic.github.io/PuzzleScript/play.html?p=b7566d59583508dcc266f60ad7682c6c) as well.  
 
 Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest of the mechanics are different from snake games:  
 [Statues](https://rosden.itch.io/statues)  
