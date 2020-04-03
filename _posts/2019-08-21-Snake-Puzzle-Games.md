@@ -360,6 +360,7 @@ In “the Hydra Crypt,” when your snake head eats a human, the snake doesn’t
 
 ### [Wriggler Demake](https://www.puzzlescript.net/play.html?p=c58ba6f441c8b2ecb817) by Tapio Saarinen
 Wriggler Demake should really be considered a “puzzle game inspired by Wriggle,” but I suppose the author was being humble about their creation.  This game is similar to Wriggle in that there are multiple snakes on a grid that can be dragged from either end, and the goal is for all the colored tiles to have that color of snake on top of them (this is the same as the original Wriggle rules. The creator of Wriggle later changed the goal to be an exit square, as in Wriggle 3D).  One difference is in the way the player controls movement using a pseudo-cursor, which I haven’t seen anywhere else.  The game is short and well done, and will be worth looking at if you enjoy the types of puzzles in Wriggle or Snake Sliders.
+
 ![wriggle demake](https://joelthefox.github.io/img/WrigglerDemake.png)
 
 -----
