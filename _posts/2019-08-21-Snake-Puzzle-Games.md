@@ -627,7 +627,9 @@ Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13
 [Sausage Dog Tends to Infinity](https://itch.io/t/136400/sausage-dog-tends-to-infinity-3d-puzzle-game)  
 [Sushi Snake](https://benjamindav.is/sushisnake/) was published but ran into compatibility issues that are being worked on.  
 [The original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) which used defunct java applets are currently being updated to HTML5  
-[Kukulcan](http://www.black-spoon.com/)
+[Kukulcan](http://www.black-spoon.com/)  
+[Unnamed snake game](https://twitter.com/mischkakamener/status/1247311816759209985) by Mischka Kamener  
+[Worm Jazz](https://www.wormjazz.com/)
 
 -----
 
@@ -695,6 +697,8 @@ Also omitted (due to both fundamental differences and my lack of experience) are
 [Para’s Puzzle Site](https://puzzleparasite.blogspot.com/search?q=snake) (link is to search results for their snake puzzles).
 
 There's a type of physical puzzle called a snake cube, where you have a long string connecting small 1x1 cubes together in a snake-like shape, and you need to twist the snake into a 3x3 or 4x4 cube. I had one of these to practice on when I was younger, and would pretend that I hadn't seen them before and then solve it in 2 seconds.
+
+Ponder This shared a [snake inspired math riddle](https://www.research.ibm.com/haifa/ponderthis/challenges/April2011.html) that I haven't worked out yet.
 
 -----
 
