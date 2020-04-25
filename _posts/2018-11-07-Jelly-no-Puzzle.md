@@ -21,4 +21,4 @@ A newer game that is reminiscent of Jelly no Puzzle (though the creator actually
 
 Since first posting this article, [Push Blox 2](https://lonelydeckchair.itch.io/push-blox-2) has been released and I feel it is both a visual and design improvement on Push Blox 1.  I would recommend going straight to Push Blox 2, although the original is still very good and is the only version for mobile right now.  Here is how the sequel looks:
 
-![Push Blox](https://joelthefox.github.io/img/PushBlox2.png)
+![Push Blox2](https://joelthefox.github.io/img/PushBlox2.png)
