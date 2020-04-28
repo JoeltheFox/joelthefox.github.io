@@ -696,7 +696,7 @@ Also omitted (due to both fundamental differences and my lack of experience) are
 [Erich Friedman’s chess snake puzzles](https://www2.stetson.edu/~efriedma/puzzle/snake/) - the extra information is in the form of chess pieces!  
 [Para’s Puzzle Site](https://puzzleparasite.blogspot.com/search?q=snake) (link is to search results for their snake puzzles).
 
-There's a type of physical puzzle called a snake cube, where you have a long string connecting small 1x1 cubes together in a snake-like shape, and you need to twist the snake into a 3x3 or 4x4 cube. I had one of these to practice on when I was younger, and would pretend that I hadn't seen them before and then solve it in 2 seconds.
+There's a type of physical puzzle called a snake cube, where you have a long string connecting small 1x1 cubes together in a snake-like shape, and you need to twist the snake into a 3x3 or 4x4 cube. I had one of these to practice on when I was younger, and would pretend that I hadn't seen them before and then solve it in 2 seconds. There is also the [Rubik's Snake](https://en.wikipedia.org/wiki/Rubik%27s_Snake) that involves twisting, but it is free-form and doesn't have a single objective.
 
 Ponder This shared a [snake inspired math riddle](https://www.research.ibm.com/haifa/ponderthis/challenges/April2011.html) that I haven't worked out yet.
 
