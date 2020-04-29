@@ -680,6 +680,8 @@ Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest
 
 [Globule](https://www.kongregate.com/games/rowlandrose/globule) is a puzzle game about a robot guiding a puddle of slime, which acts very much like a two-headed snake would.   However, the levels are mostly tedious.
 
+[Snakeformer](https://blog.dragonlab.de/2014/10/snakeformer/) and [Coil](http://www.nitrome.com/games/coil/) are two snake platformer games that feel similar to snakebird, but have different physics and are less puzzley.
+
 Puzzle games where snakes are your enemies:  
 [SnakEscape](https://store.steampowered.com/app/409440/SnakEscape_REMASTERED/)  
 [DROD](https://store.steampowered.com/app/314330/DROD_Gunthro_and_the_Epic_Blunder/) (though snakes are not a main focus)  
