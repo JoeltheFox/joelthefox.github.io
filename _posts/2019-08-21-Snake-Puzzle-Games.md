@@ -542,6 +542,14 @@ The Turing Snake is a very clever mix of snake game and programming. Puzzles are
 
 -----
 
+### [Tile Snake](https://orecros.itch.io/tile-snake-ludum-dare-35-entry) by Andrew Tollett
+
+Made for Ludum Dare 35 which had the theme "shapeshift," Tile Snake lets you fill holes in the floor by dropping segments of your body there. Don't worry, you can pick them back up later! It's a nice idea that adds a few new maneuvering techniques to the standard snake repertoire. Also included are doors that require a certain number of segments to pass, optional goals, and a few other familiar mechanics. It is relatively short and easy, but fun anyhow.
+
+![tilesnake](https://joelthefox.github.io/img/TileSnake.png)
+
+-----
+
 
 
 # Awards
@@ -592,6 +600,7 @@ Lime Richard|Richard Dyer|Sept 2015|Fan version of Lime Rick|Easy - Medium|10||W
 Dotsnake|Franklin Dyer|Sept 2015|Eat all the dots|Easy|12||Web
 Snortal|Increpare|Nov 2015|Snake + Portal|Hard|1||Web
 Snake Blocks|Spooky Cat|Dec 2015|Connect pairs in 3D|Medium|50|$5|Win/Mac
+Tile Snake|Andrew Tollett|Apr 2016|Fill holes with body|Easy - Medium|14||Win
 Boa|Steven Miller|May 2016|Adventure through large maps|Easy - Medium|20||Windows
 Snakebird GB|freeball1|Sept 2016|Fan version of Snakebird|Hard|10||Gameboy
 Snake Escape|Einar Sauskas|Nov 2016|Fan version of Lime Rick|Medium - Hard|42||ZX Spectrum
@@ -617,7 +626,7 @@ Snakebird Primer|Noumenon Games|Feb 2019|Easier version of Snakebird|Easy - Medi
 Tail of the Serpent|Le Slo|Apr 2019|Match symbols on ground|Medium|25||Web
 Train Snaking|Dario Zubović|May 2019|Deliver passengers safely|Medium|9||Web
 Snakey Snakey makes a Sixy|Increpare|June 2019|Mystery|Easy|1||Web
-The Turing Snake|edmond00|Aug 2019|snake programming|Easy - Hard|20||Web
+The Turing Snake|edmond00|Aug 2019|Snake programming|Easy - Hard|20||Web
 SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
