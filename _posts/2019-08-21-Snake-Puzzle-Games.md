@@ -534,6 +534,14 @@ Snaliens is only about a third snake puzzles, but that still amounts to a good s
 
 -----
 
+### [The Turing Snake](https://store.steampowered.com/app/1214850/Snaliens/) by edmond00
+
+The Turing Snake is a very clever mix of snake game and programming. Puzzles are set on a grid of 0's and 1's, with each segment of your snake performing a different action depending on whether its cell is on or off. By placing a limited number of 1's on the grid you must guide your snake to the goal. This game was made for a game jam in which the theme was "only one." Many of the puzzles require you to place just a single 1 on the grid, which ends up working nicely. It's an interesting game, and quite impressive for being made in a short time. With 20 levels it feels like a complete game, though with such a great premise I hope it could be expanded in the future.
+
+![turingsnake](https://joelthefox.github.io/img/TuringSnake.jpg)
+
+-----
+
 
 
 # Awards
@@ -609,6 +617,7 @@ Snakebird Primer|Noumenon Games|Feb 2019|Easier version of Snakebird|Easy - Medi
 Tail of the Serpent|Le Slo|Apr 2019|Match symbols on ground|Medium|25||Web
 Train Snaking|Dario Zubović|May 2019|Deliver passengers safely|Medium|9||Web
 Snakey Snakey makes a Sixy|Increpare|June 2019|Mystery|Easy|1||Web
+The Turing Snake|edmond00|Aug 2019|snake programming|Easy - Hard|20||Web
 SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
