@@ -550,21 +550,21 @@ Best overall game: Snakebird
 
 Deepest and most challenging: Vertebrae
 
-Best original mechanics: Snakehole,  Tail of the Serpent,  SnakekanS
+Best original mechanics:  Snakehole,  Tail of the Serpent,  SnakekanS
 
 Best snake game that is not a snake game: Puddle Knights
 
 Honorable Mentions:  
 Snakeoban (Jack Lance) – excellent puzzle design  
 Lime Rick – combination of interesting mechanics and levels  
-Wriggle 3D – elegant optimization puzzles
-Snake Slider – optimization puzzles with extra mechanics  
+Wriggle 3D – elegant optimization puzzles  
+Snake Slider – good optimization puzzles with more complex mechanics   
 Snakefall – good fan-made levels for Snakebird  
 Bottom Feeder - excellent concept and puzzles
 
-Work particularly well for mobile / touch controls: Snake Slider,  Quetzalcoatl,  Snake’s Tale
+Work particularly well for mobile / touch controls:  Snake Slider,  Quetzalcoatl,  Snake’s Tale
 
-Most humorous: Trifecta of snake games by Dario Zubović (SnakeShit, ShitStain, Train Snaking) 
+Most humorous: Trifecta of snake games by Dario Zubović:  SnakeShit,  ShitStain,  Train Snaking
 
 -----
 
