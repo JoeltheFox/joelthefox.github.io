@@ -156,7 +156,7 @@ A short, continuous game about growing from a baby snake into one of legendary s
 -----
 
 ### [Dotsnake](https://www.puzzlescript.net/play.html?p=6642bf1b37f18bf77e75) by Franklin Dyer
-This game is like Snake in that you have to eat all of the food, but your snake has infinite length so it’s all about picking everything up without retracing any steps.  The puzzles in dotsnake tend to be quite simple.  Mechanically, it’s actually identical to one of the puzzle types in [The Witness](https://store.steampowered.com/app/210970/The_Witness/). This author also made another snake-like game, [Jormungandr](https://www.puzzlescript.net/play.html?p=83015ef216bfdc4ca86bbc9f44b254fa), but it was abandoned in an unsolvable state. The idea in Jormungadr is that your mythical serpent can cross the sea to visit other islands, but only in a straight line. In the link provided, I added one land tile so that the game can be completed.
+This game is like Snake in that you have to eat all of the food, but your snake has infinite length so it’s all about picking everything up without retracing any steps.  The puzzles in dotsnake tend to be quite simple.  Mechanically, it’s actually identical to one of the puzzle types in [The Witness](https://store.steampowered.com/app/210970/The_Witness/). Infinite length lines/routes are often not snake themed at all, and the most interesting puzzle game of that category is Draknek's [Cosmic Express](https://cosmicexpressgame.com/). Mr. Dyer also made another snake-like game, [Jormungandr](https://www.puzzlescript.net/play.html?p=83015ef216bfdc4ca86bbc9f44b254fa), but it was abandoned in an unsolvable state. The idea in Jormungadr is that your mythical serpent can cross the sea to visit other islands, but only in a straight line when above water. In the link provided, I added one land tile so that the game can be completed.
 
 ![dotsnake](https://joelthefox.github.io/img/Dotsnake.png)
 
@@ -539,6 +539,14 @@ Snaliens is only about a third snake puzzles, but that still amounts to a good s
 The Turing Snake is a very clever mix of snake game and programming. Puzzles are set on a grid of 0's and 1's, with each segment of your snake performing a different action depending on whether its cell is on or off. By placing a limited number of 1's on the grid you must guide your snake to the goal. This game was made for a game jam in which the theme was "only one." Many of the puzzles require you to place just a single 1 on the grid, which ends up working nicely. It's an interesting game, and quite impressive for being made in a short time. With 20 levels it doesn't feel lacking for content, but with such a great premise I hope it could be expanded in the future.
 
 ![turingsnake](https://joelthefox.github.io/img/TuringSnake.png)
+
+>My first inspiration for this game was the cellular automaton like the game of life of conway.  
+It is something that I was interested in and I thought it could fit the 'only one' theme of the jam I was participating just by replacing the classic black and white grid with a 0 and 1 grid.  Combining this with a snake game was a way to also have reliable game mechanics (eat to grow, don't eat yourself, ...) that the players will immediately understand.  
+Looking for an idea for having both, I found that using the snake as a list of commands could be nice because it can quickly produce a lot of interesting complexity (where you move affects what actions you will execute that affect where you will move...).  
+I usually prefer making sandbox games but here it seems to me that having some puzzle levels was the best way to introduce the ideas of the game (but I still added a sandbox mode at the end).  
+To make the puzzles, I just tried randomly different configurations and chose the one where the snake ends up in a place that will look  unexpected for the players while gradually adding new mechanics.  
+The Turing machine was not my first inspiration but it ends up looking a little like a 2D Turing machine so I chose this name.  
+>edmond
 
 -----
 
