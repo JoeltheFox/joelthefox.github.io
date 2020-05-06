@@ -654,8 +654,9 @@ Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13
 [Sushi Snake](https://benjamindav.is/sushisnake/) was published but ran into compatibility issues that are being worked on.  
 [The original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) which used defunct java applets are currently being updated to HTML5  
 [Kukulcan](http://www.black-spoon.com/)  
-[Unnamed snake game](https://twitter.com/mischkakamener/status/1247311816759209985) by Mischka Kamener  
+[Unnamed snake-cactus game](https://twitter.com/mischkakamener/status/1247311816759209985) by Mischka Kamener  
 [Worm Jazz](https://www.wormjazz.com/)
+[snekoban](https://twitter.com/blubberquark/status/1227506247005458432)
 
 -----
 
