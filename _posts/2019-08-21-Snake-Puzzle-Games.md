@@ -546,7 +546,7 @@ Looking for an idea for having both, I found that using the snake as a list of c
 I usually prefer making sandbox games but here it seems to me that having some puzzle levels was the best way to introduce the ideas of the game (but I still added a sandbox mode at the end).  
 To make the puzzles, I just tried randomly different configurations and chose the one where the snake ends up in a place that will look  unexpected for the players while gradually adding new mechanics.  
 The Turing machine was not my first inspiration but it ends up looking a little like a 2D Turing machine so I chose this name.  
->edmond
+>-edmond
 
 -----
 
