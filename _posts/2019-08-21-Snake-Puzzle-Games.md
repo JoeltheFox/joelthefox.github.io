@@ -71,7 +71,7 @@ The second reimplementation of Snakebird, this time in PuzzleScript.  Terzalo pr
 -----
 
 ### [Snakebird Fan-Edition](http://nohatcoder.dk/snakebird.htm#Alb_rnwk4mQvI-ikwf3ElEqXv6MuilgmwmgH-INmF847t4LVgjNd_wUOgHoH85FeGliPuFPFpCmzFlzrhMWuoSyKk6pNwFnDtKP1rzG5o4dUdz0gIkFco0Y_66dD_Ecg0Qwn4glwWEo_YkDtUFgnA495zX9qM-hfzMkE5mw0A_kIkFG2EFpxm5kx4mxiWgjM-COvHlIFoWwBnRdMMiIOO3gPOvw5eh2EwzWqH1iH3HJ8m4O9wOPkNw_E47MGg8E5sQSn5otBmJ1xH_4JhtFHomGVlC11g5owFo2GvwXuOGKnQvqH34) by Jacob Munch-Andersen and contributor
-The last remake of Snakebird in order to create fan levels, this one has 5 levels by the programmer (Jacob Christian Munch-Andersen), and one level designed together with [Edderiofer](http://edderiofer.blogspot.com/).  The link above takes you immediately to the last level, but it’s the best link since it contains all 6 finished levels.  The first 5 levels are elegant and about the same difficulty as original Snakebird, and the last level is a little harder than that.  The implementation is quite easy to read and control.
+The last remake of Snakebird in order to create fan levels, this one has 5 levels by the programmer (Jacob Christian Munch-Andersen), and one level designed together with [Edderiofer](http://edderiofer.blogspot.com/).  The link above takes you immediately to the last level, but it’s the link to use since it contains all 6 finished levels.  The first 5 levels are elegant and about the same difficulty as original Snakebird, and the last level is a little harder than that.  The last level also has "fruit-crates" that must be pushed into the exit (they are basically 1-segment snakes that were deemed immobile).
 
 ![Snakebird fan](https://joelthefox.github.io/img/SnakeFan.png)
 
