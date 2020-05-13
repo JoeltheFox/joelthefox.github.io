@@ -666,11 +666,11 @@ Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|51||Win
 
 [Boa Bonanza](https://boabonanza.com/)  
 [Snake Blocks](https://steven-miller.itch.io/snake-blocks) (awaiting revision)  
-[Sausage Dog Tends to Infinity](https://itch.io/t/136400/sausage-dog-tends-to-infinity-3d-puzzle-game)  
+[Sausage Dog Tends to Infinity](https://store.steampowered.com/app/1299340/Sausage_Dog_Tends_To_Infinity/?curator_clanid=4777282&utm_source=SteamDB)  
 [Sushi Snake](https://benjamindav.is/sushisnake/) was published but ran into compatibility issues that are being worked on.  
 [The original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) which used defunct java applets are currently being updated to HTML5  
 [Kukulcan](http://www.black-spoon.com/)  
-[Unnamed snake-cactus game](https://twitter.com/mischkakamener/status/1247311816759209985) by Mischka Kamener  
+[Unnamed snake-cactus game](https://twitter.com/mischkakamener/status/1247311816759209985)  
 [Worm Jazz](https://www.wormjazz.com/)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)
 
