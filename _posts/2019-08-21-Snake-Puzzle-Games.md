@@ -263,7 +263,7 @@ An interesting snake game where you need to push crates onto targets (like "Snak
 >The next snake game I worked on was Crate Snake.  At the time, I was experimenting a lot with different movement mechanics, one of which was screen wrapping.  The idea was to have the character's length restrict movement but have the screen wrapping compensate by allowing more ways to avoid getting stuck.  I was unhappy with the result and I actually abandoned the project for a while despite it being almost done.  I released it almost 6 months later for the Finally Finish Something jam nearly unchanged.  
 > -Steven
 
-These three games above were made by Steven Miller, whose best game I think is [Vampire Garden](https://steven-miller.itch.io/vampire-garden), a fantastic, deep puzzle game that has nothing to do with snakes.  He also made another game called Snake Blocks that I am not reviewing only because he has a major overhaul planned.  I expect it will be very good!
+These three games above were made by Steven Miller, whose best games I think are [Vampire Garden](https://steven-miller.itch.io/vampire-garden) (a fantastic, deep puzzle game that has nothing to do with snakes) and Shackle which you will find lower down.  He also made another game called Snake Blocks that I am not reviewing only because he has a major overhaul planned.  I expect it will be very good! 
 
 -----
 
@@ -509,7 +509,7 @@ It is unfortunate that snakes hold a reputation of being scary, menacing creatur
 
 Riddle me this: what creature slithers like a snake in the morning, walks upright at noon, and when put in a barrel makes the barrel heavier? The answer of course is the unlikely Puddle Knight, whose cape trails behind him, snaking along the ground so that a bishop or lady may reach their exit unbesmirched. Aside from inspiring gratitude for modern-day drainage systems, this game brings to us an excellent puzzle solving experience.
 
-A similar idea was toyed with by Steven Miller in his Snake Trail (see entry above), but the key design idea that pushes this game to great heights is having all characters share the same open space, and dividing the *snake* character into a head (knight) that collides and a tail (cape) that does not. With several more interesting mechanics introduced along the way, Puddle Knights makes for a great game to be enjoyed by a wide audience. I would place it just behind snakebird as my second highest general recommendation.
+A similar idea was toyed with by Steven Miller in his Snake Trail (see entry above), but the key design idea that pushes this game to great heights is having all characters share the same open space, and dividing the *snake* character into a head (knight) that collides and a tail (cape) that does not. With several more interesting mechanics introduced along the way, Puddle Knights makes for a great game to be enjoyed by a wide audience. I would place it just behind snakebird as my second highest general recommendation. ElectronDance has written [something](http://www.electrondance.com/puzzleworks-1-puddle-knights/) about it as well.
 
 ![puddleknights](https://joelthefox.github.io/img/PuddleKnights.png)
 
@@ -558,9 +558,24 @@ Made for Ludum Dare 35 which had the theme "shapeshift," Tile Snake lets you fil
 
 -----
 
+### [Shackle](https://steven-miller.itch.io/shackle) by Steven Miller
+
+Puddle Knights a few games up might have surprised you, since it's not a snake game.  But, I included it since it is also a snake game.  Shackle is not a snake game, and in addition to that it's also not a snake game. 
+
+In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain and push the ball, a lurid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It starts off comfortably and ends with great suffering (and pleasure).
+
+![shackle](https://joelthefox.github.io/img/Shackle.png)
+
+>Shackle was an idea I came up with after going through the Snake Puzzle Games article for the first time.  The original concept was for a snake game where you could step over your tail and, with some clever positioning, push boxes around with it.  The chain was going to vary in length from puzzle to puzzle, allowing for slightly different maneuvers in each one.  In the end, the unintuitiveness of the chain movements led to that component being scrapped, but the same core idea remained: a snake-inspired sokoban where the tail acts as both an obstacle and an essential tool.  
+>-Steven
+
+-----
+
 
 
 # Awards
+
+There are many great games above, and it's hard to leave some of them out when highlighting just a few below.  
 
 Best overall game: Snakebird
 
@@ -568,14 +583,14 @@ Deepest and most challenging: Vertebrae
 
 Best original mechanics:  Snakehole,  Tail of the Serpent,  SnakekanS
 
-Best snake game that is not a snake game: Puddle Knights
+Best snake games that are not snake games: Puddle Knights,  Shackle
 
 Honorable Mentions:  
 Snakeoban (Jack Lance) – excellent puzzle design  
 Lime Rick – combination of interesting mechanics and levels  
 Wriggle 3D – elegant optimization puzzles  
 Snake Slider – good optimization puzzles with more complex mechanics   
-Snakefall – good fan-made levels for Snakebird  
+Snakefall – good to great fan-made levels for Snakebird  
 Bottom Feeder - excellent concept and puzzles
 
 Work particularly well for mobile / touch controls:  Snake Slider,  Quetzalcoatl,  Snake’s Tale
@@ -599,10 +614,10 @@ Wriggler Demake|Ardeej|May 2014|Fan version of Wriggle|Medium|14||Web
 Quetzalcoatl|1button sarl|Nov 2014|Match colors|Easy - Hard|180|$2|iOS
 Unconventional Guns|Rectangular Tim|Apr 2015|Snake gun|Medium|15||Web
 SnakePace|LogicalCell|Apr 2015|Move backwards|Medium|15||Web
-Snakebird|Noumenon Games|May 2015|Eat to grow + gravity|Hard|51|$7|All
+Snakebird|Noumenon Games|May 2015|Eat to grow + gravity|Medium - Hard|51|$7|All
 Snakeoban|Jack Lance|June 2015|Snake + Sokoban|Hard|23||Web
 Snakebird fan edition|NohatCoder|July 2015|Fan version of Snakebird|Hard|6||Web
-Snakefall|Josh Wolfe|July 2015|Fan version of Snakebird|Hard - Very Hard|73||Web
+Snakefall|Josh Wolfe|July 2015|Fan version of Snakebird|Medium - Very Hard|73||Web
 Avis Anguis|Terzalo|July 2015|Fan version of Snakebird|Hard|6||Web
 Lime Richard|Richard Dyer|Sept 2015|Fan version of Lime Rick|Easy - Medium|10||Web
 Dotsnake|Franklin Dyer|Sept 2015|Eat all the dots|Easy|12||Web
@@ -642,6 +657,7 @@ Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
 Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
 Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
+Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|51||Win
 
 -----
 
