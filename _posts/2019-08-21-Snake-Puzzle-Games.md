@@ -671,7 +671,7 @@ Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|51||Win
 [The original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) which used defunct java applets are currently being updated to HTML5  
 [Kukulcan](http://www.black-spoon.com/)  
 [Unnamed snake-cactus game](https://twitter.com/mischkakamener/status/1247311816759209985) by Mischka Kamener  
-[Worm Jazz](https://www.wormjazz.com/)
+[Worm Jazz](https://www.wormjazz.com/)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)
 
 -----
