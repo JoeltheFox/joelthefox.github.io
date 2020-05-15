@@ -561,7 +561,7 @@ Made for Ludum Dare 35 which had the theme "shapeshift," Tile Snake lets you fil
 
 Puddle Knights a few games up might have surprised you, since it's not a snake game.  But, I included it since it is also a snake game.  Shackle is not a snake game, and in addition to that it's also not a snake game. 
 
-In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain and push the ball, a lurid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It starts off comfortably and ends with great suffering (and pleasure).
+In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain and push the ball, a lurid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It starts off leisurely and ends with great suffering (and pleasure).
 
 ![shackle](https://joelthefox.github.io/img/Shackle.png)
 
@@ -653,7 +653,7 @@ SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
-Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard|11||Web
+Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard - Very Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
 Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
 Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|51||Win
