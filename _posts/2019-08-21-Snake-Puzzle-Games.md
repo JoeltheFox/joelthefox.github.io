@@ -739,6 +739,7 @@ Also omitted (due to both fundamental differences and my lack of experience) are
 [GMpuzzles snake collection](https://www.gmpuzzles.com/blog/category/loop/snake/)  
 [Melon’s Multi-Ouroboros puzzles](https://mellowmelon.wordpress.com/multi-ouroboros/) - adds multiple snakes!  
 [Puzzle Picnic snake puzzles](http://www.puzzlepicnic.com/genre?id=45)  
+[puzz.link snake puzzles](https://puzz.link/db/?type=snake)  
 [Erich Friedman’s chess snake puzzles](https://www2.stetson.edu/~efriedma/puzzle/snake/) - the extra information is in the form of chess pieces!  
 [Para’s Puzzle Site](https://puzzleparasite.blogspot.com/search?q=snake) (link is to search results for their snake puzzles).
 
