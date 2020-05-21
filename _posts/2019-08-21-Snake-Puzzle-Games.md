@@ -42,7 +42,7 @@ A newer game from the makers of Snakebird that uses the same mechanics, designed
 
 -----
 
-### [Snakebird for Gameboy](https://fb1.itch.io/snakebirdgb) by freeball1
+### [Snakebird GB](https://fb1.itch.io/snakebirdgb) by freeball1
 A remake of Snakebird done by a friend of the designer, strangely made for Gameboy.  It comes with 10 original levels clothed in retro graphics.  The new levels are well designed, are on average a bit more challenging than the original Snakebird, and have a clearly different puzzle style as well.  The lack of an undo button can sometimes get annoying, but is overcome with a bit of patience.  Based on a quick Google search, I ended up using the [openemu emulator](https://openemu.org/), and it worked well.  Definitely recommended if you like Snakebird.
 
 ![Snakebird Gameboy](https://joelthefox.github.io/img/SnakebirdGB.png)
