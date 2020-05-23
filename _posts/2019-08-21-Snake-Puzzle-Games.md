@@ -656,7 +656,7 @@ Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
 Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard - Very Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
 Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
-Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|51||Win
+Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
 
 -----
 
