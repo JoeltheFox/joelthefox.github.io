@@ -508,7 +508,7 @@ It is unfortunate that snakes hold a reputation of being scary, menacing creatur
 
 Riddle me this: what creature slithers like a snake in the morning, walks upright at noon, and when put in a barrel makes the barrel heavier? The answer of course is the unlikely Puddle Knight, whose cape trails behind him, snaking along the ground so that a bishop or lady may reach their exit unbesmirched. Aside from inspiring gratitude for modern-day drainage systems, this game brings to us an excellent puzzle solving experience.
 
-A similar idea was toyed with by Steven Miller in his Snake Trail (see entry above), but the key design idea that pushes this game to great heights is having all characters share the same open space, and dividing the *snake* character into a head (knight) that collides and a tail (cape) that does not. With several more interesting mechanics introduced along the way, Puddle Knights makes for a great game to be enjoyed by a wide audience. I would place it just behind snakebird as my second highest general recommendation. ElectronDance has written [something](http://www.electrondance.com/puzzleworks-1-puddle-knights/) about it as well.
+A similar idea was toyed with by Steven Miller in his Snake Trail (see entry above), but the key design idea that pushes this game to great heights is having all characters share the same open space, and dividing the *snake* character into a head (knight) that collides and a tail (cape) that does not. With several more interesting mechanics introduced along the way, Puddle Knights makes for a great game to be enjoyed by a wide audience. I would place it just behind snakebird as my second highest recommendation to newer puzzle explorers. ElectronDance has written [something](http://www.electrondance.com/puzzleworks-1-puddle-knights/) about it as well.
 
 ![puddleknights](https://joelthefox.github.io/img/PuddleKnights.png)
 
@@ -561,7 +561,7 @@ Made for Ludum Dare 35 which had the theme "shapeshift," Tile Snake lets you fil
 
 Puddle Knights a few games up might have surprised you, since it's not a snake game.  But, I included it since it is also a snake game.  Shackle is not a snake game, and in addition to that it's also not a snake game. 
 
-In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain and push the ball, a lurid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It starts off leisurely and ends with great suffering (and pleasure).
+In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain and push the ball, a lurid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea in non-snake puzzle games.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It starts off gently and ends with some wonderfully devious puzzles.
 
 ![shackle](https://joelthefox.github.io/img/Shackle.png)
 
