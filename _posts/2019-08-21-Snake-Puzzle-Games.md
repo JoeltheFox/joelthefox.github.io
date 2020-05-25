@@ -3,7 +3,7 @@ layout: post
 title: Snake Puzzle Games
 ---
 
-Here is a collection of all the snake-themed puzzle games in the known universe, together with descriptions, pictures, and a few awards.  The order in which they appear is roughly the order that I played them in.  The purpose of this article
+Here is a collection of all the snake-themed puzzle games in the known universe, together with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in.  The purpose of this article
 
 -----
 
@@ -559,9 +559,9 @@ Made for Ludum Dare 35 which had the theme "shapeshift," Tile Snake lets you fil
 
 ### [Shackle](https://steven-miller.itch.io/shackle) by Steven Miller
 
-Puddle Knights a few games up might have surprised you, since it's not a snake game.  But, I included it since it is also a snake game.  Shackle is not a snake game, and in addition to that it's also not a snake game. 
+Puddle Knights a few games up might have surprised you, since it's not a snake game.  But, I included it since it is also a snake game.  Shackle is not a snake game, and in addition to that it's also not a snake game. (the reason it is on this list at all is that it's a snake game)
 
-In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain and push the ball, a lurid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea in non-snake puzzle games.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It starts off gently and ends with some wonderfully devious puzzles.
+In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain and push the ball, a lurid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea in non-snake puzzle games.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It begins gently but ends with some devious head-scratchers. Overall shackle is certainly one of the best games on this list.
 
 ![shackle](https://joelthefox.github.io/img/Shackle.png)
 
