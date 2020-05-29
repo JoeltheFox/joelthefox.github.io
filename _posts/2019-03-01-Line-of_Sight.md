@@ -10,10 +10,10 @@ My puzzles for other games include:
 [Temple](https://wolfesoftware.com/snakefall/#level=HyRr4JK1&20&40?*b1*A0*31*D0110*32*40111*70*3201102*102*I02*10201102022202*30*02*70202220201102024202*I0202420201100020002*401*902000200011000*12*30*02*70*1200011*Y0*01*W0*01*U0*21*U0*21*U0*21*U0*21*V0*11*202*O0*11*202*N0*212*102*N0*81222*410*510*j1/f25?325/f26?483/f27?526/f10?569/f0?652/s4?705/f8?670/f11?550/f6?220/f12?258/f1?196/f4?238/f2?665/b3?612/b4?625/f3?255/f5?138/), built in the Snakefall demake of [Snakebird](https://snakebird.noumenongames.com/). I also made some other less original levels that you can find on the [wiki](https://github.com/thejoshwolfe/snakefall/wiki).  
 A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler).  
 I made some contributions to Ali Nikkhah's masterpiece [Vertebrae](https://draxes.itch.io/vertebrae).  
-The last level of [What Gophers Go For](https://what-gophers-go-for.github.io/).  
+Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/).  
 A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) of Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole).  
 A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11).  
-A few small contributions to Andy Duff's [Push Blox 2](https://lonelydeckchair.itch.io/push-blox), including a variant of the last level.  
+A few small contributions to Andy Duff's [Push Blox 2](https://store.steampowered.com/app/894430/Push_Blox_2/).  
 
 A half-original game is my Weird Bug. The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun exerpiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn. [My version](https://joel-fox.itch.io/weird-bug) is a complete game based on the original.  
 
