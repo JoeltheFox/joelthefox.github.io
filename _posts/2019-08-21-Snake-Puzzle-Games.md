@@ -738,10 +738,11 @@ Also omitted (due to both fundamental differences and my lack of experience) are
 
 [Serkan Yürekli's *Snake and Variations* book](https://www.gmpuzzles.com/store/classic-and-variations-series)  
 [GMpuzzles snake collection](https://www.gmpuzzles.com/blog/category/loop/snake/)  
-[Melon’s Multi-Ouroboros puzzles](https://mellowmelon.wordpress.com/multi-ouroboros/) - adds multiple snakes  
+[Melon’s Multi-Ouroboros puzzles](https://mellowmelon.wordpress.com/multi-ouroboros/)  
 [Puzzle Picnic snake puzzles](http://www.puzzlepicnic.com/genre?id=45)  
 [puzz.link snake puzzles](https://puzz.link/db/?type=snake)  
-[Erich Friedman’s chess snake puzzles](https://www2.stetson.edu/~efriedma/puzzle/snake/) - the extra information is in the form of chess pieces  
+[Snake puzzles at logic masters germany](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag=Schlange)  
+[Erich Friedman’s chess snake puzzles](https://www2.stetson.edu/~efriedma/puzzle/snake/)  
 [Para’s Puzzle Site](https://puzzleparasite.blogspot.com/search?q=snake) (link is to search results for their snake puzzles).
 
 There's a type of physical puzzle called a snake cube, where you have a long string connecting small 1x1 cubes together in a snake-like shape, and you need to twist the snake into a 3x3 or 4x4 cube. I had one of these to practice on when I was younger, and would pretend that I hadn't seen them before and then solve it in 2 seconds. There is also the [Rubik's Snake](https://en.wikipedia.org/wiki/Rubik%27s_Snake) that involves twisting, but it is free-form and doesn't have a single objective.
