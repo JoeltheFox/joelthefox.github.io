@@ -745,7 +745,8 @@ Also omitted (due to both fundamental differences and my lack of experience) are
 [Erich Friedman’s chess snake puzzles](https://www2.stetson.edu/~efriedma/puzzle/snake/)  
 Logic Masters India had snake variations contests in [2011](https://logicmastersindia.com/lmitests/?test=SVC2011) and [2015](https://logicmastersindia.com/lmitests/?test=SVC2015), and a [monthly set](https://logicmastersindia.com/lmitests/?test=PR201512) in 2015.  
 [Para’s Puzzle Site](https://puzzleparasite.blogspot.com/search?q=snake) (link is to search results for their snake puzzles)  
-There is also a Nikoli puzzle type called [Hebi](http://www.nikoli.co.jp/en/puzzles/hebi.html) that is about snakes of numbers, but it doesn't seem very popular. There is a small example [discussed by chaotic_iak](https://chaoticiak492.wordpress.com/puzzles/hebi-ichigo/)
+There is also a Nikoli puzzle type called [Hebi](http://www.nikoli.co.jp/en/puzzles/hebi.html) that is about snakes of numbers, but it doesn't seem very popular. There is a small example [discussed by chaotic_iak](https://chaoticiak492.wordpress.com/puzzles/hebi-ichigo/)   
+Meandering Numbers is a another obscure genre with snakes, where pre-defined regions must be filled with numbers 1 to N in a snake shape, while not letting equal numbers touch vertically or diagonally with other snakes. [Here](https://puzz.link/db/?type=meander) are some of these puzzles hosted on puzz.link
 
 There's a type of physical puzzle called a snake cube, where you have a long string connecting small 1x1 cubes together in a snake-like shape, and you need to twist the snake into a 3x3 or 4x4 cube. I had one of these to practice on when I was younger, and would pretend that I hadn't seen them before and then solve it in 2 seconds. There is also the [Rubik's Snake](https://en.wikipedia.org/wiki/Rubik%27s_Snake) that involves twisting, but it is free-form and doesn't have a single objective.
 
