@@ -699,7 +699,7 @@ Alcazar was the most popular implementation of this type of puzzle game, but is 
 [Fill the world with your rainbow](https://mozz.itch.io/fill-the-world-with-your-rainbow) adds blocks to push around (though it’s a very short game).  
 [Mochi Mochi Boy](https://store.steampowered.com/app/932290/Mochi_Mochi_Boy/) defies description.  
 [Snek Konnect](https://nora-sellisa.itch.io/snek-konnekt) has a snake but no added mechanics.  
-[Cardinal Chains](https://danijmn.itch.io/cardinalchains) has numbers on each tile, and the path must take an increasing sequence.  
+[Cardinal Chains](https://danijmn.itch.io/cardinalchains) has numbers on each tile, and the path must take a non-decreasing sequence.  
 
 There are some games that used the same mechanics as Snakebird or Wriggle without mentioning their inspiration, and without new ideas. With Snakebird it seems very likely that the mechanics were copied, while with Wriggle it’s possible that other developers just hadn’t known about it. [Too Many Snakes](http://www.whalefoodgames.com/too-many-snakes), [TruPuzzle](https://apps.apple.com/us/app/trupuzzle/id430437507), and [Twisted Snake]( https://apps.apple.com/us/app/twisted-snake/id840047572) have the same mechanics as Wriggle, but came after Wriggle did.
 
