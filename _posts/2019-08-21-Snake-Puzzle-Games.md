@@ -570,6 +570,17 @@ In Shackle you resemble a length-3 snake, but instead of having a head, body, an
 
 -----
 
+### [Crocodiles Love Cookies](https://www.puzzlescript.net/play.html?p=e846cc788f2f4df386831282ab5dc1c6) by Ethan Clark
+
+Crocodiles Love Cookies, though probably apocryphal, is a game that feels like a mix between Lime Rick, where you push boxes into place while fighting gravity, and Hungry Kraken, where snake-like tentacles are controlled to bring food to the kraken's mouth. A short and light-hearted game with the most crude of graphics, it's still impressive that it was completed in only (see below)
+
+![crocodiles](https://joelthefox.github.io/img/Crocodile.png)
+
+>I made this game in like an hour or so. It was inspired by a GIF of a prototype Joseph Mansfield tweeted out.  
+>-Ethan
+
+-----
+
 
 
 # Awards
@@ -657,6 +668,7 @@ Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard - Very Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
 Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
 Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
+Crocodiles Love Cookies|Ethan Clark|June 2020|Bring cookie with tongue|Easy - Medium|12||Web
 
 -----
 
