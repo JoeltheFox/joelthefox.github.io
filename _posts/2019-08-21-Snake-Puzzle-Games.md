@@ -572,7 +572,7 @@ In Shackle you resemble a length-3 snake, but instead of having a head, body, an
 
 ### [Crocodiles Love Cookies](https://www.puzzlescript.net/play.html?p=e846cc788f2f4df386831282ab5dc1c6) by Ethan Clark
 
-Crocodiles Love Cookies, though probably apocryphal, is a game that feels like a mix between Lime Rick, where you push boxes into place while fighting gravity, and Hungry Kraken, where snake-like tentacles are controlled to bring food to the kraken's mouth. A short and light-hearted game with the most crude of graphics, it's still impressive that it was completed in only (see below)
+Crocodiles Love Cookies, though probably apocryphal, is a game that feels like a mix between Lime Rick, where you push boxes into place while fighting gravity, and Hungry Kraken, where snake-like tentacles are controlled to bring food to the kraken's mouth. A short and light-hearted game with the most crude of PuzzleScript graphics, it's still impressive that it was completed in only (see below)
 
 ![crocodiles](https://joelthefox.github.io/img/Crocodile.png)
 
