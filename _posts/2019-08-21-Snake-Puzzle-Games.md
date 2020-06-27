@@ -668,7 +668,7 @@ Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard - Very Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
 Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
 Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
-Crocodiles Love Cookies|Ethan Clark|June 2020|Bring cookie with tongue|Easy - Medium|12||Web
+Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy - Medium|12||Web
 
 -----
 
