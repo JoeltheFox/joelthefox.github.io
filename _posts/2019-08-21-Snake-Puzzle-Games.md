@@ -508,7 +508,9 @@ It is unfortunate that snakes hold a reputation of being scary, menacing creatur
 
 Riddle me this: what creature slithers like a snake in the morning, walks upright at noon, and when put in a barrel makes the barrel heavier? The answer of course is the unlikely Puddle Knight, whose cape trails behind him, snaking along the ground so that a bishop or lady may reach their exit unbesmirched. Aside from inspiring gratitude for modern-day drainage systems, this game brings to us an excellent puzzle solving experience.
 
-A similar idea was toyed with by Steven Miller in his Snake Trail (see entry above), but the key design idea that pushes this game to great heights is having all characters share the same open space, and dividing the *snake* character into a head (knight) that collides and a tail (cape) that does not. With several more interesting mechanics introduced along the way, Puddle Knights makes for a great game to be enjoyed by a wide audience. I would place it just behind snakebird as my second highest recommendation to newer puzzle explorers. ElectronDance has written [something](http://www.electrondance.com/puzzleworks-1-puddle-knights/) about it as well.
+A similar idea was toyed with by Steven Miller in his Snake Trail (see entry above), but the key design idea that pushes this game to great heights is having all characters share the same open space, and dividing the *snake* character into a head (knight) that collides and a tail (cape) that does not. With several more interesting mechanics introduced along the way, Puddle Knights makes for a great game to be enjoyed by a wide audience. I would place it just behind snakebird as my second highest recommendation to newer puzzle explorers. ElectronDance has written [something](http://www.electrondance.com/puzzleworks-1-puddle-knights/) about the game as well.
+
+In July 2020 a new chapter was added to the end of the game. It has a slightly new mechanic, but mostly contains a few more difficult puzzles.
 
 ![puddleknights](https://joelthefox.github.io/img/PuddleKnights.png)
 
@@ -666,7 +668,7 @@ ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
 Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard - Very Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
-Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|100|$13|Win/Mac
+Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|111|$13|Win/Mac
 Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
 Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy - Medium|12||Web
 
