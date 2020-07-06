@@ -36,7 +36,7 @@ The most well-known of the snake puzzle games, and for good reason. The mechanic
 -----
 
 ### [Snakebird Primer](https://store.steampowered.com/app/1014140/Snakebird_Primer/) by Noumenon Games
-A newer game from the makers of Snakebird that uses the same mechanics, designed as an easier version that will be accessible to many more people.  The game remains fun and charming with the simpler levels, and you would be hard-pressed to find someone that wouldn’t enjoy it.  It’s quite a bit easier than the original, so for those who have completed the original game this might not feel like it adds much. 
+A newer game from the makers of Snakebird that uses the same mechanics, designed as an easier version that will either serve as a warm-up to the original game, or just a gentler experience.  Aside from the different puzzles, the game is very similar to the original in terms of structure, aesthetics, and gameplay.  It’s quite a bit simpler, the difficulty being on par with the first 5-10 levels of Snakebird, so for those who have completed the original game this will not add much. But if you found the original Snakebird too difficult, there's a good chance you will enjoy this version.
 
 ![Snakebirdprimer](https://joelthefox.github.io/img/SnakebirdPrimer.jpg)
 
