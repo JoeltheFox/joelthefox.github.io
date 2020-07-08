@@ -13,7 +13,7 @@ I made some contributions to Ali Nikkhah's masterpiece [Vertebrae](https://draxe
 Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/).  
 A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) of Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole).  
 A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11).  
-A few small contributions to Andy Duff's [Push Blox 2](https://store.steampowered.com/app/894430/Push_Blox_2/).  
+A few contributions to Andy Duff's [Push Blox 2](https://store.steampowered.com/app/894430/Push_Blox_2/).  
 
 A half-original game is my Weird Bug. The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun exerpiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn. [My version](https://joel-fox.itch.io/weird-bug) is a complete game based on the original.  
 
