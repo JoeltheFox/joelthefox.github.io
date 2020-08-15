@@ -662,7 +662,7 @@ Tail of the Serpent|Le Slo|Apr 2019|Match symbols on ground|Medium|25||Web
 Train Snaking|Dario Zubović|May 2019|Deliver passengers safely|Medium|9||Web
 Snakey Snakey makes a Sixy|Increpare|June 2019|Mystery|Easy|1||Web
 The Turing Snake|edmond00|Aug 2019|Snake programming|Easy - Hard|20||Web
-SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS/Win/MacOS 
+SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS/Android/Win/MacOS 
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
@@ -698,7 +698,7 @@ The style of game where you need to touch all the squares in a room without revi
 There are several other games of this type that I did not include – the list is long enough already. Here is a quick list of some that I found:
 
 Alcazar was the most popular implementation of this type of puzzle game, but is unfortunately no longer available. Edderiofer wrote a couple of interesting [blog posts](http://edderiofer.blogspot.com/search/label/Alcazar) about techniques in these types of puzzles.  
-[Hamiltonian Mazes](https://www2.stetson.edu/~efriedma/puzzle/ham/) changes connectivity from the regular square grid.  
+[Hamiltonian Mazes](https://erich-friedman.github.io/puzzle/ham/) changes connectivity from the regular square grid.  
 [Grand Tour Puzzles 1](https://www.janko.at/Raetsel/Grand-Tour/) includes required path segments  
 [Grand Tour Puzzles 2](http://glenniba.com/grandtourhexbranch/GrandTour.html) is currently down because it relies on java applets  
 [Fillall](https://www.kongregate.com/games/carlospedroso/fillall) has crossings and a type of lock & key.  
@@ -757,7 +757,7 @@ Also omitted (due to both fundamental differences and my lack of experience) are
 [Puzzle Picnic snake puzzles](http://www.puzzlepicnic.com/genre?id=45)  
 [puzz.link snake puzzles](https://puzz.link/db/?type=snake)  
 [Snake puzzles at logic masters germany](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag=Schlange)  
-[Erich Friedman’s chess snake puzzles](https://www2.stetson.edu/~efriedma/puzzle/snake/)  
+[Erich Friedman’s chess snake puzzles](https://erich-friedman.github.io/puzzle/snake/), and a [couple extras](https://erich-friedman.github.io/published/snake/index.html)  
 Logic Masters India had snake variations contests in [2011](https://logicmastersindia.com/lmitests/?test=SVC2011) and [2015](https://logicmastersindia.com/lmitests/?test=SVC2015), and a [monthly set](https://logicmastersindia.com/lmitests/?test=PR201512) in 2015.  
 [Para’s Puzzle Site](https://puzzleparasite.blogspot.com/search?q=snake) (link is to search results for their snake puzzles)  
 There is also a Nikoli puzzle type called [Hebi](http://www.nikoli.co.jp/en/puzzles/hebi.html) that is about snakes of numbers, but it doesn't seem very popular. There is a small example [discussed by chaotic_iak](https://chaoticiak492.wordpress.com/puzzles/hebi-ichigo/)   
