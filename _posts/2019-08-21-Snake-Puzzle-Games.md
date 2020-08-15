@@ -662,7 +662,7 @@ Tail of the Serpent|Le Slo|Apr 2019|Match symbols on ground|Medium|25||Web
 Train Snaking|Dario Zubović|May 2019|Deliver passengers safely|Medium|9||Web
 Snakey Snakey makes a Sixy|Increpare|June 2019|Mystery|Easy|1||Web
 The Turing Snake|edmond00|Aug 2019|Snake programming|Easy - Hard|20||Web
-SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS
+SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS/Win/MacOS 
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
