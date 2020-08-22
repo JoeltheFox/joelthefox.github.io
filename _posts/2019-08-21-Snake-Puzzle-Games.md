@@ -118,7 +118,7 @@ In particular my favorites are those where laying the required amount of eggs is
 -----
 
 ### [Snakehole](https://jackkutilek.itch.io/snakehole) by Jack Kutilek
-Snakehole is a very interesting take on snake puzzles. As you might have guessed, there are “holes” that play a big role in the mechanics. Exactly how, you’ll need to find out for yourself! It only has 8 levels, but each one is large and meaty.  It is also has some of the nicest visuals in a PuzzleScript game (I guess the bar is low, but it’s pretty hard to make 5x5 pixels look as good as they do in this game).  This is one of my favorite snake games on this list, since it has both creative mechanics and good levels.  I found a neat modification to level 7 that makes it harder, which you can try [here](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) (with permission from the designer. Naturally one should only attempt this after beating the game. I make no claim that my level is better than the original).
+Snakehole is a very interesting take on snake puzzles. As you might have guessed, there are “holes” that play a big role in the mechanics. Exactly how, you’ll need to find out for yourself! It only has 8 levels, but each one is large and meaty.  It is also has some of the nicest visuals in a PuzzleScript game (I guess the bar is low, but it’s pretty hard to make 5x5 pixels look as good as they do in this game).  This is one of my favorite snake games on this list, since it has both creative mechanics and good levels.  I found a cute modification to level 7 that makes it harder (admittedly not in a good way), which you can try [here](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c).  
 
 ![Snakehole](https://joelthefox.github.io/img/Snakehole.png)
 
@@ -301,7 +301,7 @@ Nice graphics and a good set of mechanics.  The objective in each puzzle is to g
 ### [Vertebrae](https://draxes.itch.io/vertebrae) by Ali Nikkhah  
 A brilliant, difficult game where you are a little mouse that gets stuck inside a snake skeleton’s skull.  Mechanically, the novel idea is that you can move backwards and attach vertebrae to your skeleton.  The challenge of each level is figuring out how to place boxes on buttons, similar to the snakeoban games, but the backwards motion really adds a lot more complexity than you would first imagine.  There are a remarkable number of original concepts explored throughout, with each level presenting a new idea.  If you like hard puzzle games, this is one of the all-time best.
 
-NB: Ali recently made a significant update to the puzzles in the game.  If you played it prior to August 2019 I would recommend playing again from the start.  Disclaimer - I helped a bit with the update.
+NB: Ali recently made a significant update to the puzzles in the game.  If you played it prior to August 2019 I would recommend playing again from the start.  Disclaimer - I helped a bit with the update. I also made some bonus puzzles you can find on my [other post](https://joelthefox.github.io/2019-03-01-Line-of_Sight/).  
 
 ![vertebrae](https://joelthefox.github.io/img/Vertebrae.png)
 
