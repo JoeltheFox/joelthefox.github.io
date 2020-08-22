@@ -3,7 +3,7 @@ layout: post
 title: My Games
 ---
 
-I have designed a number of puzzles for other games, as well as two original games. I enjoy difficult puzzles and that is reflected in what you'll see below!
+I have designed a number of puzzles for other games, as well as two original games. I enjoy difficult puzzles and that is reflected in what you'll see below.
 
 My puzzles for other games include:
 
