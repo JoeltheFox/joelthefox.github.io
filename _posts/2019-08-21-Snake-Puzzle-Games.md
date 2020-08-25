@@ -683,10 +683,15 @@ Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy -
 [Sushi Snake](https://benjamindav.is/sushisnake/) was published but ran into compatibility issues that are being worked on.  
 [The original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) which used defunct java applets are currently being updated to HTML5  
 [Kukulcan](http://www.black-spoon.com/)  
-[Unnamed snake-cactus game](https://twitter.com/mischkakamener/status/1247311816759209985)  
+[Unnamed snake-cactus game](https://twitter.com/mischkakamener/status/1298217558206746625)  
 [Worm Jazz](https://www.wormjazz.com/)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)
+
+Also games that came in the past that are coming to this article in the future:
+[Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/)  
+[Snakes Without Brakes](https://kodub.itch.io/snakes-without-brakes)  
+[Monty's Way Home](https://clinealex10.itch.io/montys-way-home)
 
 -----
 
