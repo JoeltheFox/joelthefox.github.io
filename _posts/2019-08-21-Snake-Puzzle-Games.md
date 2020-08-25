@@ -688,7 +688,7 @@ Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy -
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)
 
-Also games that came in the past that are coming to this article in the future:
+Also games that came in the past that are coming to this article in the future:  
 [Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/)  
 [Snakes Without Brakes](https://kodub.itch.io/snakes-without-brakes)  
 [Monty's Way Home](https://clinealex10.itch.io/montys-way-home)
