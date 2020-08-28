@@ -723,7 +723,7 @@ Alcazar was the most popular implementation of this type of puzzle game, but is 
 
 There are some games that used the same mechanics as Snakebird or Wriggle without mentioning their inspiration, and without new ideas. With Snakebird it seems very likely that the mechanics were copied, while with Wriggle it’s possible that other developers just hadn’t known about it. [Too Many Snakes](http://www.whalefoodgames.com/too-many-snakes), [TruPuzzle](https://apps.apple.com/us/app/trupuzzle/id430437507), and [Twisted Snake]( https://apps.apple.com/us/app/twisted-snake/id840047572) have the same mechanics as Wriggle, but came after Wriggle did.
 
-[Choo Choo Puzzles](https://www.kongregate.com/games/yfan/choo-choo-puzzles) is like Wriggle on a hex grid, but also with pushing.  It does feel a bit more like moving vehicles around than snakes, but it’s a good concept.
+[Choo Choo Puzzles](https://www.kongregate.com/games/yfan/choo-choo-puzzles) is like Wriggle on a hex grid, but also with pushing.  It does feel a bit more like moving vehicles around than snakes, but it’s a good concept (or am I just making an excuse to not do more work?).  [Blockwick 2](https://store.steampowered.com/app/377660/Blockwick_2/) is another game with some similarity to Wriggle; it is mostly a block sliding game, but snake movement makes an appearance.
 
 Almost a puzzle is [Chnakess](https://hempuli.itch.io/chnakess), a snake + chess combination where you try to eat all the chess pieces.  The pieces will escape your bite if they can move without being blocked by your tail, and if they have multiple options they choose somewhat arbitrarily. This makes it feel slightly more like an arcade game than a puzzle, but it’s worth checking out.
 
