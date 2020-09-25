@@ -583,6 +583,14 @@ Crocodiles Love Cookies, though probably apocryphal, is a game that feels like a
 
 -----
 
+### [Monty's Way Home](https://clinealex10.itch.io/montys-way-home) by Alex Cline
+
+A short retro style snake game where you eat pellets that either grow or shrink you, and the goal is to fit inside a target area. It's pretty basic, but one novelty is that you do not need to eat all the pellets to complete a level.  
+
+![monty](https://joelthefox.github.io/img/Monty.png)
+
+-----
+
 
 
 # Awards
@@ -671,6 +679,7 @@ Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92
 Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|111|$13|Win/Mac
 Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
 Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy - Medium|12||Web
+Monty's Way Home|Alex Cline|July 2020|Grow or shrink, then fit inside|Easy|5||Web
 
 -----
 
@@ -684,14 +693,13 @@ Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy -
 [The original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) which used defunct java applets are currently being updated to HTML5  
 [Kukulcan](http://www.black-spoon.com/)  
 [Unnamed snake-cactus game](https://twitter.com/mischkakamener/status/1298217558206746625)  
-[Worm Jazz](https://www.wormjazz.com/)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)
 
 Also games that came in the past that are coming to this article in the future:  
 [Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/)  
 [Snakes Without Brakes](https://kodub.itch.io/snakes-without-brakes)  
-[Monty's Way Home](https://clinealex10.itch.io/montys-way-home)
+[Worm Jazz](https://www.wormjazz.com/)  
 
 -----
 
