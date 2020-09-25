@@ -591,6 +591,14 @@ A short retro style snake game where you eat pellets that either grow or shrink 
 
 -----
 
+### [Snakes without Brakes](https://kodub.itch.io/snakes-without-brakes) by Kodub
+
+Snakes without Brakes is a hybrid of the *eat to grow* snake mechanic and ice (sliding) movement. While SNIKS was the first (and only other) snake game to incorporate sliding, this game uses it to different effect. Here the snakes grow quite a bit longer, there is a much larger level size, and the goal in this game is just to eat all the pellets. Solving these puzzles involves a lot of working backwards to see how a pellet can be reached via a sequence of ricochets. A few extra mechanics are added amongst the 20 levels, a couple of which are fairly specific to the sliding mechanic, so they also add to the game's character. Graphics are minimalist, which I guess makes sense as the game was submitted to LOWREZJAM 2020.
+
+![brakes](https://joelthefox.github.io/img/Brakes.png)
+
+-----
+
 
 
 # Awards
@@ -680,6 +688,7 @@ Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|111|$13
 Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
 Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy - Medium|12||Web
 Monty's Way Home|Alex Cline|July 2020|Grow or shrink, then fit inside|Easy|5||Web
+Snakes without Brakes|Kodub|July 2020|Sliding snakes|Medium|20||Web
 
 -----
 
@@ -698,7 +707,6 @@ Monty's Way Home|Alex Cline|July 2020|Grow or shrink, then fit inside|Easy|5||We
 
 Also games that came in the past that are coming to this article in the future:  
 [Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/)  
-[Snakes Without Brakes](https://kodub.itch.io/snakes-without-brakes)  
 [Worm Jazz](https://www.wormjazz.com/)  
 
 -----
