@@ -703,7 +703,8 @@ Snakes without Brakes|Kodub|July 2020|Sliding snakes|Medium|20||Web
 [Kukulcan](http://www.black-spoon.com/)  
 [Unnamed snake-cactus game](https://twitter.com/mischkakamener/status/1298217558206746625)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
-[Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)
+[Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
+[Snaklops](https://ejbarreto.itch.io/snaklops)  
 
 Also games that came in the past that are coming to this article in the future:  
 [Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/)  
