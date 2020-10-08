@@ -599,6 +599,16 @@ Snakes without Brakes is a hybrid of the *eat to grow* snake mechanic and ice (s
 
 -----
 
+### [Worm Jazz](https://www.wormjazz.com/) by Inconspicuous Creations
+
+Worm Jazz is a exquisitely produced game that has unique and interesting mechanics. The first idea is the green pellet, which when eaten stays in your body at the position you ate it, and when you would otherwise die you instead regenerate a head at that location. The next special pellet is the bomb, which also stays in your body and will explode when that part of you is destroyed. In concert, these abilities let you sacrifice part of yourself, usually in order to open up space on the map. There are a couple of other mechanics introduced later that synergize well with the core gameplay. Actually I liked that last area so much that I wished it came earlier, but I won't spoil what happens.
+
+The puzzles in Worm Jazz are of a good quality, and in each you can score 1-3 stars depending on how many of the pellets you were able to eat. I think this was a pretty reasonable way to add flexibility to the difficulty. One drawback is that it's hard to make a perfectly smooth difficulty curve without knowing how many stars the player will be going for, but it felt fairly good going for all the stars. One small criticism is that I felt most of the puzzles had high depth and low breadth, which is not generally my preference. By this I mean that you are often constrained to a few main options, each of which sets you down a path with several consequences. Because of this, it can be harder to plan ahead without doing some experimentation first. I suspect the developer found that having more open puzzles would give the player too much power. That said, there are many puzzles here with interesting logical challenges.
+
+![jazz](https://joelthefox.github.io/img/WormJazz.png)
+
+-----
+
 
 
 # Awards
@@ -685,6 +695,7 @@ Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
 Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard - Very Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
 Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|111|$13|Win/Mac
+Worm Jazz|Yu He|Apr 2020|Explode segments and regenerate|Easy - Hard|57|$0-7|Win/Switch/Mobile
 Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
 Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy - Medium|12||Web
 Monty's Way Home|Alex Cline|July 2020|Grow or shrink, then fit inside|Easy|5||Web
