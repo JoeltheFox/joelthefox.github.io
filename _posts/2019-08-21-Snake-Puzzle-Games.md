@@ -473,6 +473,8 @@ Snake Sokoban Spiral is similar to Tail of the Serpent in that the goal is to ma
 
 ENIGMASH is the Frankenstein's monster of puzzle games. Patching together different puzzle themes within individual puzzles, and then connecting those puzzles together in a single world, it's a marvel of PuzzleScript code and puzzle design. Whether Snakes appear in it is unknown. Perhaps I am including a game *without* snakes so that the next time I add a game with surprise snakes to my snake article, nobody will see it coming.
 
+Hypothetically speaking, if snakes did appear in a game like this, they might work by transforming between snake form and blocks that can be individually separated. That sounds pretty cool actually, it would be fun if the game did have that.
+
 ![ENIGMASH](https://joelthefox.github.io/img/ENIGMASH.png)
 
 -----
