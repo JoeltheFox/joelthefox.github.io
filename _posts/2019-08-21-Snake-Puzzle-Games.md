@@ -637,7 +637,8 @@ Lime Rick – combination of interesting mechanics and levels
 Wriggle 3D – elegant optimization puzzles  
 Snake Slider – good optimization puzzles with more complex mechanics   
 Snakefall – good to great fan-made levels for Snakebird  
-Bottom Feeder - excellent concept and puzzles
+Bottom Feeder - excellent concept and puzzles  
+Worm Jazz - Highly polished with interesting mechanics
 
 Work particularly well for mobile / touch controls:  Snake Slider,  Quetzalcoatl,  Snake’s Tale
 
