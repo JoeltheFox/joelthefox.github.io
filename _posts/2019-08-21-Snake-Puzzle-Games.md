@@ -3,7 +3,9 @@ layout: post
 title: Snake Puzzle Games
 ---
 
-Here is a collection of all the snake puzzle games in the known universe, together with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
+Here is a collection of all the snake puzzle games known to humankind (we haven't told the snakes yet), together with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
+
+Latest update Oct 7, 2020: added new game Worm Jazz
 
 -----
 
@@ -605,9 +607,13 @@ Worm Jazz is an exquisitely produced game that has unique and interesting mechan
 
 The puzzles in Worm Jazz are of a good quality, and in each you can score 1-3 stars depending on how many of the pellets you were able to eat. I think this was a pretty reasonable way to add flexibility to the difficulty. One drawback is that it's hard to make a perfectly smooth difficulty curve without knowing how many stars the player will be going for, but it felt fairly good going for all the stars. A small criticism is that I felt most of the puzzles had high depth and low breadth, which is not generally my preference. By this I mean that you are often constrained to a few main options, each of which sets you down a path with several consequences. Because of this, it can be harder to plan ahead without doing some experimentation first. I suspect the developer found that having more open puzzles would give the player too much power. That said, there are more than enough puzzles here with satisfying logical challenges.
 
-Concluding with more words about the production: the original music is very good, graphics are excellent (though effects could have been more subdued), and you can unlock funny hats!
+Concluding with more words about the production: the original jazz music is very good, graphics are excellent (though effects could have been more subdued), and you can unlock funny hats!
 
 ![jazz](https://joelthefox.github.io/img/WormJazz.png)
+
+>Well, the game started as a game jam entry. The theme of the jam was "extra life", so I thought it made the most sense to have that be part of the game's core mechanics, ie. being able to control your size by using extra lives strategically. I thought a worm would be a better fit than a snake, since worms are known to be able to regenerate their tail (it's the head in the game, but minor detail...) Worms also come out on rainy days and since nothing goes together better than smooth jazz on a rainy day, it all kind of just came together nicely.  
+>I ended up winning the game jam, and decided to spend the winnings turning the prototype into a commercial product. It wasn't a big budget, but I did hire a jazz composer for the soundtrack :). I wish I had spent more time on visuals and level design/difficulty tuning especially. I kind of opted for the easy way out by providing 1-3 stars rather than trying to properly balance it out. I think the thing I'm happiest about is how the sound design turned out.
+>-Yu
 
 -----
 
