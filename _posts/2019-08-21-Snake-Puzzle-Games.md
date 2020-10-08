@@ -612,7 +612,7 @@ Concluding with more words about the production: the original jazz music is very
 ![jazz](https://joelthefox.github.io/img/WormJazz.png)
 
 >Well, the game started as a game jam entry. The theme of the jam was "extra life", so I thought it made the most sense to have that be part of the game's core mechanics, ie. being able to control your size by using extra lives strategically. I thought a worm would be a better fit than a snake, since worms are known to be able to regenerate their tail (it's the head in the game, but minor detail...) Worms also come out on rainy days and since nothing goes together better than smooth jazz on a rainy day, it all kind of just came together nicely.  
->I ended up winning the game jam, and decided to spend the winnings turning the prototype into a commercial product. It wasn't a big budget, but I did hire a jazz composer for the soundtrack :). I wish I had spent more time on visuals and level design/difficulty tuning especially. I kind of opted for the easy way out by providing 1-3 stars rather than trying to properly balance it out. I think the thing I'm happiest about is how the sound design turned out.
+>I ended up winning the game jam, and decided to spend the winnings turning the prototype into a commercial product. It wasn't a big budget, but I did hire a jazz composer for the soundtrack :). I wish I had spent more time on visuals and level design/difficulty tuning especially. I kind of opted for the easy way out by providing 1-3 stars rather than trying to properly balance it out. I think the thing I'm happiest about is how the sound design turned out.  
 >-Yu
 
 -----
