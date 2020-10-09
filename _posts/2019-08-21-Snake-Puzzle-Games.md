@@ -4,7 +4,7 @@ title: Snake Puzzle Games
 ---
 Latest update Oct 7-8, 2020: added new game Worm Jazz, and updated Puddle Knights.
 
-Here is a collection of all the snake puzzle games known to humankind (we haven't told the snakes yet), together with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
+Here is a collection of all the snake puzzle games known to humankind (thankfully word hasn't gotten out to other species yet), together with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
 
 -----
 
