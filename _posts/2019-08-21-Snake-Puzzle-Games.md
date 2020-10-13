@@ -590,7 +590,7 @@ Crocodiles Love Cookies, though probably apocryphal, is a game that feels like a
 
 ### [Monty's Way Home](https://clinealex10.itch.io/montys-way-home) by Alex Cline
 
-A short retro style snake game where you eat pellets that either grow or shrink you, and the goal is to fit inside a target area. It's pretty basic, but one novelty is that you do not need to eat all the pellets to complete a level.  
+A short retro style snake game where you eat pellets that either grow or shrink you, and the goal is to fit inside a target area. It's pretty basic, but one little novelty is that you do not need to eat all the pellets to complete a level.  
 
 ![monty](https://joelthefox.github.io/img/Monty.png)
 
