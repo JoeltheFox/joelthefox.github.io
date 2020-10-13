@@ -184,7 +184,7 @@ A snake game where the main difficulty is restricted controls. Rather than being
 ### [Lime Rick](http://www.kongregate.com/games/kissmaj7/lime-rick) by Tommi Tuovinen
 An interesting snake game with gravity, where you need to eat all the apples and you have infinite length.  The most common maneuver is to climb on your own body to reach greater heights, but there’s a lot more to it than that.  It’s a longer game with many interesting levels, and adds two mechanics as the game progresses: locks and keys, and one that you might guess but I won’t reveal. While infinite length normally means it's similar to line drawing, the fact that you fall with gravity makes it feel organic and snake-like.
 
-There is a PuzzleScript [implementation](https://www.puzzlescript.net/play.html?p=6873930) of the first 10 levels, and there is also a fan level of Lime Rick at the end of [Simple Block Plagiarism Game](https://www.puzzlescript.net/play.html?p=5845220714269bdec8777532dfd943c6), which changes one mechanic slightly.
+There is a PuzzleScript [implementation](https://www.puzzlescript.net/play.html?p=6873930) of the first 10 levels, and there is also a fan level of Lime Rick at the end of [Simple Block Plagiarism Game](https://www.puzzlescript.net/play.html?p=5845220714269bdec8777532dfd943c6), which changes one mechanic slightly. Two more Lime Rick inspired games appear in the entries just below.
 
 ![lime rick](https://joelthefox.github.io/img/LimeRick.png)
 
