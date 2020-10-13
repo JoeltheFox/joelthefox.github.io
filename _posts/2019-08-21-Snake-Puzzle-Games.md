@@ -2,7 +2,7 @@
 layout: post
 title: Snake Puzzle Games
 ---
-Latest update Oct 7-8, 2020: added new game Worm Jazz, and updated Puddle Knights.
+Latest update Oct 7 to 12, 2020: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level.
 
 Here is a collection of all the snake puzzle games known to humankind (thankfully word hasn't reached you-know-who), together with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
 
@@ -622,13 +622,14 @@ Concluding with more words about the production: the original jazz music is very
 
 ### [Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/) by Ramsey Boyce
 
-The basic snake mechanics in this game are like a mixture of those in Vertebrae, Bottom Feeder, and Boa. As in Vertebrae you can move backwards, which translates the entire snake body in that direction. As in Bottom Feeder, your tail attaches to new snake segments when adjacent (though here your tail must also be facing the new segment). And as in Boa, you are sometimes required to cross over water by always having part of the snake on land. *Fusion* in the name doesn't refer to the aforementioned hybrid, but the surprising and creative inclusion of picross-like units, which require a certain number of colored segments in a given direction in order to move. These units may be blocking your path, or they might be part of the snake itself! There is also a cute world-map where you control a snake composed of all the levels you've completed
+The basic snake mechanics in this game are like a mixture of those in Vertebrae, Bottom Feeder, and Boa. As in Vertebrae you can move backwards, which translates the entire snake body in that direction. As in Bottom Feeder, your tail attaches to new snake segments when adjacent (though here your tail must also be facing the new segment). And as in Boa, you are sometimes required to cross over water by always having part of the snake on land. *Fusion* in the name doesn't refer to the aforementioned hybrid, but the surprising and creative inclusion of picross-like units, which require a certain number of colored segments in a given direction in order to move. These units may be blocking your path, or they might be part of the snake itself! There is also a cute world-map where you control a snake composed of all the levels you've completed.
 
-Initially I wasn't expecting too much from Serpent Fusion, since the graphics are basic, it's free on Steam with very few reviews, and in the description it was noted that the designer is 16 and created the game as a hobby while in highschool. Well, I was proven quite wrong by this impressive youngin! (At the moment I have not completed the game because I am blocked by a bug; hopefully that will be fixed soon)
+Initially I wasn't expecting too much from Serpent Fusion, since the graphics are basic, it's free on Steam with very few reviews, and in the description it was noted that the designer is 16 and created the game as a hobby while in highschool. Well, I was proven quite wrong by this impressive youngster! (At the moment I have not completed the game because I am blocked by a bug; hopefully that will be fixed soon)
 
 ![fusion](https://joelthefox.github.io/img/SerpentFusion.png)
 
 -----
+
 
 
 # Awards
