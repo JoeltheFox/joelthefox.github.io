@@ -620,6 +620,15 @@ Concluding with more words about the production: the original jazz music is very
 
 -----
 
+### [Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/) by Ramsey Boyce
+
+The basic snake mechanics in this game are like a mixture of those in Vertebrae, Bottom Feeder, and Boa. As in Vertebrae you can move backwards, which translates the entire snake body in that direction. As in Bottom Feeder, your tail attaches to new snake segments when adjacent (though here your tail must also be facing the new segment). And as in Boa, you are sometimes required to cross over water by always having part of the snake on land. *Fusion* in the name doesn't refer to the aforementioned hybrid, but the surprising and creative inclusion of picross-like units, which require a certain number of colored segments in a given direction in order to move. These units may be blocking your path, or they might be part of the snake itself! There is also a cute world-map where you control a snake composed of all the levels you've completed
+
+Initially I wasn't expecting too much from Serpent Fusion, since the graphics are basic, it's free on Steam with very few reviews, and in the description it was noted that the designer is 16 and created the game as a hobby while in highschool. Well, I was proven quite wrong by this impressive youngin! (At the moment I have not completed the game because I am blocked by a bug; hopefully that will be fixed soon)
+
+![fusion](https://joelthefox.github.io/img/SerpentFusion.png)
+
+-----
 
 
 # Awards
@@ -701,6 +710,7 @@ Train Snaking|Dario Zubović|May 2019|Deliver passengers safely|Medium|9||Web
 Snakey Snakey makes a Sixy|Increpare|June 2019|Mystery|Easy|1||Web
 The Turing Snake|edmond00|Aug 2019|Snake programming|Easy - Hard|20||Web
 SNIKS|Shelly Alon|Aug 2019|Colored snakes overlap|Medium|110|$3|iOS/Android/Win/MacOS 
+Serpent Fusion|Ramsey Boyce|Sep 2019|Move backwards, picross|Medium|69||Win
 Snake Sokoban Spiral|Justas Dabrila|Oct 2019|Drop off segments, roll|Medium|16||Web
 ENIGMASH|Jack Lance|Nov 2019|Mash of different games|Medium - Hard|N/A||Web
 Snakey Jakey|Ethan Clark|Jan 2020|Push yourself|Medium|32||Web
@@ -728,9 +738,6 @@ Snakes without Brakes|Kodub|July 2020|Sliding snakes|Medium|20||Web
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
-
-Also games that came in the past that are coming to this article in the future:  
-[Serpent Fusion](https://store.steampowered.com/app/1126260/Serpent_Fusion/)   
 
 -----
 
@@ -830,4 +837,4 @@ I didn’t want to spoil the mechanics of Vertebrae too much in my description o
 
 Wriggle 3D and Snake Slider have nice puzzles that are made more challenging by asking for the optimal solution.  Many puzzle solvers find this a cheap way to increase difficulty, since it could be added to any grid-based puzzle out there, and usually will not make it more interesting, just more time consuming.  This criticism is often accurate, but in certain types of puzzles it actually becomes more interesting having to find the shortest solution.  This is true in the great board game [Ricochet Robots](https://boardgamegeek.com/boardgame/51/ricochet-robots), and I would argue also in these two snake games, though I still don’t think they will be for everyone.  Trying to find the shortest solution can be frustrating, since it’s often not clear what part of the solution you need to improve.  In a more traditional puzzle, the challenge of the puzzle is presented clearly to the solver; the most satisfying puzzles are often ones that immediately evoke a “this is surely impossible.”  But in finding an optimal solution, you are not given the problem up front, and have to *find* the problem first of all.  Is there a part of your solution that could be improved? Is there an entirely different approach that might work better?  This can be good and bad.  In the best case, it is exciting to discover an elegant tactic where you didn’t think one existed, or a completely new way to solve the puzzle.  It can also be exhilarating playing out a new solution idea, and seeing as you get closer to the finish whether you’ll make it in the lowest number of moves.  In the worst case the solver must resort to brute force, checking all reasonable combinations of moves until stumbling upon the shortest sequence.  This unfortunate event is often caused by a lack of ‘understandability’ of the puzzle, so to speak.  The more intuitive or conceptual tools a solver has, the less trial and error they will need to use.  I was quite impressed with the two games mentioned here, whose puzzles keep the solver engaged and thinking conceptually, while searching for the optimal solutions.  There is something oddly satisfying about maneuvering snakes efficiently.
 
-As a final note, I will aim to answer the age-old question: Can a snake move into its own tail?  The answer, as given by the applicable games above, is no! (by a count of 17 to 11)  I do suspect that part of this is due to the slight nuisance of programming it. Interestingly, in Snakebird there is a [bug](https://twitter.com/nohatcoder/status/621282209224368128) whereby a snake cannot normally move into its tail, but it *can* move another object into its tail.  The reverse situation is present in Snake Slider, where a snake can normally move into its tail, but *cannot* push a different object into its tail.
+As a final note, I will aim to answer the age-old question: Can a snake move into its own tail?  The answer, as given by the applicable games above, is no! (by a count of 20 to 13)  I suspect that part of this is due to the small nuisance of programming it. Curiously, in Snakebird there is a [bug](https://twitter.com/nohatcoder/status/621282209224368128) whereby a snake cannot normally move into its tail, but it *can* move another object into its tail.  The reverse situation is present in Snake Slider, where a snake can normally move into its tail, but *cannot* push a different object into its tail.
