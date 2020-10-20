@@ -798,6 +798,7 @@ Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest
 Puzzle games where snakes are your enemies:  
 [SnakEscape](https://store.steampowered.com/app/409440/SnakEscape_REMASTERED/)  
 [DROD](https://store.steampowered.com/app/314330/DROD_Gunthro_and_the_Epic_Blunder/) (though snakes are not a main focus)  
+[Snake Puzzle Game](https://apps.apple.com/us/app/download-app/id1508917634) is a strategy game where you try to outgrow an AI snake, and fruit are generated in predictable locations.
 
 [The Serpent’s Shadow](https://nusan.itch.io/the-serpents-shadow) has an interesting mechanic, which is that you need to shade an area of ground from a light source using your snake’s body.  The puzzles are not particularly deep though and there is a small real-time element.
 
