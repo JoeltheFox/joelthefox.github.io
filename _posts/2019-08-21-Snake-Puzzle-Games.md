@@ -4,15 +4,6 @@ title: Snake Puzzle Games
 ---
 ###### *October 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
-<font size="1">your_text_here</font>
-<font size="2">your_text_here</font>
-<font size="2.5">your_text_here</font>
-<font size="3">your_text_here</font>
-<font size="3.5">your_text_here</font>
-<font size="4">your_text_here</font>
-<font size="4.5">your_text_here</font>
-<font size="5">your_text_here</font>
-
 Here is a collection of all the snake puzzle games known to humans (the snakes, hopefully, are not sentient), along with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
 
 -----
@@ -437,6 +428,7 @@ SnakekanS is a fantastic iOS game that starts with the basic snake idea, where y
 ![snakekans](https://joelthefox.github.io/img/Snakekans.PNG)
 
 Wu Binxing sent me a wonderful little essay about the game, which a friend translated:
+<font size="2">
 >I played Snakebird after I decide to create a snake puzzle game. The mechanic of gravity make the game very intersting. So I try to find a core mechanic about my game. My first idea is reverse. Then I try to make a level of reverse.  
 >After we decided on the key mechanism, we first added the fundamental element, which make the snake grow one grid after it eats. This is something common to all snake games - I call it 'rat/mouse'. Now, we consider what the next element would be.   
 >First of all, to maintain its simplicity, I dont think the game should have any 'ground' element, as different maps would already have achieved that. As we choose to have a wide selection of food for the snake, we should keep the other elements simple.   
@@ -447,7 +439,7 @@ Wu Binxing sent me a wonderful little essay about the game, which a friend trans
 >We realize then that adding the turtle creates new ways of thinking/problem solving. In levels where there are many turtles, and if exit would only open after snake eats all animals, we wonder what the shortest distance would be if snake has to eat all turtles. We would know how long the snake grows eventually by counting the number of animals in each level. We then look for the shortest routes by considering the eventual length of the snake. For many levels, the length of the shortest route is the same as the length of the snake. This helps players to come up with a new way of thinking when they are in the middle of the game. Players who discovered this would be able to pass levels faster and get to enjoy the game more. Not all elements work this way, and we would use this as a way to measure the quality of an element when we design new games in the future.   
 >Currently the game mechanism has no correlation with the Shadow play; if it wasnt Shadow play style, it can be something else and the game would still work. Eventually, we think if the snake is a puppet in the Shadow play, it should be able to break into parts. However as the snake can only move up/down/left/right, and the mechanism to break the snake is too complicated, we decided to make the snake broken into parts at the beginning. When the broken parts get close to each other, the snake would reconnect its parts.
 Broken snake and reversal mechanism also work really well. Reversal would allow player to switch between two parts. As reversal means different things with reconnecting and breaking different parts, the timing to reconnect becomes very important. There exists a sequencing issue too as the broken snake cannot reconnect after it eats the elephant. There is also a level where the player needs to reconnect the parts at the last step to prevent the snake gets killed by eating a turtle.  
->That's all. Thank you for reading.
+>That's all. Thank you for reading.  </font>  
 >-Wu Binxing
 
 -----
