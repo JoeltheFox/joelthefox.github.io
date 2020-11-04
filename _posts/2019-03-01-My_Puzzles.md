@@ -1,16 +1,17 @@
 ---
 layout: post
-title: My Games
+title: My Puzzles
 ---
 
-I have designed a number of puzzles for other games, as well as two original games. I enjoy difficult puzzles and that is reflected in what you'll see below.
+I have designed a number of puzzles for other games, as well as a couple of original games. I enjoy difficult puzzles and that is reflected in what you'll see below.
 
 My puzzles for other games include:
 
 [Temple](https://wolfesoftware.com/snakefall/#level=HyRr4JK1&20&40?*b1*A0*31*D0110*32*40111*70*3201102*102*I02*10201102022202*30*02*70202220201102024202*I0202420201100020002*401*902000200011000*12*30*02*70*1200011*Y0*01*W0*01*U0*21*U0*21*U0*21*U0*21*V0*11*202*O0*11*202*N0*212*102*N0*81222*410*510*j1/f25?325/f26?483/f27?526/f10?569/f0?652/s4?705/f8?670/f11?550/f6?220/f12?258/f1?196/f4?238/f2?665/b3?612/b4?625/f3?255/f5?138/), built in the Snakefall demake of [Snakebird](https://snakebird.noumenongames.com/). I also made some other less original levels that you can find on the [wiki](https://github.com/thejoshwolfe/snakefall/wiki).  
-A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler).  
 I made some contributions to Ali Nikkhah's masterpiece [Vertebrae](https://draxes.itch.io/vertebrae).  A few more levels are pending judgment: [Bonus puzzle 1](https://www.puzzlescript.net/play.html?p=93866bdc4d383db31fc99c4d9a4db93c) is an alternate to level 19; [Bonus puzzle 2](https://www.puzzlescript.net/play.html?p=5aa21f6896e518d160197982fdaa322c) would fit around levels 27-29; [Bonus puzzle 3](https://www.puzzlescript.net/play.html?p=bb6fe1e13756f395845064849402d6d6) would fit into the game at level 33, but is really difficult.  
+A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler).  
 Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/).  
+A twist on the last level of [The Golem](https://store.steampowered.com/app/1270390/The_Golem/) based on an unintended solution from my playtesting. To play it, load the level telekinesis3 in the [level editor](http://www.fastram.co.uk/the_golem/designer/).  
 A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) of Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole).  
 A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11).  
 A few contributions to Andy Duff's [Push Blox 2](https://store.steampowered.com/app/894430/Push_Blox_2/).  
@@ -35,6 +36,12 @@ In [Line of Sight](https://joel-fox.itch.io/line-of-sight), movable *towers* are
 
 ![Line of Sight](https://joelthefox.github.io/img/LoSscreen.png "Level 3 of Line of Sight")  
 The blue towers in this position are satisfied because they can see eachother vertically, while the one on the bottom is unsatisfied.  
+
+-----
+
+[Loopoban](https://joel-fox.itch.io/loopoban) was my submission to the Ludum Dare 47 game jam, where the theme was "stuck in a loop." I'll try to make an updated version with better puzzles when I have time.
+
+![Loopoban](https://joelthefox.github.io/img/Loopoban.png "Level 1 of Loopoban")  
 
 -----
 
