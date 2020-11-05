@@ -662,16 +662,17 @@ Best snake games that are not snake games: Puddle Knights,  Shackle
 
 Honorable Mentions:  
 Snakeoban (Jack Lance) – excellent puzzle design  
-Lime Rick – combination of interesting mechanics and levels  
+Lime Rick – interesting mechanics and levels  
 Wriggle 3D – elegant optimization puzzles  
-Snake Slider – good optimization puzzles with more complex mechanics   
+Snake Slider – good optimization puzzles with more complex mechanics  
 Snakefall – good to great fan-made levels for Snakebird  
 Bottom Feeder - excellent concept and puzzles  
-Worm Jazz - Highly polished with interesting mechanics
+Worm Jazz - highly polished with interesting mechanics  
+Serpent Fusion - nice puzzles result from a surprising combination of mechanics  
 
 Work particularly well for mobile / touch controls:  Snake Slider,  Quetzalcoatl,  Snake’s Tale
 
-Most humorous: Trifecta of snake games by Dario Zubović:  SnakeShit,  ShitStain,  Train Snaking
+Most humorous: Trifecta of snake games by Dario Zubović - SnakeShit,  ShitStain,  Train Snaking
 
 -----
 
