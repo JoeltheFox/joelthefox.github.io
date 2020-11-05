@@ -141,7 +141,7 @@ This wonderful PuzzleScript game is not well known, but the puzzles are fantasti
 -----
 
 ### [Snakeoban](https://waynemyers.itch.io/snakeoban) by Wayne Myers
-Similar mechanics to the early levels in Jack Lance’s game, but the puzzles here are easier and not quite as well designed.  I would only recommend this if you really like the snakeoban idea and would prefer an easier game than Jack Lance’s.
+Similar mechanics to the early levels in Jack Lance’s game, but the puzzles here are easier and not quite as well designed.  I would only recommend this if you really like the snakeoban idea and would prefer an easier game to Jack Lance’s. This one gets credit for being the first game to combine snake movement and pushing objects onto targets, which turned out to be quite interesting with several other variants of the idea to come later.
 
 ![Snakeoban myers](https://joelthefox.github.io/img/SnakeobanMyers.png)
 
