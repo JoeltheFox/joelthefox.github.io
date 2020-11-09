@@ -135,7 +135,7 @@ This wonderful PuzzleScript game is not well known, but the puzzles are fantasti
 
 ![Snakeobanlance](https://joelthefox.github.io/img/SnakeobanJack.png)
 
-> The level I remember liking the most was the one where the [REDACTED].  Just because it totally flipped expectations of what [REDACTED] had been used for.  
+> The level I remember liking the most was the one where [rot13] **gur jubyr fanxr jnf genccrq va n yvggyr obk gung lbh unq gb zbir nebhaq gur ebbz**.  Just because it totally flipped expectations of what **gur obkrf** had been used for.  
 > -Jack Lance
 
 -----
