@@ -28,8 +28,10 @@ My main qualification to write about these games is that I have solved all the p
 <details>
 <summary>Dropdown list of games</summary>
 <br>
-[Snakebird](#snakebird)
+[Snakebird](#snakebird-by-noumenon-games)
 </details>
+
+[Snakebird](#snakebird-by-noumenon-games)
 
 -----
 
