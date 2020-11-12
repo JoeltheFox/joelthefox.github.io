@@ -2,7 +2,7 @@
 layout: post
 title: Snake Puzzle Games
 ---
-###### *Nov 2020 updates: Wriggle family added now that clickmazes website is back, and a drop-down menu at the top
+###### *Nov 2020 updates: Wriggle family added now that clickmazes website is back, and a drop-down menu at the top*
 ###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
 Here is a collection of all the snake puzzle games known to humans (the snakes, hopefully, are not sentient), along with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
@@ -28,7 +28,7 @@ My main qualification to write about these games is that I have solved all the p
 <details>
 <summary>Dropdown list of games</summary>
 <br>
-[Snakebird](#snakebird-by-noumenon-games)
+[Snakebird](#snakebird)
 </details>
 
 -----
