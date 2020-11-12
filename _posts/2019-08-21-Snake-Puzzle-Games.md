@@ -2,7 +2,7 @@
 layout: post
 title: Snake Puzzle Games
 ---
-###### *Nov 2020 updates: Wriggle family added now that clickmazes website is back, and a drop-down menu at the top*
+###### *Nov 2020 updates: Wriggle family added, and a drop-down menu at the top*
 ###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
 Here is a collection of all the snake puzzle games known to humans (the snakes, hopefully, are not sentient), along with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
@@ -26,7 +26,7 @@ Here is a collection of all the snake puzzle games known to humans (the snakes, 
 My main qualification to write about these games is that I have solved all the puzzles.  In describing them, I have sometimes left out key mechanics or high points, so that the reader will not lose the joy of discovery.  If you find that I have erred too far to the side of spoiler avoidance, don’t tell me!
 
 <details>
-<summary>Dropdown list of games</summary>
+<summary>Dropdown navigation list</summary>
 <br>
 <a href="#snakebird-by-noumenon-games">Snakebird</a><br>
 <a href="#snakebird-primer-by-noumenon-games">Snakebird Primer</a><br>
@@ -39,8 +39,8 @@ My main qualification to write about these games is that I have solved all the p
 <a href="#blocker-snake-by-rosden-shadow">Blocker Snake</a><br>
 <a href="#ouroboros-eggs-by-marcos-donnantuoni">Ouroboros' Eggs</a><br>
 <a href="#snakehole-by-jack-kutilek">Snakehole</a><br>
-<a href="#snakeoban-by-jack-lance">Snakeoban (Jack Lance)</a><br>
-<a href="#snakeoban-by-wayne-myers">Snakeoban (Wayne Myers)</a><br>
+<a href="#snakeoban-by-jack-lance">Snakeoban</a> (Jack Lance)<br>
+<a href="#snakeoban-by-wayne-myers">Snakeoban</a> (Wayne Myers)<br>
 <a href="#sokoboros-by-trevor-newton">Sokoboros</a><br>
 <a href="#dotsnake-by-franklin-dyer">Dotsnake</a><br>
 <a href="#circle-serpent-by-evilartbunny">Circle Serpent</a><br>
@@ -59,6 +59,38 @@ My main qualification to write about these games is that I have solved all the p
 <a href="#vertebrae-by-ali-nikkhah">Vertebrae</a><br>
 <a href="#train-snaking-by-dario-zubović">Train Snaking</a><br>
 <a href="#puzzle-snake-by-kroum-grigorov">Puzzle Snake</a><br>
+<a href="#snake-slider-by-bas-de-reuver">Snake Slider</a><br>
+<a href="#hungry-kraken-by-stephen-lavelle">Hungry Kraken</a><br>
+<a href="#shy-snake-by-daniel-freer-and-stephen-lavelle">Shy Snake</a><br>
+<a href="#der-hydra-krypta-by-stephen-lavelle">der Hydra Krypta</a><br>
+<a href="#wriggler-demake-by-tapio-saarinen">Wriggler Demake</a><br>
+<a href="#wriggle-3d-by-andrea-gilbert-and-tom-jolly-developed-by-conlan-rios">Wriggle 3D</a><br>
+<a href="#snortal-by-stephen-lavelle">Snortal</a><br>
+<a href="#snakey-snakey-makes-a-sixy-by-stephen-lavelle">Snakey Snakey Makes a Sixy</a><br>
+<a href="#snakepace-by-logicalcell">SnakePace</a><br>
+<a href="#fillersnake-by-jaberish">FillerSnake</a><br>
+<a href="#snakekans-by-wu-binxing">SnakekanS</a><br>
+<a href="#quetzalcoatl-by-1button-sarl">Quetzalcoatl</a><br>
+<a href="#snake-blocks-by-spooky-cat">Snake Blocks</a><br>
+<a href="#sniks-by-shelly-alon">SNIKS</a><br>
+<a href="#snake-sokoban-spiral-by-justas-dabrila">Snake Sokoban Spiral</a><br>
+<a href="#enigmash-by-jack-lance">ENIGMASH</a><br>
+<a href="#snakey-jakey-by-ethan-clark">Snakey Jakey</a><br>
+<a href="#bottom-feeder-by-zach-abel">Bottom Feeder</a><br>
+<a href="#puddle-knights-by-lockpickle">Puddle Knights</a><br>
+<a href="#snaliens-by-joão-ferreira">Snaliens</a><br>
+<a href="#the-turing-snake-by-edmond00">The Turing Snake</a><br>
+<a href="#tile-snake-by-andrew-tollett">Tile Snake</a><br>
+<a href="#shackle-by-steven-miller">Shackle</a><br>
+<a href="#crocodiles-love-cookies-by-ethan-clark">Crocodiles Love Cookies</a><br>
+<a href="#montys-way-home-by-alex-cline">Monty's Way Home</a><br>
+<a href="#snakes-without-brakes-by-kodub">Snakes without Brakes</a><br>
+<a href="#worm-jazz-by-inconspicuous-creations">Worm Jazz</a><br>
+<a href="#serpent-fusion-by-ramsey-boyce">Serpent Fusion</a><br>
+<a href="#wriggle-by-andrea-gilbert">Wriggle</a><br>
+<a href="#colour-wriggle-mazes-by-andrea-gilbert">Colour-Wriggle Mazes</a><br>
+<a href="#tj-wriggle-by-andrea-gilbert-and-tom-jolly">TJ-Wriggle</a><br>
+<a href="#extreme-tj-wriggle-by-bob-henderson">Extreme TJ-Wriggle</a><br>
 </details>
 
 -----
