@@ -361,7 +361,7 @@ In “the Hydra Crypt,” when your snake head eats a human, the snake doesn’t
 -----
 
 ### [Wriggler Demake](https://www.puzzlescript.net/play.html?p=c58ba6f441c8b2ecb817) by Tapio Saarinen
-Wriggler Demake is a PuzzleScript implementation of the original Wriggle mechanics: multiple snakes are on a grid and can be dragged from either end, and the goal is for all the colored tiles to have that color of snake on top of them (the creator of Wriggle later changed the goal to be an exit square, as in Wriggle 3D).  I know that there are some original puzzles in this game, but I am not sure how many are copied since the original Wriggle is unavaiable. One difference in gameplay is that the player controls movement using a pseudo-cursor, which has its own puzzle-related consequences.  The game is short and well done, and will be worth looking at if you enjoy the types of puzzles in Wriggle or Snake Sliders.
+Wriggler Demake is a PuzzleScript implementation of the original Wriggle mechanics: multiple snakes are on a grid and can be dragged from either end, and the goal is for all the colored tiles to have that color of snake on top of them (the creator of Wriggle later changed the goal to be an exit square, as in Wriggle 3D and TJ-Wriggle).  All of the puzzles in this game are original and satisfyingly logical. One difference in gameplay is that the player controls movement using a pseudo-cursor, which has its own puzzle-related consequences.  The game is short and interesting, and will be worth looking at if you enjoy the types of puzzles in Wriggle or Snake Sliders. 
 
 ![wriggle demake](https://joelthefox.github.io/img/WrigglerDemake.png)
 
@@ -369,11 +369,11 @@ Wriggler Demake is a PuzzleScript implementation of the original Wriggle mechani
 
 ### [Wriggle 3D](https://apps.apple.com/us/app/wriggle-3d/id767189857?mt=12) by Andrea Gilbert and Tom Jolly, developed by Conlan Rios
 
-The [original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) by Andrea Gilbert from 2003 is I believe the very first snake puzzle game!  It was initially created as a variation of sliding block puzzles of the [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) variety.  In Rush Hour, vehicles can only move by their front and back, along the line defined by their long end.  This variant relaxes the movement – the front and rear of the objects are the only parts that can lead, but instead of moving just in a straight line, they can move in any direction and the rest of the object will follow in a snake-like way.  Wriggle 3D is the game I am writing about first because the original Wriggle puzzles had been unavailable until Oct 2020 due to java applets becoming defunct.
+The [original Wriggle puzzles](http://www.clickmazes.com/wriggle/ixwriggle.htm) by Andrea Gilbert from 2003 was the very first snake puzzle game, and Wriggle 3D is the most fully developed game in the Wriggle family.  Wriggle was initially created as a variation of sliding block puzzles of the [Rush Hour](https://en.wikipedia.org/wiki/Rush_Hour_(puzzle)) variety.  In Rush Hour, vehicles can only move by their front and back, along the line defined by their long end.  This variant relaxes the movement – the front and rear of the objects are the only parts that can lead, but instead of moving just in a straight line, they can move in any direction and the rest of the object will follow in a snake-like way.  Wriggle 3D is the game I am writing about first because the original Wriggle puzzles had been unavailable until Oct 2020 due to java applets becoming defunct. I eventually got a chance to play through all the other Wriggle games and you can find them at the end of the article.
 
-The extra flexibility in movement is countered by walls that block movement, to make puzzles that do feel quite a bit like Rush Hour, giving the same feeling of “how do I ever clear my path to the exit.”  I think this is a step up, being more fun and deeper than Rush Hour.  Deeper in the sense that for the same difficulty of puzzle, the solver will need to think more conceptually and strategically in this game.  Like in Snake Sliders, the secondary goal is to solve each puzzle in the fewest moves (again counting a move as dragging the end of a snake by any distance).  This proves to be quite a tough challenge, on par with Snake Sliders.  There are many really interesting puzzles in the game, the final one being exceptionally nice.  
+The extra flexibility in movement compared to Rush Hour is countered by blocking walls, to make puzzles that do feel quite a bit like Rush Hour, giving the same feeling of “how do I ever clear my path to the exit.”  I think this is a step up, being more fun and deeper than Rush Hour.  Deeper in the sense that for the same difficulty of puzzle, the solver will need to think more conceptually and strategically in this game.  Like in Snake Sliders, the secondary goal is to solve each puzzle in the fewest moves (again counting a move as dragging one end of a snake by any distance).  This proves to be quite a tough challenge, on par with Snake Sliders.  There are many really interesting puzzles in the game, the final one being exceptionally nice.  
 
-Wriggle 3D comprises the same 80 puzzles that were present in a now defunct mobile app called Wriggle. I find the graphics, music, and controls work well.  It is currently only available for Mac.
+Wriggle 3D comprises the same 80 puzzles that were present in a now defunct mobile app called Wriggle. They don't overlap much with the Wriggle puzzles currently on the clickmazes website. I find the graphics, music, and controls work well.  It is only available for Mac right now.
 
 ![wriggle 3D](https://joelthefox.github.io/img/Wriggle3D.png)
 
@@ -579,9 +579,9 @@ Made for Ludum Dare 35 which had the theme "shapeshift," Tile Snake lets you fil
 
 ### [Shackle](https://steven-miller.itch.io/shackle) by Steven Miller
 
-In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain (snake midsection) and push the ball (snake tail), a humanoid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea in non-snake puzzle games.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It begins gently but ends with some devious head-scratchers, the last of which is now one of my favorite puzzles.
+In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain (snake midsection) and push the ball (snake tail), a humanoid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea in non-snake puzzle games.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It begins gently but ends with some devious head-scratchers, the last of which is one of my favorite puzzles of the year.
 
-You might recognize that the game is actually a trenchant metaphor, with the prisoner representing me and the shackle being this article with its need for continual updates.
+You might have recognized that the game is actually a trenchant metaphor, the prisoner being me and the shackle representing this article with its need for continual updates. Steven completely nailed the dreary atmosphere and the prisoner's pale complexion.
 
 ![shackle](https://joelthefox.github.io/img/Shackle.png)
 
@@ -646,6 +646,43 @@ Initially I wasn't expecting too much from Serpent Fusion, since the graphics ar
 
 -----
 
+### [Wriggle](http://www.clickmazes.com/wriggle/new-wriggle.htm) by Andrea Gilbert
+
+At last, the first snake puzzle game ever created has returned to the internet! As I mentioned in my description of Wriggle 3D above, the idea was inspired by sliding block puzzles such as Rush Hour. The modification from in-line movement to snake movement really adds a new dimension to this style of puzzle, and it birthed the genre that inspired me to write a ~100 page article!
+
+Interestingly, although the goal in Rush Hour is to navigate a special car to the exit, that goal was only used in the later wriggle variant called TJ-Wriggle, designed together with Tom Jolly. In this first Wriggle game, the goal is to arrange the snakes onto tiles of matching color. Having this goal allows for puzzles where the snakes need to move all around the grid, perhaps multiple times, in order to squeeze their bodies into exactly the right shape. The objective is robust enough that no walls or other obstacles are needed, just a rectangular grid filled with snakes. The puzzles are separated into categories of single snake and multi-snake. The multi-snake puzzles are slightly more complicated, but in both sets you get the experience of wrangling very long snakes, something that is both frustrating and delightful.
+
+![wriggle](https://joelthefox.github.io/img/Wriggle.png)
+
+-----
+
+### [Colour-Wriggle Mazes](http://www.clickmazes.com/wrigc/new-wrigc.htm) by Andrea Gilbert
+
+A curious combination of wriggle logic and maze logic, these puzzles task you with wriggling from the left column to the right column, with no walls or other snakes to get in your way. What does restrict your movement is that at each step you must be sitting on all different colors. Had snakes only been able to move from their head, this would have resulted in a fairly straight-forward maze where paths are readily deduced. The ability to wriggle from your tail makes it more complicated than that, and my first reaction was  sheer surprise at how easy the maze *should* be, but is not. When I arrived at the middle of the puzzle pack, I found it difficult enough that I meticulously traced out intermediate states stemming from the start and end positions until they met in the middle. I later realized that it was more efficient and more fun to instead "think like a snake." Perhaps you too will learn the way of the snake. Be careful not to spend too much time in one sitting though, as it can strain the eyes a bit.
+
+![colorWriggle](https://joelthefox.github.io/img/ColourWriggle.png)
+
+-----
+
+### [TJ-Wriggle](http://www.clickmazes.com/tjwrig/new-jwrig.htm) by Andrea Gilbert and Tom Jolly
+
+In this version of Wriggle, the goal has changed to getting the blue snake to the exit in the bottom right. This makes it feel a bit more like Rush Hour, in that getting other snakes out of the way tends to be a larger focus than wriggling into an exact shape, though of course there is significant overlap. More differences in the puzzle style include stationary walls and on average shorter snakes; these make for puzzles that feel more intuitive in their logic - you'll be thinking of where to put the different snakes and how to order their maneuvers, in place of the more unique but less intuitive wriggling of huge snakes (though there are still a few long snakes in this puzzle set). These puzzles are quite similar to the ones found in Wriggle 3D, and they are even more polished in that later installment. An added treat in this set is the giant *BIG-wriggle Challenge*, which though it looks very intimidating is actually quite logical and fun.
+
+![TJ](https://joelthefox.github.io/img/TJWriggle.png)
+
+-----
+
+### [Extreme TJ-Wriggle](http://www.clickmazes.com/tjwrig/new-bhwrig.htm) by Bob Henderson
+
+This is an extra set of puzzles for the TJ-Wriggle mechanics, developed by Bob Henderson using a procedural generation method that he describes on the webpage. Despite limiting the grid to 4x4, Bob and his computer assistant managed to find many difficult and intriguing puzzles. The puzzle pictured below requires an amazing 73 steps to solve, despite being so compact. (Andrea tells me that the most complicated puzzle for its size on the clickmazes website is in the game [BoxUp](http://www.clickmazes.com/boxup/new-boxup.htm), for which Bob Henderson found a puzzle requiring an incredible 153 steps on a 4x3 grid)
+
+Though I did not find all the optimal solutions yet to this set, it is interesting to note the different counting method used here compared to Wriggle 3D. In Wriggle 3D you are tasked with optimizing the *wriggle-count*, which increases by 1 each time you grab a snake end and drag it by any distance. In contrast, for these puzzles Bob decided to use *total-unit-drag*. He explains that when he generated puzzles to maximize the required wriggle-count, the result was puzzles with a single empty space such that maneuvering the snakes took a large number of single steps. Instead he generated puzzles that maximize the required total-unit-drag, and found them to be the most interesting. The one small downside that I see with the approach he took is that it's a bit less fun to find the optimal solutions than it was in Wriggle 3D (or pershaps I just needed an excuse to not find them all this time).
+
+Looking at a tiny grid of snakes, you would expect that getting one snake to the other end would either be very easy or it would be impossible, so it is quite amusing seeing some of the solutions unfold in an intricate, and sometimes unnatural, way. The puzzles are grouped into 4 sets by the number of snakes that they have. Andrea recommends the 2-snake and 3-snake sets, and I think I would add in the 4-snake set too. The single snake set is a bit funny, you'll see why if you go through a few of them.  
+
+![extreme](https://joelthefox.github.io/img/ExtremeWriggle.png)
+
+-----
 
 
 # Awards
@@ -681,8 +718,12 @@ Most humorous: Trifecta of snake games by Dario Zubović - SnakeShit,  ShitStain
 
 Game|Author|Published|Description|Difficulty|Num levels|Price|Platform
 ---|---|---|---|---|---|---|---
+Wriggle|Andrea Gilbert|May 2003|Wriggle into place|Medium - Hard|20||Web, non-mobile
 Puzzle Snake|Kroum Grigorov|July 2006|Eat and exit|Easy - Medium|8||Web
+Colour-Wriggle Mazes|Andrea Gilbert|Aug 2006|Wriggle through color maze|Medium - Hard|9||Web, non-mobile
+TJ-Wriggle|Andrea Gilbert, Tom Jolly|Aug 2007|Wriggle to exit|Medium - Hard|11||Web, non-mobile
 Wriggle 3D|Andrea Gilbert, Tom Jolly|Sept 2009|Reach exit in optimal moves|Easy - Very Hard|80||Mac OS
+Extreme TJ-Wriggle|Bob Henderson|Dec 2010|Wriggle to exit|Medium - Hard|80||Web, non-mobile
 Snake Slider|Bas de Reuver|July 2011|Reach exit in optimal moves|Medium - Very Hard|75||Web
 Filler Snake|Jaberish|Mar 2013|Fill all squares|Medium|31||Web
 Lime Rick|Tommi Tuovinen|Aug 2013|Reach higher by stepping on tail|Medium - Hard|38||Web
