@@ -28,10 +28,18 @@ My main qualification to write about these games is that I have solved all the p
 <details>
 <summary>Dropdown list of games</summary>
 <br>
-[Snakebird](#snakebird-by-noumenon-games)
+<a href="#snakebird-by-noumenon-games">Snakebird</a><br>
+<a href="#snakebird-primer-by-noumenon-games">Snakebird Primer</a><br>
+<a href="#snakebird-gb-by-freeball1">Snakebird GB</a><br>
+<a href="#snakefall-by-thejoshwolfe-and-contributors">Snakefall</a><br>
+<a href="#avis-anguis-by-terzalo-and-contributors">Avis Anguis</a><br>
+<a href="#snakebird-fan-edition-by-jacob-munch-andersen-and-contributors">Snakrbird Fan-Edition</a><br>
+<a href="#snakeshit-by-dario-zubović">Snakeshit</a><br>
+<a href="#ahitatain-by-dario-zubović">Shitstain</a><br>
+<a href="#blocker-snake-by-rosden-shadow">Blocker Snake</a><br>
+<a href="#ouroboros’-eggs-by-marcos-donnantuoni">Ouroboros' Eggs</a><br>
+<a href="#snakehole-by-jack-kutilek">Snakehole</a><br>
 </details>
-
-[Snakebird](#snakebird-by-noumenon-games)
 
 -----
 
