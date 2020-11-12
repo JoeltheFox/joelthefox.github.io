@@ -12,12 +12,12 @@ Here is a collection of all the snake puzzle games known to humans (the snakes, 
 ## Table of Contents
 
 1. Table of Contents (YOU ARE HERE)
-2. List of games with a description, picture, and words from the author
-3. Awards
-4. Ultra-Handy Quick-Reference Table
-5. Games coming in the future
-6. Omissions
-7. Discussion (the worst part)
+2. List of games with a description, picture, and words from the designer
+3. [Awards](#awards)
+4. [Ultra-Handy Quick-Reference Table](#ultra-handy-quick-reference-table)
+5. [Games coming in the future](#games-coming-in-the-future)
+6. [Omissions](#omissions)
+7. [Discussion](#discussion) (the worst part)
 
 -----
 
@@ -35,10 +35,30 @@ My main qualification to write about these games is that I have solved all the p
 <a href="#avis-anguis-by-terzalo-and-contributors">Avis Anguis</a><br>
 <a href="#snakebird-fan-edition-by-jacob-munch-andersen-and-contributors">Snakrbird Fan-Edition</a><br>
 <a href="#snakeshit-by-dario-zubović">Snakeshit</a><br>
-<a href="#ahitatain-by-dario-zubović">Shitstain</a><br>
+<a href="#shitstain-by-dario-zubović">Shitstain</a><br>
 <a href="#blocker-snake-by-rosden-shadow">Blocker Snake</a><br>
-<a href="#ouroboros’-eggs-by-marcos-donnantuoni">Ouroboros' Eggs</a><br>
+<a href="#ouroboros-eggs-by-marcos-donnantuoni">Ouroboros' Eggs</a><br>
 <a href="#snakehole-by-jack-kutilek">Snakehole</a><br>
+<a href="#snakeoban-by-jack-lance">Snakeoban (Jack Lance)</a><br>
+<a href="#snakeoban-by-wayne-myers">Snakeoban (Wayne Myers)</a><br>
+<a href="#sokoboros-by-trevor-newton">Sokoboros</a><br>
+<a href="#dotsnake-by-franklin-dyer">Dotsnake</a><br>
+<a href="#circle-serpent-by-evilartbunny">Circle Serpent</a><br>
+<a href="#snek-alpha--snek-by-st33d">Snek</a><br>
+<a href="#lime-rick-by-tommi-tuovinen">Lime Rick</a><br>
+<a href="#lime-richard-by-franklin-dyer">Lime Richard</a><br>
+<a href="#snake-escape-by-einar-sauskas">Snake Escape</a><br>
+<a href="#8-happy-snakes-by-stephen-lavelle">8 Happy Snakes</a><br>
+<a href="#unconventional-guns-by-rectangular-tim">Unconventional Guns</a><br>
+<a href="#boa-by-steven-miller">Boa</a><br>
+<a href="#snake-trail-by-steven-miller">Snake Trail</a><br>
+<a href="#crate-snake-by-steven-miller">Crate Snake</a><br>
+<a href="#snake-maze-by-zilverphoenix">Snake Maze</a><br>
+<a href="#the-tail-of-the-serpent-by-lucas-le-slo">The Tail of the Serpent</a><br>
+<a href="#snakes-tale-by-michael-fairley">Snake's Tale</a><br>
+<a href="#vertebrae-by-ali-nikkhah">Vertebrae</a><br>
+<a href="#train-snaking-by-dario-zubović">Train Snaking</a><br>
+<a href="#puzzle-snake-by-kroum-grigorov">Puzzle Snake</a><br>
 </details>
 
 -----
@@ -296,7 +316,7 @@ Does feel very much like a snake maze - how do I escape from this labyrinth of w
 
 -----
 
-### [The tail of the Serpent](https://le-slo.itch.io/the-tail-of-the-serpent) by Lucas Le Slo
+### [The Tail of the Serpent](https://le-slo.itch.io/the-tail-of-the-serpent) by Lucas Le Slo
 Each of the segments of your snake are different symbols in this twist on snake games, and you need to match the segments to target squares on the ground.  Also, instead of having your tail block movement as in most snake puzzles, here you can eat yourself, resulting in rearrangement of the symbols. A fresh feeling game with really good level design that keeps things small and elegant. It was done for a Ludum Dare with the theme “your life is currency” and this game fit the theme incredibly well!  If you already played the Ludum Dare version, I recommend replaying the whole game, as most of the levels have been redone and are of much higher quality now.  I must also mention two other puzzle games by Le Slo that are wonderful despite their dearth of snakes: [Flockoban](https://le-slo.itch.io/flockoban) and [Metamorphosis](https://le-slo.itch.io/rainwater-honey-oil).
 
 ![tail of the serpent](https://joelthefox.github.io/img/TailoftheSerpent.png)
