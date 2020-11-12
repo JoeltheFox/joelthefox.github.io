@@ -2,7 +2,8 @@
 layout: post
 title: Snake Puzzle Games
 ---
-###### *October 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
+###### *Nov 2020 updates: Wriggle family added now that clickmazes website is back, and a drop-down menu at the top
+###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
 Here is a collection of all the snake puzzle games known to humans (the snakes, hopefully, are not sentient), along with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
 
@@ -23,6 +24,12 @@ Here is a collection of all the snake puzzle games known to humans (the snakes, 
 ## The Games
 
 My main qualification to write about these games is that I have solved all the puzzles.  In describing them, I have sometimes left out key mechanics or high points, so that the reader will not lose the joy of discovery.  If you find that I have erred too far to the side of spoiler avoidance, don’t tell me!
+
+<details>
+<summary>Dropdown list of games</summary>
+<br>
+[Snakebird](#snakebird-by-noumenon-games)
+</details>
 
 -----
 
@@ -726,7 +733,7 @@ Wriggle 3D|Andrea Gilbert, Tom Jolly|Sept 2009|Reach exit in optimal moves|Easy 
 Extreme TJ-Wriggle|Bob Henderson|Dec 2010|Wriggle to exit|Medium - Hard|80||Web, non-mobile
 Snake Slider|Bas de Reuver|July 2011|Reach exit in optimal moves|Medium - Very Hard|75||Web
 Filler Snake|Jaberish|Mar 2013|Fill all squares|Medium|31||Web
-Lime Rick|Tommi Tuovinen|Aug 2013|Reach higher by stepping on tail|Medium - Hard|38||Web
+Lime Rick|Tommi Tuovinen|Aug 2013|Reach higher by stepping on self|Medium - Hard|38||Web
 Snakeoban|Wayne Myers|Oct 2013|Snake + Sokoban|Easy|10||Web
 Wriggler Demake|Ardeej|May 2014|Fan version of Wriggle|Medium|14||Web
 Quetzalcoatl|1button sarl|Nov 2014|Match colors|Easy - Hard|180|$2|iOS
