@@ -5,7 +5,7 @@ title: Snake Puzzle Games
 ###### *Nov 2020 updates: Wriggle family added, and a drop-down menu at the top*
 ###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
-Here is a collection of all the snake puzzle games known to humans (the snakes, we believe, are not cognizant of them nor can they feel pain), along with descriptions, pictures, and a few awards at the end.  The order in which they appear is roughly the order that I played them in. I'll try to write an update whenever a new game is released. The purpose of this article
+Here is a collection of all the snake puzzle games known to humans (the snakes, we believe, are not cognizant of them nor can they feel pain), along with descriptions, pictures, and a few awards at the end.  I'll try to write an update whenever a new game is released. The purpose of this article
 
 -----
 
@@ -23,74 +23,74 @@ Here is a collection of all the snake puzzle games known to humans (the snakes, 
 
 ## The Games
 
-My main qualification to write about these games is that I have solved all the puzzles.  In describing them, I have sometimes left out key mechanics or high points, so that the reader will not lose the joy of discovery.  If you find that I have erred too far to the side of spoiler avoidance, don’t tell me!
+The ordering of the games in the main list is roughly the order that I played them in. There is a table afterwards that lists them in chronological order, and a drop-down menu right below this paragraph that has them listed alphabetically. My main qualification to write about these games is that I have solved all the puzzles.  In describing them, I have sometimes left out key mechanics or high points, so that the reader will not lose the joy of discovery.  If you find that I have erred too far to the side of spoiler avoidance, don’t tell me!
 
 <details>
 <summary>Dropdown navigation list</summary>
 <br>
-<a href="#snakebird-by-noumenon-games">Snakebird</a><br>
-<a href="#snakebird-primer-by-noumenon-games">Snakebird Primer</a><br>
-<a href="#snakebird-gb-by-freeball1">Snakebird GB</a><br>
-<a href="#snakefall-by-thejoshwolfe-and-contributors">Snakefall</a><br>
+<a href="#8-happy-snakes-by-stephen-lavelle">8 Happy Snakes</a><br>
 <a href="#avis-anguis-by-terzalo-and-contributors">Avis Anguis</a><br>
-<a href="#snakebird-fan-edition-by-jacob-munch-andersen-and-contributors">Snakrbird Fan-Edition</a><br>
-<a href="#snakeshit-by-dario-zubović">Snakeshit</a><br>
-<a href="#shitstain-by-dario-zubović">Shitstain</a><br>
 <a href="#blocker-snake-by-rosden-shadow">Blocker Snake</a><br>
+<a href="#boa-by-steven-miller">Boa</a><br>
+<a href="#bottom-feeder-by-zach-abel">Bottom Feeder</a><br>
+<a href="#circle-serpent-by-evilartbunny">Circle Serpent</a><br>
+<a href="#colour-wriggle-mazes-by-andrea-gilbert">Colour-Wriggle Mazes</a><br>
+<a href="#crate-snake-by-steven-miller">Crate Snake</a><br>
+<a href="#crocodiles-love-cookies-by-ethan-clark">Crocodiles Love Cookies</a><br>
+<a href="#der-hydra-krypta-by-stephen-lavelle">der Hydra Krypta</a><br>
+<a href="#dotsnake-by-franklin-dyer">Dotsnake</a><br>
+<a href="#enigmash-by-jack-lance">ENIGMASH</a><br>
+<a href="#extreme-tj-wriggle-by-bob-henderson">Extreme TJ-Wriggle</a><br>
+<a href="#fillersnake-by-jaberish">FillerSnake</a><br>
+<a href="#hungry-kraken-by-stephen-lavelle">Hungry Kraken</a><br>
+<a href="#lime-richard-by-franklin-dyer">Lime Richard</a><br>
+<a href="#lime-rick-by-tommi-tuovinen">Lime Rick</a><br>
+<a href="#montys-way-home-by-alex-cline">Monty's Way Home</a><br>
 <a href="#ouroboros-eggs-by-marcos-donnantuoni">Ouroboros' Eggs</a><br>
+<a href="#puddle-knights-by-lockpickle">Puddle Knights</a><br>
+<a href="#puzzle-snake-by-kroum-grigorov">Puzzle Snake</a><br>
+<a href="#quetzalcoatl-by-1button-sarl">Quetzalcoatl</a><br>
+<a href="#serpent-fusion-by-ramsey-boyce">Serpent Fusion</a><br>
+<a href="#shackle-by-steven-miller">Shackle</a><br>
+<a href="#shitstain-by-dario-zubović">Shitstain</a><br>
+<a href="#shy-snake-by-daniel-freer-and-stephen-lavelle">Shy Snake</a><br>
+<a href="#snake-blocks-by-spooky-cat">Snake Blocks</a><br>
+<a href="#snake-escape-by-einar-sauskas">Snake Escape</a><br>
+<a href="#snake-maze-by-zilverphoenix">Snake Maze</a><br>
+<a href="#snake-slider-by-bas-de-reuver">Snake Slider</a><br>
+<a href="#snake-sokoban-spiral-by-justas-dabrila">Snake Sokoban Spiral</a><br>
+<a href="#snake-trail-by-steven-miller">Snake Trail</a><br>
+<a href="#snakebird-by-noumenon-games">Snakebird</a><br>
+<a href="#snakebird-fan-edition-by-jacob-munch-andersen-and-contributors">Snakebird Fan-Edition</a><br>
+<a href="#snakebird-gb-by-freeball1">Snakebird GB</a><br>
+<a href="#snakebird-primer-by-noumenon-games">Snakebird Primer</a><br>
+<a href="#snakefall-by-thejoshwolfe-and-contributors">Snakefall</a><br>
 <a href="#snakehole-by-jack-kutilek">Snakehole</a><br>
+<a href="#snakekans-by-wu-binxing">SnakekanS</a><br>
 <a href="#snakeoban-by-jack-lance">Snakeoban</a> (Jack Lance)<br>
 <a href="#snakeoban-by-wayne-myers">Snakeoban</a> (Wayne Myers)<br>
-<a href="#sokoboros-by-trevor-newton">Sokoboros</a><br>
-<a href="#dotsnake-by-franklin-dyer">Dotsnake</a><br>
-<a href="#circle-serpent-by-evilartbunny">Circle Serpent</a><br>
-<a href="#snek-alpha--snek-by-st33d">Snek</a><br>
-<a href="#lime-rick-by-tommi-tuovinen">Lime Rick</a><br>
-<a href="#lime-richard-by-franklin-dyer">Lime Richard</a><br>
-<a href="#snake-escape-by-einar-sauskas">Snake Escape</a><br>
-<a href="#8-happy-snakes-by-stephen-lavelle">8 Happy Snakes</a><br>
-<a href="#unconventional-guns-by-rectangular-tim">Unconventional Guns</a><br>
-<a href="#boa-by-steven-miller">Boa</a><br>
-<a href="#snake-trail-by-steven-miller">Snake Trail</a><br>
-<a href="#crate-snake-by-steven-miller">Crate Snake</a><br>
-<a href="#snake-maze-by-zilverphoenix">Snake Maze</a><br>
-<a href="#the-tail-of-the-serpent-by-lucas-le-slo">The Tail of the Serpent</a><br>
-<a href="#snakes-tale-by-michael-fairley">Snake's Tale</a><br>
-<a href="#vertebrae-by-ali-nikkhah">Vertebrae</a><br>
-<a href="#train-snaking-by-dario-zubović">Train Snaking</a><br>
-<a href="#puzzle-snake-by-kroum-grigorov">Puzzle Snake</a><br>
-<a href="#snake-slider-by-bas-de-reuver">Snake Slider</a><br>
-<a href="#hungry-kraken-by-stephen-lavelle">Hungry Kraken</a><br>
-<a href="#shy-snake-by-daniel-freer-and-stephen-lavelle">Shy Snake</a><br>
-<a href="#der-hydra-krypta-by-stephen-lavelle">der Hydra Krypta</a><br>
-<a href="#wriggler-demake-by-tapio-saarinen">Wriggler Demake</a><br>
-<a href="#wriggle-3d-by-andrea-gilbert-and-tom-jolly-developed-by-conlan-rios">Wriggle 3D</a><br>
-<a href="#snortal-by-stephen-lavelle">Snortal</a><br>
-<a href="#snakey-snakey-makes-a-sixy-by-stephen-lavelle">Snakey Snakey Makes a Sixy</a><br>
 <a href="#snakepace-by-logicalcell">SnakePace</a><br>
-<a href="#fillersnake-by-jaberish">FillerSnake</a><br>
-<a href="#snakekans-by-wu-binxing">SnakekanS</a><br>
-<a href="#quetzalcoatl-by-1button-sarl">Quetzalcoatl</a><br>
-<a href="#snake-blocks-by-spooky-cat">Snake Blocks</a><br>
-<a href="#sniks-by-shelly-alon">SNIKS</a><br>
-<a href="#snake-sokoban-spiral-by-justas-dabrila">Snake Sokoban Spiral</a><br>
-<a href="#enigmash-by-jack-lance">ENIGMASH</a><br>
+<a href="#snakes-tale-by-michael-fairley">Snake's Tale</a><br>
+<a href="#snakes-without-brakes-by-kodub">Snakes without Brakes</a><br>
+<a href="#snakeshit-by-dario-zubović">Snakeshit</a><br>
 <a href="#snakey-jakey-by-ethan-clark">Snakey Jakey</a><br>
-<a href="#bottom-feeder-by-zach-abel">Bottom Feeder</a><br>
-<a href="#puddle-knights-by-lockpickle">Puddle Knights</a><br>
+<a href="#snakey-snakey-makes-a-sixy-by-stephen-lavelle">Snakey Snakey Makes a Sixy</a><br>
 <a href="#snaliens-by-joão-ferreira">Snaliens</a><br>
+<a href="#snek-alpha--snek-by-st33d">Snek</a><br>
+<a href="#sniks-by-shelly-alon">SNIKS</a><br>
+<a href="#snortal-by-stephen-lavelle">Snortal</a><br>
+<a href="#sokoboros-by-trevor-newton">Sokoboros</a><br>
+<a href="#the-tail-of-the-serpent-by-lucas-le-slo">The Tail of the Serpent</a><br>
 <a href="#the-turing-snake-by-edmond00">The Turing Snake</a><br>
 <a href="#tile-snake-by-andrew-tollett">Tile Snake</a><br>
-<a href="#shackle-by-steven-miller">Shackle</a><br>
-<a href="#crocodiles-love-cookies-by-ethan-clark">Crocodiles Love Cookies</a><br>
-<a href="#montys-way-home-by-alex-cline">Monty's Way Home</a><br>
-<a href="#snakes-without-brakes-by-kodub">Snakes without Brakes</a><br>
-<a href="#worm-jazz-by-inconspicuous-creations">Worm Jazz</a><br>
-<a href="#serpent-fusion-by-ramsey-boyce">Serpent Fusion</a><br>
-<a href="#wriggle-by-andrea-gilbert">Wriggle</a><br>
-<a href="#colour-wriggle-mazes-by-andrea-gilbert">Colour-Wriggle Mazes</a><br>
 <a href="#tj-wriggle-by-andrea-gilbert-and-tom-jolly">TJ-Wriggle</a><br>
-<a href="#extreme-tj-wriggle-by-bob-henderson">Extreme TJ-Wriggle</a><br>
+<a href="#train-snaking-by-dario-zubović">Train Snaking</a><br>
+<a href="#unconventional-guns-by-rectangular-tim">Unconventional Guns</a><br>
+<a href="#vertebrae-by-ali-nikkhah">Vertebrae</a><br>
+<a href="#worm-jazz-by-inconspicuous-creations">Worm Jazz</a><br>
+<a href="#wriggle-by-andrea-gilbert">Wriggle</a><br>
+<a href="#wriggle-3d-by-andrea-gilbert-and-tom-jolly-developed-by-conlan-rios">Wriggle 3D</a><br>
+<a href="#wriggler-demake-by-tapio-saarinen">Wriggler Demake</a><br>
 </details>
 
 -----
@@ -176,13 +176,13 @@ One of Rosden Shadow’s game-a-day that he kept up for a remarkable 87 days, it
 -----
 
 ### [Ouroboros’ Eggs](https://marcosd.itch.io/ouroboros-eggs) by Marcos Donnantuoni
-A game where your snake lays eggs if it makes a loop around empty space, and each puzzle asks you to lay a certain number of eggs in the given terrain.  As with many of Marcos Donnantuoni’s games, the puzzles here were procedurally generated, though you might not have been able to tell based on just the level design.  It’s an interesting take on snake puzzles, certainly feeling different and worth trying.  There is variety in the solutions, but maybe not quite enough to justify the large number of puzzles in the game.  There are a few other puzzles game by different authors that are about catching your tail, but mostly were abandoned in the work-in-progress phase: In [Ouroboros](https://www.puzzlescript.net/play.html?p=10346416) by Connorses, the only goal is to catch your tail. This is made nontrivial by having more complex maps, but it ends up feeling like mostly trial-and-error. [Ouroboros](https://grogge.itch.io/ouroboros) by Grogge adds some lock & keys, and blocks that mimic your snake’s movement.  Your tail stays put, so it feels more like the exit is coincidentally where you start, rather than chasing your tail. Unfortunately it also seems to add at least one major bug.  [Ouroboros](https://captandrey.itch.io/ouroborosweb) by CaptAndrey has blue and red pellets that you eat to grow, and you must eat a blue segment that is part of your body in order to win. Overall Ouroboros’ Eggs is by far the most interesting exploration of the idea.
+A game where your snake lays eggs if it makes a loop around empty space, and each puzzle asks you to lay a certain number of eggs in the given terrain.  As with many of Marcos Donnantuoni’s games, the puzzles here were procedurally generated, though you might not have been able to tell based on just the level design.  It’s an interesting take on snake puzzles, certainly feeling different and worth trying.  There is variety in the solutions, but maybe not quite enough to justify the large number of puzzles in the game.  There are a few other puzzles game by different designers that are about catching your tail, but mostly didn't get past the work-in-progress phase: In [Ouroboros](https://www.puzzlescript.net/play.html?p=10346416) by Connorses, the only goal is to catch your tail. This is made nontrivial by having more complex maps, but it ends up feeling like mostly trial-and-error. [Ouroboros](https://grogge.itch.io/ouroboros) by Grogge adds some lock & keys, and blocks that mimic your snake’s movement.  Your tail stays put, so it feels more like the exit is coincidentally where you start, rather than chasing your tail. Unfortunately it also seems to add at least one major bug.  [Ouroboros](https://captandrey.itch.io/ouroborosweb) by CaptAndrey has blue and red pellets that you eat to grow, and you must eat a blue segment that is part of your body in order to win. [OuroBOOros](https://nekusoul.itch.io/ourobooros) by NekuSoul has you play a ghost that pushes rocks into the AI-controlled snake's way so that it changes paths, resulting in eating eggs to grow or eating its tail to complete the level. Overall Ouroboros’ Eggs is the most interesting exploration of the tail-eating idea.
 
-If you are interested in procedurally generated puzzle games, Marcos has made many other good ones – my favorites include [Always With the Magnets](https://marcosd.itch.io/always-with-the-magnets), [Seq-O-Ban](https://marcosd.itch.io/seq-o-ban), and [Dis Pontibus](https://marcosd.itch.io/dispontibus). (incidentally, Dis Pontibus has a snake movement component too!)
+If you are interested in procedurally generated puzzle games, Marcos has made many other good ones – my favorites include [Always With the Magnets](https://marcosd.itch.io/always-with-the-magnets), [Seq-O-Ban](https://marcosd.itch.io/seq-o-ban), and [Dis Pontibus](https://marcosd.itch.io/dispontibus). (incidentally, Dis Pontibus has a small snake movement component too!)
 
 ![Ouroboros eggs](https://joelthefox.github.io/img/OuroborosEggs.png)
 
-> Ouroboro's eggs uses a mechanic that I planned to use in a larger game, which was going to contain several mythological serpents, each with different powers that manifested differently. In particular, the Ouroboros activates its power (laying eggs to reproduce) each time it closes in a loop, biting herself.
+> Ouroboros' eggs uses a mechanic that I planned to use in a larger game, which was going to contain several mythological serpents, each with different powers that manifested differently. In particular, the Ouroboros activates its power (laying eggs to reproduce) each time it closes in a loop, biting herself.
 This is an interesting topological idea, but constricting it to a grid made it a little more simplistic than I wanted to achieve. However, I was able to generate some interesting levels.
 In particular my favorites are those where laying the required amount of eggs is very straightforward, but the challenge is to do it in a way that allows you to get out of the burrow.  
 > -Marcos Donnantuoni
@@ -919,7 +919,7 @@ Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest
 
 [Snek](https://nyunesu.itch.io/snek) by Nyunesu is a short atmospheric puzzle game made for LDjam47. I will see if there's a post-jam version before considering adding it to the article.
 
-[Snakeformer](https://blog.dragonlab.de/2014/10/snakeformer/) and [Coil](http://www.nitrome.com/games/coil/) are two snake platformer games that feel similar to snakebird, but have different physics and are less puzzly.
+[Snakeformer](https://blog.dragonlab.de/2014/10/snakeformer/) and [Coil](http://www.nitrome.com/games/coil/) are two snake platformer games that feel similar to snakebird, but have different physics and are less puzzly. [Dual Snake](https://store.steampowered.com/app/752600/Dual_Snake/) adds an extra head to the snake platforming idea, and it too has action elements.
 
 Puzzle games where snakes are your enemies:  
 [SnakEscape](https://store.steampowered.com/app/409440/SnakEscape_REMASTERED/)  
