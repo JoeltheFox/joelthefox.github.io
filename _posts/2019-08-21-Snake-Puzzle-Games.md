@@ -12,7 +12,7 @@ Here is a collection of all the snake puzzle games known to humans (the snakes, 
 ## Table of Contents
 
 1. Table of Contents (YOU ARE HERE)
-2. List of games with a description, picture, and words from the designer
+2. The Games
 3. [Awards](#awards)
 4. [Ultra-Handy Quick-Reference Table](#ultra-handy-quick-reference-table)
 5. [Games coming in the future](#games-coming-in-the-future)
@@ -96,7 +96,7 @@ The ordering of the games in the main list is roughly the order that I played th
 -----
 
 ### [Snakebird](https://store.steampowered.com/app/357300/Snakebird/) by Noumenon Games
-The most well-known of the snake puzzle games, and for good reason. The mechanics are deep and intriguing, and the game is well polished, with good levels and some of the best graphics of any 2D puzzle game. The main novelty is combining snake movement with gravity, and it also has growth by eating fruit, pushing blocks of different shapes, and the ability to individually control multiple snakebirds.  My favorite trailer/video of Snakebird is [this one](https://www.youtube.com/watch?v=77d9xVIsoHc) (warning obscene language), which might be funniest if you watch after playing a few levels first.  There is also an in-depth [article](http://www.electrondance.com/tail-meets-head/) by ElectronDance about his experience playing through Snakebird.  Snakebird has great puzzles that reward planning ahead, and visualizing the shapes you will need to make in order to solve them.  Its difficulty catches some by surprise, as the visuals look playful and benign.  It’s not the hardest of the games here but it’s one of the harder ones.  Overall it gets a very high recommendation!  The creation of the game is discussed by its developers [here](http://noumenongames.com/snakebird-development-images-and-history/)
+The most well-known of the snake puzzle games, and for good reason. The mechanics are deep and intriguing, and the game is well polished, with good levels and some of the best graphics of any 2D puzzle game. The main novelty is combining snake movement with gravity, and it also has growth by eating fruit, pushing blocks of different shapes, and the ability to individually control multiple snakebirds.  My favorite trailer/video of Snakebird is [this one](https://www.youtube.com/watch?v=77d9xVIsoHc) (warning obscene language), which might be funniest if you watch after playing a few levels first.  There is also an in-depth [article](http://www.electrondance.com/tail-meets-head/) by ElectronDance about his experience playing through Snakebird.  Snakebird has great puzzles that reward planning ahead, and visualizing the shapes you will need to make in order to solve them.  Its difficulty catches some by surprise, as the visuals look playful and benign.  It’s not the hardest of the games here but it’s harder than average.  Overall it gets a very high recommendation!  The creation of the game is discussed by its developers [here](http://noumenongames.com/snakebird-development-images-and-history/)
 
 Snakebird has inspired several other entires on this list, including a sequel, a number of fan-made level editors, and a couple of spinoffs in PuzzleScript, and I will describe each of those below. One amusing new addition that won't have its own entry is a [Snakebird level](https://twitter.com/hopotion/status/1304106303393009671) done in [Baba is You](https://hempuli.com/baba/)!
 
@@ -190,7 +190,7 @@ In particular my favorites are those where laying the required amount of eggs is
 -----
 
 ### [Snakehole](https://jackkutilek.itch.io/snakehole) by Jack Kutilek
-Snakehole is a very interesting take on snake puzzles. As you might have guessed, there are “holes” that play a big role in the mechanics. Exactly how, you’ll need to find out for yourself! It only has 8 levels, but each one is large and meaty.  It is also has some of the nicest visuals in a PuzzleScript game (I guess the bar is low, but it’s pretty hard to make 5x5 pixels look as good as they do in this game).  This is one of my favorite snake games on this list, since it has both creative mechanics and good levels.  I found a cute modification to level 7 that makes it harder (admittedly not in a good way), which you can try [here](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c).  
+Snakehole is a very interesting take on snake puzzles. As you might have guessed, there are “holes” that play a big role in the mechanics. Exactly how, you’ll need to find out for yourself! I will just say that it interacts perfectly with the classic snake puzzle stlyle. It only has 8 levels, but each one is large and meaty.  It is also has some of the nicest visuals in a PuzzleScript game (I guess the bar is low, but it’s pretty hard to make 5x5 pixels look good).  This is one of my favorite snake games on this list, since it has both creative mechanics and good levels.  I found a cute modification to level 7 that makes it harder (admittedly not in a good way), which you can try [here](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c).  
 
 ![Snakehole](https://joelthefox.github.io/img/Snakehole.png)
 
@@ -210,7 +210,7 @@ This wonderful PuzzleScript game is not well known, but the puzzles are fantasti
 -----
 
 ### [Snakeoban](https://waynemyers.itch.io/snakeoban) by Wayne Myers
-Similar mechanics to the early levels in Jack Lance’s game, but the puzzles here are easier and not quite as well designed.  I would only recommend this if you really like the snakeoban idea and would prefer an easier game to Jack Lance’s. This one gets credit for being the first game to combine snake movement and pushing objects onto targets, which turned out to be quite interesting with several other variants of the idea to come later.
+Similar mechanics to the early levels in Jack Lance’s game, but the puzzles here are easier and not quite as tightly designed.  I would recommend this mostly if you like the snakeoban idea and would prefer an easier game to Jack Lance’s. This one gets credit for being the first game to combine snake movement and pushing objects onto targets, which turned out to be quite interesting with several other variants of the idea to come later.
 
 ![Snakeoban myers](https://joelthefox.github.io/img/SnakeobanMyers.png)
 
@@ -284,7 +284,7 @@ Snake Escape is a fan-remake of Lime Rick for the ZX Spectrum.  Why would a mode
 
 Pros: More interesting graphics; original music (Lime Rick didn’t have music); levels 9 and 30 are made harder and more interesting; 4 new levels at the end (these are about the same difficulty as the later levels in Lime Rick).  
 Cons: Need an emulator; no undo button; level 26 is easier and less interesting; on my machine at least, movement was slower (brief delay between key presses).  
-In order to play I used the Fuse emulator. To get the music running, select 128k machine in the options. The controls seem to be left = O, right = P, up = Q, restart = space.  The levels are generally modified to be on a smaller grid, to make room for the more interesting graphics of each tile. Most levels turn out to have basically the same solution as in Lime Rick, with the exceptions noted above.  Although the mechanics and most levels are derived from Lime Rick, it has the blessings of Lime Rick creator Tommi Tuovinen (which I personally confirmed).
+In order to play I used the Fuse emulator. To get the music running, select 128k machine in the options. The controls seem to be left = O, right = P, up = Q, restart = space.  The levels are generally modified to be on a smaller grid, to make room for the more interesting graphics of each tile. Most levels turn out to have basically the same solution as in Lime Rick, with the exceptions noted above.  Although the mechanics and most levels are derived from Lime Rick, it has the blessings of Lime Rick creator Tommi Tuovinen (which I confirmed).
 
 Bas de Reuver had an interesting idea to expand the game, which he demonstrated in a short prototype called [Snake Escape 2](https://www.puzzlescript.net/play.html?p=c4bf7294719b246686a456cd00e89b74), but it didn’t catch.
 
@@ -390,7 +390,7 @@ A more snake-like variation of [Cosmic Express](https://cosmicexpressgame.com/).
 -----
 
 ### [Puzzle Snake](http://www.kpym.com/puzzle-snake/) by Kroum Grigorov
-An old (2006) game with basic rules: red dots make you grow, try to eat them all and reach the exit door.  It has eight levels, and the puzzles work but are not that exciting. This is the oldest game on the list! (though only because the original Wriggle puzzles are currently out of commission)
+An old (2006) game with basic rules: red dots make you grow, try to eat them all and reach the exit door.  It has eight levels, and the puzzles work but are not that exciting. This is the second oldest game on the list, with Wriggle predating it by 3 years.
 
 ![puzzle snake](https://joelthefox.github.io/img/PuzzleSnake.png)
 
@@ -597,7 +597,7 @@ Riddle me this: what creature slithers like a snake in the morning, walks uprigh
 
 A similar idea was toyed with by Steven Miller in his Snake Trail (see entry above), but the key design idea that pushes this game to great heights is having all characters share the same open space, and dividing the *snake* character into a head (knight) that collides and a tail (cape) that does not. With several more interesting mechanics introduced along the way, Puddle Knights makes for a great game to be enjoyed by a wide audience. I would place it just behind snakebird as my second highest recommendation to newer puzzle explorers. ElectronDance has written [something](http://www.electrondance.com/puzzleworks-1-puddle-knights/) about the game as well.
 
-In July 2020 a new chapter was added to the end of the game. It has a slightly new mechanic, but mostly contains a few more challenging puzzles. In October 2020 another chapter was added with a new lava-related mechanic. Both additions are good.
+In July 2020 a new chapter was added to the end of the game. It has a slightly new mechanic, but mostly contains a few more challenging puzzles. In October 2020 another chapter was added with a new lava-related mechanic. Both additions are worth playing if you missed them initially.
 
 ![puddleknights](https://joelthefox.github.io/img/PuddleKnights.png)
 
@@ -648,7 +648,7 @@ Made for Ludum Dare 35 which had the theme "shapeshift," Tile Snake lets you fil
 
 ### [Shackle](https://steven-miller.itch.io/shackle) by Steven Miller
 
-In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain (snake midsection) and push the ball (snake tail), a humanoid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea in non-snake puzzle games.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It begins gently but ends with some devious head-scratchers, the last of which is one of my favorite puzzles of the year.
+In Shackle you resemble a length-3 snake, but instead of having a head, body, and tail, you are a prisoner shackled to a ball & chain.  Dragging the ball around behind you feels perfectly snake-like, but you are also able to walk over your chain (snake midsection) and push the ball (snake tail), a humanoid subterfuge!  The goal in each level is to reach the exit, and doing so will require activating colored sensors to raise or lower walls - a familiar idea in non-snake puzzle games.  Its combination with the novel ball & chain movement works exceptionally well, revealing both fun ideas and marvelous puzzles. It begins gently and the difficulty curve is gradual, but it ends with some devious head-scratchers, the last of which is one of my favorite puzzles of the year.
 
 You might have recognized that the game is actually a trenchant metaphor, the prisoner being me and the shackle representing this article with its need for continual updates. Steven completely nailed the dreary atmosphere and the prisoner's pale complexion.
 
@@ -672,7 +672,7 @@ Crocodiles Love Cookies, though probably apocryphal, is a game that feels like a
 
 ### [Monty's Way Home](https://clinealex10.itch.io/montys-way-home) by Alex Cline
 
-A short retro style snake game where you eat pellets that either grow or shrink you, and the goal is to fit inside a target area. It's pretty basic, but one little novelty is that you do not need to eat all the pellets to complete a level.  
+A short retro style snake game where you eat pellets that either grow or shrink you, and the goal is to fit inside a target area. It's pretty basic, but one little novelty is that you do not need to eat all the pellets to complete a level, but instead must decide which ones will work. 
 
 ![monty](https://joelthefox.github.io/img/Monty.png)
 
@@ -735,7 +735,7 @@ A curious combination of wriggle logic and maze logic, these puzzles task you wi
 
 ### [TJ-Wriggle](http://www.clickmazes.com/tjwrig/new-jwrig.htm) by Andrea Gilbert and Tom Jolly
 
-In this version of Wriggle, the goal has changed to getting the blue snake to the exit in the bottom right. This makes it feel a bit more like Rush Hour, in that getting other snakes out of the way tends to be a larger focus than wriggling into an exact shape, though of course there is significant overlap. More differences in the puzzle style include stationary walls and on average shorter snakes; these make for puzzles that feel more intuitive in their logic - you'll be thinking of where to put the different snakes and how to order their maneuvers, in place of the more unique but less intuitive wriggling of huge snakes (though there are still a few long snakes in this puzzle set). These puzzles are quite similar to the ones found in Wriggle 3D, which polished the style even further. An added treat in this set is the giant *BIG-wriggle Challenge*, which though it looks very intimidating is actually quite logical and fun.
+In this version of Wriggle, the goal has changed to getting the blue snake to the exit in the bottom right. This makes it feel a bit more like Rush Hour, in that getting other snakes out of the way tends to be a larger focus than wriggling into an exact shape, though of course there is significant overlap. More differences in the puzzle style include stationary walls and on average shorter snakes; these make for puzzles that feel more intuitive in their logic - you'll be thinking of where to put the different snakes and how to order their maneuvers, in place of the more unique but less intuitive wriggling of huge snakes (though there are still a few long snakes in this puzzle set). These puzzles are quite similar to the ones found in Wriggle 3D, which polished the style even further. There is no overlap in the puzzle sets: Extreme TJ-Wriggle (below) is all on a 4x4 grid, this set is all on 6x6, and Wriggle 3D is on 5x5. An added treat in this set is the giant *BIG-wriggle Challenge*, which though it looks very intimidating is actually fairly logical and fun.
 
 ![TJ](https://joelthefox.github.io/img/TJWriggle.png)
 
