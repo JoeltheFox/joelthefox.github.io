@@ -727,7 +727,7 @@ Interestingly, although the goal in Rush Hour is to navigate a special car to th
 
 ### [Colour-Wriggle Mazes](http://www.clickmazes.com/wrigc/new-wrigc.htm) by Andrea Gilbert
 
-A curious combination of wriggle logic and maze logic, these puzzles task you with wriggling from the left column to the right column, with no walls or other snakes to get in your way. What does restrict your movement is that at each step you must be sitting on all different colors. Had snakes only been able to move from their head, this would have resulted in a fairly straight-forward maze where paths are readily deduced. The ability to wriggle from your tail makes it more complicated than that, and my first reaction was  sheer surprise at how easy the maze *should* be, but is not. When I arrived at the middle of the puzzle pack, I found it difficult enough that I meticulously traced out intermediate states stemming from the start and end positions until they met in the middle. I later realized that it was more efficient and more fun to instead "think like a snake." Perhaps you too will learn the way of the snake. Be careful not to spend too much time in one sitting though, as it can strain the eyes a bit.
+A curious combination of wriggle logic and maze logic, these puzzles task you with wriggling from the left column to the right column, with no walls or other snakes to get in your way. What does restrict your movement is that at each step you must be sitting on all different colors. Had snakes only been able to move from their head, this would have resulted in a fairly straight-forward maze where paths are readily deduced. The ability to wriggle from your tail makes it more complicated than that, and my first reaction was  sheer surprise at how easy the maze *should* be, but is not. When I arrived at the middle of the puzzle pack, I found it difficult enough that I meticulously traced out intermediate states stemming from the start and end positions until they met in the middle. I later found a more efficient strategy, though it still didn't make the puzzles quick or easy. Be careful not to spend too much time on this in one sitting, as it can strain the eyes a bit.
 
 ![colorWriggle](https://joelthefox.github.io/img/ColourWriggle.png)
 
@@ -917,7 +917,7 @@ Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest
 
 [Globule](https://www.kongregate.com/games/rowlandrose/globule) is a puzzle game about a robot guiding a puddle of slime, which acts very much like a two-headed snake would.   However, the levels are mostly tedious.
 
-[Snek](https://nyunesu.itch.io/snek) by Nyunesu is a short atmospheric puzzle game made for LDjam47. I will see if there's a post-jam version before considering adding it to the article.
+[Snek](https://nyunesu.itch.io/snek) by Nyunesu is a short atmospheric puzzle game made for LDjam47. I will see if there's a post-jam version before considering adding it to the article. Another short jam game is [Snake Game](https://16msnow6.itch.io/snake-game) by 17msnow6, which has the simple *eat to grow then exit* rules.
 
 [Snakeformer](https://blog.dragonlab.de/2014/10/snakeformer/) and [Coil](http://www.nitrome.com/games/coil/) are two snake platformer games that feel similar to snakebird, but have different physics and are less puzzly. [Dual Snake](https://store.steampowered.com/app/752600/Dual_Snake/) adds an extra head to the snake platforming idea, and it too has action elements.
 
