@@ -5,7 +5,7 @@ title: Snake Puzzle Games
 ###### *Nov 2020 updates: Wriggle family added, and a drop-down menu at the top*
 ###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
-Here is a collection of all the snake puzzle games known to humans (the snakes, we believe, are not cognizant of them nor can they feel pain), along with descriptions, pictures, and a few awards at the end.  I'll try to write an update whenever a new game is released. The purpose of this article
+Here is a collection of all the snake puzzle games known to humans. (The snakes, we believe, are unaware and also cannot feel pain)  I'll try to write an update whenever a new game is released. The purpose of this article
 
 -----
 
@@ -23,7 +23,7 @@ Here is a collection of all the snake puzzle games known to humans (the snakes, 
 
 ## The Games
 
-The ordering of the games in the main list is roughly the order that I played them in. There is a table afterwards that lists them in chronological order, and a drop-down menu right below this paragraph that has them listed alphabetically. My main qualification to write about these games is that I have solved all the puzzles.  In describing them, I have sometimes left out key mechanics or high points, so that the reader will not lose the joy of discovery.  If you find that I have erred too far to the side of spoiler avoidance, don’t tell me!
+Here are all the games, each with my description of them, a picture, and sometimes words from the designer. The ordering of the games in the main list is roughly the order that I played them in. There is a table afterwards that lists them in chronological order, and a drop-down menu right below this paragraph that has them listed alphabetically. My main qualification to write about these games is that I have solved all the puzzles.  In describing them, I have sometimes left out key mechanics or high points, so that the reader will not lose the joy of discovery.  If you find that I have erred too far to the side of spoiler avoidance, don’t tell me!
 
 <details>
 <summary>Dropdown navigation list</summary>
