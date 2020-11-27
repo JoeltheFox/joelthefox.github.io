@@ -87,6 +87,7 @@ Here are all the games, each with my description of them, a picture, and words f
 <a href="#train-snaking-by-dario-zubović">Train Snaking</a><br>
 <a href="#unconventional-guns-by-rectangular-tim">Unconventional Guns</a><br>
 <a href="#vertebrae-by-ali-nikkhah">Vertebrae</a><br>
+<a href="#volcano-snek-by-justcamh">Volcano Snek</a><br>
 <a href="#worm-jazz-by-inconspicuous-creations">Worm Jazz</a><br>
 <a href="#wriggle-by-andrea-gilbert">Wriggle</a><br>
 <a href="#wriggle-3d-by-andrea-gilbert-and-tom-jolly-developed-by-conlan-rios">Wriggle 3D</a><br>
@@ -162,6 +163,14 @@ Another game by Dario Zubović that is a kind of sequel to SnakeShit.  This one 
 
 >Those first two are literally shit games tho, idk why you're including them  
 > -Dario Zubović
+
+-----
+
+### [Volcano Snek](https://justcamh.itch.io/volcano-snek) by JUSTCAMH
+
+Though not consciously inspired by Snakebird, Volcano Snek is a "micro metroidvania" (short and you gain powers as you progress) that uses similar snake plus gravity movement. The new idea is that you can raise the lava level within a puzzle by knocking your head against a wall of the volcano. The ability to affect the ground in this way is interesting, though the puzzles are mostly simple and I think the possibilities have not been fully explored. Not unexpected given that this game was made in 48 hours for a game jam (that it won!). This is the last of the Snakebird-like games on the list.
+
+![volcano](https://joelthefox.github.io/img/Volcano.png)
 
 -----
 
@@ -754,6 +763,7 @@ Looking at a tiny grid of snakes, you would expect that getting one snake to the
 -----
 
 
+
 # Awards
 
 There are many great games above, and it's hard to leave some of them out when highlighting just a few below.  
@@ -850,6 +860,7 @@ Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
 Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy - Medium|12||Web
 Monty's Way Home|Alex Cline|July 2020|Grow or shrink, then fit inside|Easy|5||Web
 Snakes without Brakes|Kodub|July 2020|Sliding snakes|Medium|20||Web
+Volcano Snek|JUSTCAMH|Nov 2020|Raise lava|Easy - Medium|N/A||Win/Mac/Linux
 
 -----
 
