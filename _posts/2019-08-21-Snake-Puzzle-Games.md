@@ -767,7 +767,7 @@ Looking at a tiny grid of snakes, you would expect that getting one snake to the
 
 ### [Snakeoban](https://teamdoodz.itch.io/snakeoban) by TeamDoodz
 
-Made for a 72-hour game jam with the theme "Limited Space," as the name suggests this snakeoban has you pushing boxes onto targets. Unlike the previous games of the same name, in this one your snake has indefinite length. There are a few alterations to that basic concept, such as not leaving snake segments behind when you wade through water. The game has some decent puzzles, though none of them spectacular like the last two levels of Bottom Feeder. It also suffers from loud background music and no undo button.
+Made for a 72-hour game jam with the theme "Limited Space," as the name suggests this Snakeoban has you pushing boxes onto targets. Unlike the previous games of the same name, in this one your snake has indefinite length. There are a few alterations to that basic concept, such as not leaving snake segments behind when you wade through water. The game has some decent puzzles, though none of them spectacular like the last two levels of Bottom Feeder. It also suffers from loud background music and no undo button.
 
 ![snakeoban3](https://joelthefox.github.io/img/Snakeoban3.png)
 
