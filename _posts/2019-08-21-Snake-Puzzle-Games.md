@@ -68,6 +68,7 @@ Here are all the games, each with my description of them, a picture, and words f
 <a href="#snakehole-by-jack-kutilek">Snakehole</a><br>
 <a href="#snakekans-by-wu-binxing">SnakekanS</a><br>
 <a href="#snakeoban-by-jack-lance">Snakeoban</a> (Jack Lance)<br>
+<a href="#snakeoban-by-teamdoodz">Snakeoban</a> (TeamDoodz)<br>
 <a href="#snakeoban-by-wayne-myers">Snakeoban</a> (Wayne Myers)<br>
 <a href="#snakepace-by-logicalcell">SnakePace</a><br>
 <a href="#snakes-tale-by-michael-fairley">Snake's Tale</a><br>
@@ -764,6 +765,14 @@ Looking at a tiny grid of snakes, you would expect that getting one snake to the
 
 -----
 
+### [Snakeoban](https://teamdoodz.itch.io/snakeoban) by TeamDoodz
+
+Made for a 72-hour game jam with the theme "Limited Space," as the name suggests this snakeoban has you pushing boxes onto targets. Unlike the previous games of the same name, in this one your snake has indefinite length. There are a few alterations to that basic concept, such as not leaving snake segments behind when you wade through water. The game has some decent puzzles, though none of them spectacular like the last two levels of Bottom Feeder. It also suffers from loud background music and no undo button.
+
+![snakeoban3](https://joelthefox.github.io/img/Snakeoban3.png)
+
+-----
+
 
 
 # Awards
@@ -863,6 +872,7 @@ Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy -
 Monty's Way Home|Alex Cline|July 2020|Grow or shrink, then fit inside|Easy|5||Web
 Snakes without Brakes|Kodub|July 2020|Sliding snakes|Medium|20||Web
 Volcano Snek|JUSTCAMH|Nov 2020|Raise lava|Easy - Medium|N/A||Win/Mac/Linux
+Snakeoban|TeamDoodz|Nov 2020|infinite snake push boxes|Medium|22||Web
 
 -----
 
