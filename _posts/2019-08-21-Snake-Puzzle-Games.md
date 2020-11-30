@@ -567,7 +567,7 @@ ENIGMASH is the Frankenstein's monster of puzzle games. Patching together differ
 
 If you cannot live without knowing, if you, a heretofore *bon vivant*, would languish in bed imprisoned with uncertainty, unable to even prod your frosty potatoes when the microwave displays "flip," a physical shadow of yourself with bags under your eyes and your ears, an automaton merely going through the motions until the day comes when you are not *alive* enough to care about serpentine lore, if you find yourself in such unconscionable circumstances I believe there is one way out: you must enter a parallel universe where intelligent snakes play games about insentient humans, and determine whether their ENIGMASH has humans in it. Though a redoubtable task, it will be aided by consultation with the eminent snake authority on human puzzle games<sup>†</sup>. You might protest - "but such a universe cannot exist, an *intelligent* snake studying frivolous human puzzle games is a contradiction!" Actually you're right, I hadn't thought of that. Still, we can surmise that if humans did appear in TRANSUNIVERSALENIGMASH, they would probably have the ability to decompose into their component blocks, which can then be rearranged and recombined.
   
-<font size="2"><sup>†</sup>Liability waiver: by reading this article you agree to take all responsibility for the risks associated with interdimensional investigations including but not limited to being trapped in an infinite loop</font>
+<font size="2"><sup>†</sup>Liability waiver: by reading this article you agree to take all responsibility for the risks associated with interdimensional research including but not limited to being trapped in an infinite loop</font>
 
 ![ENIGMASH](https://joelthefox.github.io/img/ENIGMASH.png)
 
