@@ -2,7 +2,7 @@
 layout: post
 title: Snake Puzzle Games
 ---
-###### *Nov 2020 updates: Wriggle family added, a drop-down menu of games at the top, and changed the descriptions of ENIGMASH and Shy Snake*
+###### *Nov 2020 updates: Wriggle family added, a drop-down menu of games at the top, changed the descriptions of ENIGMASH and Shy Snake, added game Volcano Snek, added game Snakeoban*
 ###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
 Here is a collection of all the snake puzzle games known to humans. (The snakes, we believe, are unaware and also cannot feel pain)  I'll try to write an update whenever a new game is released. The purpose of this article
