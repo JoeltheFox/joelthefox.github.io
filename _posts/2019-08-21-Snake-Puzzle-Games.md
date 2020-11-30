@@ -425,7 +425,7 @@ Hungry Kraken is ostensibly a kraken game, not a snake game. But its tentacles b
 -----
 
 ### [Shy Snake](https://www.puzzlescript.net/play.html?p=60876d7d67b051725fea658cb67de06a) by Daniel Freer and Stephen Lavelle  
-Shy Snake is a type of fill-all-the-squares game, and its unique feature is that your snake has width two.  It’s short and only a little snake-like, but the snake graphic is certainly cute.
+Shy Snake has the familiar task of filling all the squares, but this ABSOLUTEUNIT has twice the width (and unimportantly 4 times the volume) of any other snake.  With just 3 puzzles the game finishes quickly, which is necessary because that chonk has dinner reservations at the annual independent rodent art fair.
 
 ![Shy Snake](https://joelthefox.github.io/img/ShySnake.png)
 
