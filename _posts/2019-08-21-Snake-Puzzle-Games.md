@@ -877,7 +877,7 @@ Snakeoban|TeamDoodz|Nov 2020|infinite snake push boxes|Medium|22||Web
 -----
 
 
-## Games coming in the future:
+## Games coming in the future
 
 [Boa Bonanza](https://boabonanza.com/)  
 [Snake Blocks](https://steven-miller.itch.io/snake-blocks) (awaiting revision)  
