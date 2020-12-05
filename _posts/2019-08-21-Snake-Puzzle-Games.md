@@ -888,6 +888,7 @@ Snakeoban|TeamDoodz|Nov 2020|infinite snake push boxes|Medium|22||Web
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
+[Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)
 
 -----
 
