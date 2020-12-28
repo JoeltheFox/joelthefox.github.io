@@ -23,6 +23,8 @@ A few contributions to Andy Duff's [Push Blox 2](https://store.steampowered.com/
 
 A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) of Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole)
 
+Level 33 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime)
+
 -----
 
 A half-original game is my Weird Bug. The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun exerpiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn. [My version](https://joel-fox.itch.io/weird-bug) is a complete game based on the original.  
