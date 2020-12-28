@@ -27,7 +27,7 @@ Level 33 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-an
 
 -----
 
-A half-original game is my Weird Bug. The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun exerpiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn. [My version](https://joel-fox.itch.io/weird-bug) is a complete game based on the original.  
+A half-original game is my Weird Bug. The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun experiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn. [My version](https://joel-fox.itch.io/weird-bug) is a complete game based on the original.  
 
 ![Weird Bug](https://joelthefox.github.io/img/WeirdBug.png "The first gem level in Weird Bug")  
 How will this shiny gem help you get past the fire ants?
@@ -36,7 +36,7 @@ How will this shiny gem help you get past the fire ants?
 
 I made two puzzle games with [Mike Gelbart](https://www.mikegelbart.com/), Line of Sight and Herding Hero, both using the language [PuzzleScript](https://www.puzzlescript.net/).
 
-[Herding Hero](https://joel-fox.itch.io/herding-hero) is our second game and I think the better of the two.  It's about being a herding dog and having to herd goats and sheep, who behave differently and all seem to start in difficult positions.  It's quite a challenging game throughout, but I hope that the levels provide enough variety to keep it enjoyable.  
+[Herding Hero](https://joel-fox.itch.io/herding-hero) is our second game and I think the better of the two.  It's about being a herding dog and having to herd goats and sheep, who behave differently and all seem to start in problematic locations.  It's a challenging game throughout, but I hope that the levels provide enough variety to keep it enjoyable.  
 
 ![Herding Hero](https://joelthefox.github.io/img/herdingheroscreen.jpg "An early level of Herding Hero")  
 Getting all the goats into the bottom left pen in this early level of Herding Hero is harder than it looks!  
@@ -46,7 +46,7 @@ Getting all the goats into the bottom left pen in this early level of Herding He
 In [Line of Sight](https://joel-fox.itch.io/line-of-sight), movable *towers* are satisfied only if they see other towers in a straight, unobstructed line.  It's more of a sokoban-like game than Herding Hero, in that a lot of it is about pushing objects into the right positions, in the right sequence.  Unlike other sokoban games, the end state that you would like to achieve is not always clear (all towers might be satisfied in a number of possible arrangements), and will take some deduction.
 
 ![Line of Sight](https://joelthefox.github.io/img/LoSscreen.png "Level 3 of Line of Sight")  
-The blue towers in this position are satisfied because they can see eachother vertically, while the one on the bottom is unsatisfied.  
+The blue towers in this position are satisfied because they can see each other vertically, while the one on the bottom is unsatisfied.  
 
 -----
 
