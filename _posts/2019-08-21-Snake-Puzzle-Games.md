@@ -105,7 +105,7 @@ Snakebird has inspired several other entires on this list, including a sequel, a
 ![Snakebird](https://joelthefox.github.io/img/Snakebird.jpg)
 
 > The idea came from misunderstanding how a game by a friend worked. My friend only linked screenshots and never actually described how it played, so when it later turned out that his game was in fact a platformer and not actually a snake game with gravity like I had thought I made a prototype to show him. The prototype was then sort of forgotten about and it would take about a year before we dug it up and started turning it into a proper game.  
-> Felix
+>-Felix
 
 -----
 
