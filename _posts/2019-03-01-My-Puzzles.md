@@ -30,7 +30,7 @@ Level 33 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-an
 A half-original game is my Weird Bug. The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun experiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn. [My version](https://joel-fox.itch.io/weird-bug) is a complete game based on the original.  
 
 ![Weird Bug](https://joelthefox.github.io/img/WeirdBug.png "The first gem level in Weird Bug")  
-How will this shiny gem help you get past the fire ants?
+How will this shiny gem help you get past the fire ants and reach the fruit?
 
 -----
 
