@@ -171,7 +171,7 @@ Another game by Dario Zubović that is a kind of sequel to SnakeShit.  This one 
 
 ### [Pushy Worm](https://sidfishgames.itch.io/pushy-worm) by Sid Fish Games
 
-Made for a 1-week game jam with the theme "Collectables," this Snakebird inspired puzzle game has you grabbing fruit with your head and bringing it back to your nest to feed  three hungy snakelets. Collecting objects with your head takes some getting used to, and it took me a bit of time to realize that pressing down throws the food off your head. Another addition to the snakebird mechanics is trellises that you can slither over to gain height. Overall quite a cute game, with mostly simple puzzles.
+Made for a 1-week game jam with the theme "Collectables," this Snakebird inspired puzzle game has you grabbing fruit with your head and bringing it back to your nest to feed  three hungy snakelets. Collecting objects with your head takes some getting used to, and it took me a bit of time to realize that pressing down throws the food off your head. Another addition to the snakebird mechanics is trellises that you can slither around to gain height. Overall quite a cute game, with mostly simple puzzles.
 
 ![Pushy Worm](https://joelthefox.github.io/img/PushyWorm.png)
 
