@@ -46,8 +46,10 @@ Here are all the games, each with my description of them, a picture, and words f
 <a href="#lime-richard-by-franklin-dyer">Lime Richard</a><br>
 <a href="#lime-rick-by-tommi-tuovinen">Lime Rick</a><br>
 <a href="#montys-way-home-by-alex-cline">Monty's Way Home</a><br>
+<a href="#mortal-snake-by-umd-puzzle-hunt">Mortal Snake</a><br>
 <a href="#ouroboros-eggs-by-marcos-donnantuoni">Ouroboros' Eggs</a><br>
 <a href="#puddle-knights-by-lockpickle">Puddle Knights</a><br>
+<a href="#pushy-worm-by-sid-fish-games">Pushy Worm</a><br>
 <a href="#puzzle-snake-by-kroum-grigorov">Puzzle Snake</a><br>
 <a href="#quetzalcoatl-by-1button-sarl">Quetzalcoatl</a><br>
 <a href="#serpent-fusion-by-ramsey-boyce">Serpent Fusion</a><br>
