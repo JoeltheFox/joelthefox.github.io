@@ -167,6 +167,14 @@ Another game by Dario Zubović that is a kind of sequel to SnakeShit.  This one 
 
 -----
 
+### [Pushy Worm](https://sidfishgames.itch.io/pushy-worm) by Sid Fish Games
+
+Made for a 1-week game jam with the theme "Collectables," this Snakebird inspired puzzle game has you grabbing fruit with your head and bringing it back to your nest to feed  three hungy snakelets. Collecting objects with your head takes some getting used to, and it took me a bit of time to realize that pressing down throws the food off your head. Another addition to the snakebird mechanics is trellises that you can slither over to gain height. Overall quite a cute game, with mostly simple puzzles.
+
+![Pushy Worm](https://joelthefox.github.io/img/PushyWorm.png)
+
+-----
+
 ### [Volcano Snek](https://justcamh.itch.io/volcano-snek) by JUSTCAMH
 
 Though not consciously inspired by Snakebird, Volcano Snek is a "micro metroidvania" (short and you gain powers as you progress) that uses similar snake plus gravity movement. The new idea is that you can raise the lava level within a puzzle by knocking your head against a wall of the volcano. The ability to affect the ground in this way is interesting, though the puzzles are mostly simple and I think the possibilities have not been fully explored. Not unexpected given that this game was made in 48 hours for a game jam (that it won!). This is the last of the Snakebird-like games on the list.
@@ -773,6 +781,14 @@ Made for a 72-hour game jam with the theme "Limited Space," as the name suggests
 
 -----
 
+### [Mortal Snake](https://www.umdpuzzle.club/puzzle/mortal-snake) by UMD Puzzle Hunt
+
+Ryan Thomas crafted this clever snake game for the 2021 UMD Puzzle Hunt (an annual event that I participated in for the first time this year). Saying anything more would ruin the intended experience of figuring out what the goal is, but feel free to send me a line if you'd like a hint to help get you started.
+
+![Mortal Snake](https://joelthefox.github.io/img/MortalSnake.png)
+
+-----
+
 
 
 # Awards
@@ -871,8 +887,11 @@ Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
 Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy - Medium|12||Web
 Monty's Way Home|Alex Cline|July 2020|Grow or shrink, then fit inside|Easy|5||Web
 Snakes without Brakes|Kodub|July 2020|Sliding snakes|Medium|20||Web
+Pushy Snake|Tony M|Sep 2020|Snakebird carrying objects|Easy-Medium|15||Win
 Volcano Snek|JUSTCAMH|Nov 2020|Raise lava|Easy - Medium|N/A||Win/Mac/Linux
 Snakeoban|TeamDoodz|Nov 2020|infinite snake push boxes|Medium|22||Web
+Mortal Snake|Ryan Thomas|Jan 2021|Puzzle Hunt|Medium|10||Web
+Room to Grow|Mischka Kamener|Feb 2021|Grow, push off walls||||
 
 -----
 
