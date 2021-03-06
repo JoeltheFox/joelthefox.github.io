@@ -948,6 +948,8 @@ Almost a puzzle is [Chnakess](https://hempuli.itch.io/chnakess), a snake + chess
 [Slime Path](https://siivergoid.itch.io/slime-path) is a game about slimes which probably would have made it if it had snake graphics. You control multiple slimes that act like infinite snakes, with some added mechanics like lock & keys, and you need to get all slimes to their exits. It's actually not bad, maybe I should have included it...  
 Another infinite snake but-not-a-snake game is [Necroworm](https://store.steampowered.com/app/622890/NecroWorm/). The production value is high but the mechanics are not as interesting as in Slime Path.
 
+[The Giraffe](https://quentindelvallet.itch.io/the-giraffe) and its sequel [The Giraffe World](https://quentindelvallet.itch.io/the-giraffe-world) are games about extending giraffe necks in a snake-like fashion, though they can cross themselves perpendicularly.
+
 [Snackzzle](https://egordorichev.itch.io/snackzzle) technically fits but has some issues with arbitrary lock-key combinations, no undo, and uninteresting puzzles, so I didn’t include it.
 
 [Getting Long](https://zeantwan.itch.io/getting-long) is a snake game disguised as a cute dog game. You need to eat all the crumpets without getting hit by a snail or spikes. Quite short and only a couple of real puzzles.  
