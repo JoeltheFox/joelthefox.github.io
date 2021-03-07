@@ -800,7 +800,7 @@ This long awaited snake-cactus crossover game expands brilliantly on the mechani
 
 Why do you control a cactus instead of a snake? This philosophical question has not been given a clearer answer since Nietzsche exclaimed "ow, that thing is pokey," and by the end of Room to Grow you will wonder why the answer never came to you in time for your PhD defense.
 
-The art and sound design make for a beautiful experience, and the puzzles are generally delightful as well. My only gripe is that some of the puzzles near the end take a bit of trial-and-error.
+The art and sound design make for a beautiful experience, and the puzzles are generally delightful as well. My only gripe is that some of the difficult puzzles near the end take a bit of trial-and-error (but for most of the game, the solutions are logical and elegant).
 
 ![Room to Grow](https://joelthefox.github.io/img/RoomToGrow.png)
 
