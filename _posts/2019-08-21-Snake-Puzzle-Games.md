@@ -2,6 +2,8 @@
 layout: post
 title: Snake Puzzle Games
 ---
+
+###### *Mar 2021 updates: added 3 games: Pushy Worm, Mortal Snake, Room to Grow
 ###### *Nov 2020 updates: Wriggle family added, a drop-down menu of games at the top, changed the descriptions of ENIGMASH and Shy Snake, added game Volcano Snek, added game Snakeoban*
 ###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
@@ -52,6 +54,7 @@ Here are all the games, each with my description of them, a picture, and words f
 <a href="#pushy-worm-by-sid-fish-games">Pushy Worm</a><br>
 <a href="#puzzle-snake-by-kroum-grigorov">Puzzle Snake</a><br>
 <a href="#quetzalcoatl-by-1button-sarl">Quetzalcoatl</a><br>
+<a href="#room-to-grow-by-mischka-kamener">Room to Grow</a><br>
 <a href="#serpent-fusion-by-ramsey-boyce">Serpent Fusion</a><br>
 <a href="#shackle-by-steven-miller">Shackle</a><br>
 <a href="#shitstain-by-dario-zubović">Shitstain</a><br>
@@ -791,6 +794,18 @@ Ryan Thomas crafted this clever snake game for the 2021 UMD Puzzle Hunt (an annu
 
 -----
 
+### [Room to Grow](https://store.steampowered.com/app/1471960/Room_to_Grow/) by Mischka Kamener
+
+This long awaited snake-cactus crossover game expands brilliantly on the mechanic earlier seen in 8 Happy Snakes (though not known to the designer). The player grows a cactus in snake-like fashion, and can push off walls to translate its body in that direction. The goal in each puzzle is to place cactus pots onto properly cactus-nourishing locations, and this is accomplished either by pushing them with your cactus head, or with your body as you bounce off walls.
+
+Why do you control a cactus instead of a snake? This philosophical question has not been given a clearer answer since Plato's Republic, and by the end of Room to Grow you will wonder why the answer never came to you during your PhD studies.
+
+The art and sound design make for a beautiful experience, and the puzzles are generally delightful as well. My only gripe is that some of the puzzles near the end take a bit of trial-and-error.
+
+![Room to Grow](https://joelthefox.github.io/img/RoomToGrow.png)
+
+-----
+
 
 
 # Awards
@@ -814,6 +829,7 @@ Snakefall – good to great fan-made levels for Snakebird
 Bottom Feeder - excellent concept and puzzles  
 Worm Jazz - highly polished with interesting mechanics  
 Serpent Fusion - nice puzzles result from a surprising combination of mechanics  
+Room to Grow - beautifully done, interesting concepts  
 
 Work particularly well for mobile / touch controls:  Snake Slider,  Quetzalcoatl,  Snake’s Tale
 
@@ -893,7 +909,7 @@ Pushy Snake|Tony M|Sep 2020|Snakebird carrying objects|Easy-Medium|15||Win
 Volcano Snek|JUSTCAMH|Nov 2020|Raise lava|Easy - Medium|N/A||Win/Mac/Linux
 Snakeoban|TeamDoodz|Nov 2020|infinite snake push boxes|Medium|22||Web
 Mortal Snake|Ryan Thomas|Jan 2021|Puzzle Hunt|Medium|10||Web
-Room to Grow|Mischka Kamener|Feb 2021|Grow, push off walls||||
+Room to Grow|Mischka Kamener|Feb 2021|Grow, push off walls|Medium - Hard|106||Win/Mac
 
 -----
 
@@ -905,7 +921,6 @@ Room to Grow|Mischka Kamener|Feb 2021|Grow, push off walls||||
 [Sausage Dog Tends to Infinity](https://store.steampowered.com/app/1299340/Sausage_Dog_Tends_To_Infinity/?curator_clanid=4777282&utm_source=SteamDB)  
 [Sushi Snake](https://benjamindav.is/sushisnake/) was previously published but ran into compatibility issues that are being worked on.  
 [Kukulcan](http://www.black-spoon.com/)  
-[Room to Grow](https://store.steampowered.com/app/1471960/Room_to_Grow/)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
