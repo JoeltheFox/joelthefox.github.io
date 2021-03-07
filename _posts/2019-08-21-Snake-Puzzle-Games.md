@@ -798,7 +798,7 @@ Ryan Thomas crafted this clever snake game for the 2021 UMD Puzzle Hunt (an annu
 
 This long awaited snake-cactus crossover game expands brilliantly on the mechanic earlier seen in 8 Happy Snakes (though not known to the designer). The player grows a cactus in snake-like fashion, and can push off walls to translate its body in that direction. The goal in each puzzle is to place cactus pots onto properly cactus-nourishing locations, and this is accomplished by pushing them either with your cactus head, or with your body as you bounce off walls.
 
-Why do you control a cactus instead of a snake? This philosophical question has not been given a clearer answer since Nietzsche exclaimed "ow, that thing is pokey," and by the end of Room to Grow you will wonder why the answer never came to you in time for your PhD defense.
+Why do you control a cactus instead of a snake? This philosophical question has not been given a clearer answer since Nietzsche exclaimed "ow, that thing is pokey," and by the end of Room to Grow you will wonder why the answer didn't come to you in time for your PhD defense.
 
 The art and sound design make for a beautiful experience, and the puzzles are delightful as they progress gradually in difficulty and mechanics. For the most part puzzle solutions are logical and elegant, though I found near the end that I needed to use some trial-and-error
 
