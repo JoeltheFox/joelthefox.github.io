@@ -3,7 +3,7 @@ layout: post
 title: Snake Puzzle Games
 ---
 
-###### *Mar 2021 updates: added 3 games: Pushy Worm, Mortal Snake, Room to Grow*
+###### *Mar 2021 updates: added 3 games: Pushy Worm, Mortal Snake, Room to Grow, Shall We Golf*
 ###### *Nov 2020 updates: Wriggle family added, a drop-down menu of games at the top, changed the descriptions of ENIGMASH and Shy Snake, added game Volcano Snek, added game Snakeoban*
 ###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
@@ -57,6 +57,7 @@ Here are all the games, each with my description of them, a picture, and words f
 <a href="#room-to-grow-by-mischka-kamener">Room to Grow</a><br>
 <a href="#serpent-fusion-by-ramsey-boyce">Serpent Fusion</a><br>
 <a href="#shackle-by-steven-miller">Shackle</a><br>
+<a href="#shall-we-golf-by-nebu-soku">Shall We Golf?</a><br>
 <a href="#shitstain-by-dario-zubović">Shitstain</a><br>
 <a href="#shy-snake-by-daniel-freer-and-stephen-lavelle">Shy Snake</a><br>
 <a href="#snake-blocks-by-spooky-cat">Snake Blocks</a><br>
@@ -806,6 +807,16 @@ The art and sound design make for a beautiful experience, and the puzzles are de
 
 -----
 
+### [Shall We Golf?](https://nebu-soku.itch.io/golfshall-we-golf) by Nebu Soku
+
+Have you ever wanted to make a conga line with all your golf friends, share a single golf club among the whole group, and take turns hitting each other with the golf ball? Strange as it sounds, these mechanics make for a much more interesting game than Old Golf. Snake your players around the green so that you can stop the ball in just the right position for the final putt.
+
+While infinite length snakes sometimes feel like line-drawing instead of snake-moving, a temporal element will often bring the snake to life. Shall We Golf has you hitting the ball from anywhere on your body, and you will often need to alternate hitting the ball with growing the snake further in order to reach the hole. Look out for some of the most beloved (by a small subset of people) terrain features as you progress through 15 satisfying puzzles.
+
+![Golf](https://joelthefox.github.io/img/Golf.png)
+
+-----
+
 
 
 # Awards
@@ -910,6 +921,7 @@ Volcano Snek|JUSTCAMH|Nov 2020|Raise lava|Easy - Medium|N/A||Win/Mac/Linux
 Snakeoban|TeamDoodz|Nov 2020|infinite snake push boxes|Medium|22||Web
 Mortal Snake|Ryan Thomas|Jan 2021|Puzzle Hunt|Medium|10||Web
 Room to Grow|Mischka Kamener|Feb 2021|Grow, push off walls|Medium - Hard|106||Win/Mac
+Shall We Golf?|Nebu Soku|Mar 2021|Hit ball with body|Medium - Hard|15||Web
 
 -----
 
