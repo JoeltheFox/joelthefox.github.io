@@ -809,9 +809,9 @@ The art and sound design make for a beautiful experience, and the puzzles are de
 
 ### [Shall We Golf?](https://nebu-soku.itch.io/golfshall-we-golf) by Nebu Soku
 
-Have you ever wanted to make a conga line with all your golf friends, share a single golf club among the whole group, and take turns hitting each other with the golf ball? Strange as it sounds, these mechanics make for a much more interesting game than Old Golf. Snake your players around the green so that you can stop the ball in just the right position for the final putt.
+Have you ever wanted to make a conga line with all your golf friends, share a single club among the whole group, and take turns smacking each other with the ball? Strange as it sounds, these mechanics make for a much more interesting game than Old Golf. Snake your players around the green so that you can stop the ball in just the right position for the final putt.
 
-While infinite length snakes sometimes feel like line-drawing instead of snake-moving, a temporal element will often bring the snake to life. Shall We Golf has you hitting the ball from anywhere on your body, and you will often need to alternate hitting the ball with growing the snake further in order to reach the hole. Look out for some of the most beloved (by a small subset of people) terrain features as you progress through 15 satisfying puzzles.
+While infinite length snakes sometimes feel like line-drawing instead of snake-moving, a temporal element will often bring the snake to life. Shall We Golf has you hitting the ball from anywhere on your body, and you will often need to alternate hitting the ball with growing the snake further in order to reach the hole. Look out for some of the most beloved (by a small subset of people) golf terrain features as you progress through 15 satisfying puzzles.
 
 ![Golf](https://joelthefox.github.io/img/Golf.png)
 
