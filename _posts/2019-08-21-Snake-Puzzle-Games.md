@@ -815,6 +815,9 @@ While infinite length snakes sometimes feel like line-drawing instead of snake-m
 
 ![Golf](https://joelthefox.github.io/img/Golf.png)
 
+>The only thing I can add is that the Japanese title is a parody of a famous Japanese game. (This is unimportant information. There is no need to actually add it.)  
+>-Nebu Soku
+
 -----
 
 
