@@ -3,7 +3,7 @@ layout: post
 title: Snake Puzzle Games
 ---
 
-###### *Mar 2021 updates: added 3 games: Pushy Worm, Mortal Snake, Room to Grow, Shall We Golf*
+###### *Mar 2021 updates: added 4 games: Pushy Worm, Mortal Snake, Room to Grow, Shall We Golf*
 ###### *Nov 2020 updates: Wriggle family added, a drop-down menu of games at the top, changed the descriptions of ENIGMASH and Shy Snake, added game Volcano Snek, added game Snakeoban*
 ###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
