@@ -165,15 +165,15 @@ If you'd like to try your hand, there is an ongoing [study](https://twitter.com/
 
 ![anhinga](https://joelthefox.github.io/img/Anhinga.png)
 
->**How did you choose Snakebird?**
+>**How did you choose Snakebird?**  
 >I started thinking about this sort of analysis back in 2013. We did puzzles for the Witness [a few years ago](https://movingai.com/w3.html; https://webdocs.cs.ualberta.ca/~nathanst/papers/sturtevant18epcg.pdf), so I was thinking about other games that could use similar techniques for analysis. Snakebird seemed to be a good candidate where humans are not good at predicting the impact of changes to a level, so computers would be able to help.
 I started by having a visiting student code up an implementation. After it showed things could work reasonably well I wrote my own implementation which is far more efficient (both memory- and time-wise) and started using it to analyze levels.
 
->**Was it clear to you that searching the space of all 1/2 tile alterations would be feasible, before you coded it?** (my own guess would have been not feasible)
+>**Was it clear to you that searching the space of all 1/2 tile alterations would be feasible, before you coded it?** (my own guess would have been not feasible)  
 >No, I didn't know if we'd be able to do this for sure, or that we'd get such interesting results. Originally I was hoping to build an editor that would help someone build better levels. (Which worked for the student doing the initial implementation.) But, as we explored, we found this angle for our first step in the work. We are working on studying how the editor helps designers next.
->
->**I'm curious if you had thought of using other metrics besides solution length.**
->I've talked with colleagues about different metrics, but I haven't had to use them yet. But, I think there is room to use them. If you look at [this level](https://www.movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfiflfmfofpKFPddfnSduRRSezLL), the shortest solution is not one that most people would use. So, [the suggested change](https://www.movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfiflfmfofpgrKFPddfnSduRRSezLL) to this level is not particularly interesting, while [this variant](https://movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfifjfkflfmfofpKFPddfnSduRRSezLL) of the level is much harder for people. Playing around, I can (with the help of the editor) come up with [this variant](https://movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegehelfhfifjfkfmfofpKFcpPddfnSduRRSezLL), which is much more difficult still. So, I think there is room to use better metrics, but we aren't doing it yet.
+
+>**I'm curious if you had thought of using other metrics besides solution length.**  
+>I've talked with colleagues about different metrics, but I haven't had to use them yet. But, I think there is room to use them. If you look at [this level](https://www.movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfiflfmfofpKFPddfnSduRRSezLL), the shortest solution is not one that most people would use. So, [the suggested change](https://www.movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfiflfmfofpgrKFPddfnSduRRSezLL) to this level is not particularly interesting, while [this variant](https://movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfifjfkflfmfofpKFPddfnSduRRSezLL) of the level is much harder for people. Playing around, I can (with the help of the editor) come up with [this variant](https://movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegehelfhfifjfkfmfofpKFcpPddfnSduRRSezLL), which is much more difficult still. So, I think there is room to use better metrics, but we aren't doing it yet.  
 >-Nathan Sturtevant
 
 -----
@@ -827,10 +827,10 @@ The art and sound design make for a beautiful experience, and the puzzles are de
 
 ![Room to Grow](https://joelthefox.github.io/img/RoomToGrow.png)
 
->**Editor's note: the text below should not be considered factual**
->What do cacti have over snakes? There are so so many things! But for the sake of time, here are two:
-1) Cacti are a much better metaphor than snakes for the mechanics in Room to Grow. Plants continuously grow from a source point, while we all know that snakes only grow when they eat fruit. Additionally, cacti are much more rigid than snakes, which helps explain why you keep your shape when pushing against a wall in Room to Grow.
-2) Cacti are underrepresented in videogames, often relegated to being environmental extras. Snakes on the other hand (as this extensive list shows) have been overwhelmingly cast as the main character, particularly in puzzle games. Thus, not only are cacti more deserving of having a leading role, but by having a succulent protagonist, Room to Grow is able to stand out more from the crowd.
+>**Editor's note: the text below should not be considered factual**  
+>What do cacti have over snakes? There are so so many things! But for the sake of time, here are two:  
+1) Cacti are a much better metaphor than snakes for the mechanics in Room to Grow. Plants continuously grow from a source point, while we all know that snakes only grow when they eat fruit. Additionally, cacti are much more rigid than snakes, which helps explain why you keep your shape when pushing against a wall in Room to Grow.  
+2) Cacti are underrepresented in videogames, often relegated to being environmental extras. Snakes on the other hand (as this extensive list shows) have been overwhelmingly cast as the main character, particularly in puzzle games. Thus, not only are cacti more deserving of having a leading role, but by having a succulent protagonist, Room to Grow is able to stand out more from the crowd.  
 >-Mischka Kamener
 
 -----
