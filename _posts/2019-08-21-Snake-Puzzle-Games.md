@@ -27,7 +27,7 @@ Here is a collection of all the snake puzzle games known to humans. (The snakes,
 Here are all the games, each with my description of them, a picture, and words from the designer. The ordering of the games in the main list is roughly the order that I played them in. There is a table afterwards that lists them in chronological order, and a drop-down menu right below this paragraph that has them listed alphabetically. My main qualification to write about these games is that I have solved all the puzzles.  In describing them, I have sometimes left out key mechanics or high points, so that the reader will not lose the joy of discovery.  If you find that I have erred too far to the side of spoiler avoidance, don’t tell me!
 
 <details>
-<summary>Dropdown navigation list (click me)</summary>
+<summary>Dropdown navigation list (click here)</summary>
 <br>
 <a href="#8-happy-snakes-by-stephen-lavelle">8 Happy Snakes</a><br>
 <a href="#anhinga-by-nathan-sturtevant-and-lab">Anhinga</a><br>
