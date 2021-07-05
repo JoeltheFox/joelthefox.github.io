@@ -831,6 +831,7 @@ The art and sound design make for a beautiful experience, and the puzzles are de
 >What do cacti have over snakes? There are so so many things! But for the sake of time, here are two:  
 >1) Cacti are a much better metaphor than snakes for the mechanics in Room to Grow. Plants continuously grow from a source point, while we all know that snakes only grow when they eat fruit. Additionally, cacti are much more rigid than snakes, which helps explain why you keep your shape when pushing against a wall in Room to Grow.  
 >2) Cacti are underrepresented in videogames, often relegated to being environmental extras. Snakes on the other hand (as this extensive list shows) have been overwhelmingly cast as the main character, particularly in puzzle games. Thus, not only are cacti more deserving of having a leading role, but by having a succulent protagonist, Room to Grow is able to stand out more from the crowd.  
+
 >-Mischka Kamener
 
 -----
