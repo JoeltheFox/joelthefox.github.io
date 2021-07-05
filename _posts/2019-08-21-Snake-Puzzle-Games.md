@@ -3,9 +3,8 @@ layout: post
 title: Snake Puzzle Games
 ---
 
+###### *July 2021 updates: added game Anhinga, author's text for Room to Grow, and a few new games to the omissions section*
 ###### *Mar 2021 updates: added 4 games: Pushy Worm, Mortal Snake, Room to Grow, Shall We Golf*
-###### *Nov 2020 updates: Wriggle family added, a drop-down menu of games at the top, changed the descriptions of ENIGMASH and Shy Snake, added game Volcano Snek, added game Snakeoban*
-###### *Oct 2020 updates: added new game Worm Jazz, update to Puddle Knights, added game Serpent Fusion, added long lost Jack Lance snakebird level, new snakefall levels, added designer's note for Snakekans*
 
 Here is a collection of all the snake puzzle games known to humans. (The snakes, we believe, are unaware and also cannot feel pain)  I'll try to write an update whenever a new game is released. The purpose of this article
 
@@ -31,6 +30,7 @@ Here are all the games, each with my description of them, a picture, and words f
 <summary>Dropdown navigation list</summary>
 <br>
 <a href="#8-happy-snakes-by-stephen-lavelle">8 Happy Snakes</a><br>
+<a href="#anhinga-by-nathan-sturtevant-and-lab">Anhinga</a><br>
 <a href="#avis-anguis-by-terzalo-and-contributors">Avis Anguis</a><br>
 <a href="#blocker-snake-by-rosden-shadow">Blocker Snake</a><br>
 <a href="#boa-by-steven-miller">Boa</a><br>
@@ -153,6 +153,28 @@ The second reimplementation of Snakebird, this time in PuzzleScript.  Terzalo pr
 The last remake of Snakebird for fan levels, this one has 5 levels by the programmer (Jacob Christian Munch-Andersen), and two other levels that I know of.  When you first take the link, there should be the original 5 levels on a drop-down menu on the right; additional levels only show up once you have taken a link to them. The first 5 levels are elegant and about the same difficulty as original Snakebird, and the two contibuted levels are slightly harder.  [Fruit Transport](http://nohatcoder.dk/snakebird.htm#Alb_rnwk4mQvI-ikwf3ElEqXv6MuilgmwmgH-INmF847t4LVgjNd_wUOgHoH85FeGliPuFPFpCmzFlzrhMWuoSyKk6pNwFnDtKP1rzG5o4dUdz0gIkFco0Y_66dD_Ecg0Qwn4glwWEo_YkDtUFgnA495zX9qM-hfzMkE5mw0A_kIkFG2EFpxm5kx4mxiWgjM-COvHlIFoWwBnRdMMiIOO3gPOvw5eh2EwzWqH1iH3HJ8m4O9wOPkNw_E47MGg8E5sQSn5otBmJ1xH_4JhtFHomGVlC11g5owFo2GvwXuOGKnQvqH34) by Edderiofer and Jacob Munch-Andersen has "fruit-crates" that must be pushed into the exit (they are essentially 1-segment snakes that were deemed immobile), and [Wall](http://nohatcoder.dk/snakebird.htm#Alb_rnwk4mQvIs6MtE2BVwE97f8EuEsEgD8hNlqH3RvhitwHuFgCkqpmAU-CR2hoViR1J8jcInioWpX9icoW2Y3xNsDuFe3A1HxMyWExGtp1gX06E9F44H1BW0FmKFgVuyo24NZ4GkiImNpVRgHXsRkIlgEv6EgvQynxE0IvOM3py-AvPv4X3HsgxoG5WsyH) by Jack Lance is a very nice level with standard rules.
 
 ![Snakebird fan](https://joelthefox.github.io/img/SnakeFan.png)
+
+-----
+
+### [Anhinga](https://www.movingai.com/snakebird.html) by Nathan Sturtevant and lab
+Did you know that an anhinga is an animal that has the nickname "snakebird"? You probably did not, which is one of the many reasons why Dr. Nathan Sturtevant of the University of Alberta believes we need more artificial intelligence in the puzzle game industry.
+
+Another reason was to see how computational power can help puzzle designers iterate and improve on their work. With the Anhinga engine, you can see what single tile alteration in a Snakebird puzzle causes the greatest change to its optimal solution length. Although solution length is not the best metric for how interesting a puzzle is, the hypothesis was that it could at least unearth some interesting tricks that the designer was not aware of. The Anhinga developers applied the *solution length extender* function twice (in series) to every level in Snakebird and Snakebird Primer, and have published the 7 puzzles that changed the most on the linked page. While a few of them don't change in interesting ways (and are therefore perhaps more tedious than the originals), a couple certainly have. [Modified Primer 65](https://www.movingai.com/snakebird/play.html#20b15EhuGdhdrdsdxdydzegehejekemeneoeveweyfbfcfdhfhhhjhkhlhwhxhyhziailiminioipKFSeiRSfaRDD) became intricate while still being playful, and [Modified Snakebird 24](https://www.movingai.com/snakebird/play.html#20b16EhuGflfsgagbgcgqgrKfkFfrBerfhfxesfifyfjSgoRUSgpRD) is magnificent.
+
+If you'd like to try your hand, there is an ongoing [study](https://twitter.com/MatthewGuz/status/1400149271542853632) where participants try to use the Anhinga engine to make their own Snakebird puzzles. The papers about Anhinga hosted on the website may also be of interest, including a funny discovery in the *incremental design changes* link, figure 2.
+
+![anhinga](https://joelthefox.github.io/img/Anhinga.png)
+
+>**How did you choose Snakebird?**
+>I started thinking about this sort of analysis back in 2013. We did puzzles for the Witness [a few years ago](https://movingai.com/w3.html; https://webdocs.cs.ualberta.ca/~nathanst/papers/sturtevant18epcg.pdf), so I was thinking about other games that could use similar techniques for analysis. Snakebird seemed to be a good candidate where humans are not good at predicting the impact of changes to a level, so computers would be able to help.
+I started by having a visiting student code up an implementation. After it showed things could work reasonably well I wrote my own implementation which is far more efficient (both memory- and time-wise) and started using it to analyze levels.
+
+>**Was it clear to you that searching the space of all 1/2 tile alterations would be feasible, before you coded it?** (my own guess would have been not feasible)
+>No, I didn't know if we'd be able to do this for sure, or that we'd get such interesting results. Originally I was hoping to build an editor that would help someone build better levels. (Which worked for the student doing the initial implementation.) But, as we explored, we found this angle for our first step in the work. We are working on studying how the editor helps designers next.
+>
+>**I'm curious if you had thought of using other metrics besides solution length.**
+>I've talked with colleagues about different metrics, but I haven't had to use them yet. But, I think there is room to use them. If you look at [this level](https://www.movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfiflfmfofpKFPddfnSduRRSezLL), the shortest solution is not one that most people would use. So, [the suggested change](https://www.movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfiflfmfofpgrKFPddfnSduRRSezLL) to this level is not particularly interesting, while [this variant](https://movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegelfafhfifjfkflfmfofpKFPddfnSduRRSezLL) of the level is much harder for people. Playing around, I can (with the help of the editor) come up with [this variant](https://movingai.com/snakebird/play.html#20b15EhgGbxbycmdbdedfdgdhdqdwefegehelfhfifjfkfmfofpKFcpPddfnSduRRSezLL), which is much more difficult still. So, I think there is room to use better metrics, but we aren't doing it yet.
+>-Nathan Sturtevant
 
 -----
 
@@ -797,13 +819,19 @@ Ryan Thomas crafted this clever snake game for the 2021 UMD Puzzle Hunt (an annu
 
 ### [Room to Grow](https://store.steampowered.com/app/1471960/Room_to_Grow/) by Mischka Kamener
 
-This long awaited snake-cactus crossover game expands brilliantly on the mechanic earlier seen in 8 Happy Snakes (though not known to the designer). The player grows a cactus in snake-like fashion, and can push off walls to translate its body in that direction. The goal in each puzzle is to place cactus pots onto properly cactus-nourishing locations, and this is accomplished by pushing them either with your cactus head, or with your body as you bounce off walls.
+This long awaited snake-cactus crossover game expands brilliantly on the mechanic earlier seen in 8 Happy Snakes (though not known to the designer). The player grows a cactus in snake-like fashion, and can push off walls to translate its body in that direction. The goal in each puzzle is to place cactus pots onto properly cactus-nourishing circles, and this is accomplished by pushing them either directly with your cactus head, or with your body as you bounce off walls.
 
-What do cacti have over snakes? This philosophical question has not been given a clearer answer since Nietzsche exclaimed "ow, that thing is pokey," and by the end of Room to Grow you will wonder why the answer didn't come to you in time for your PhD defense.
+What could cacti have over snakes? This philosophical question has not been given a clearer interpretation since Nietzsche exclaimed "ow, that thing is pokey," and by the end of Room to Grow you will wonder why the answer didn't come to you in time for your PhD defense.
 
 The art and sound design make for a beautiful experience, and the puzzles are delightful as they progress gradually in difficulty and mechanics. For the most part puzzle solutions are logical and elegant, though I found near the end that I needed to use some trial-and-error.
 
 ![Room to Grow](https://joelthefox.github.io/img/RoomToGrow.png)
+
+>**Editor's note: the text below should not be considered factual**
+>What do cacti have over snakes? There are so so many things! But for the sake of time, here are two:
+1) Cacti are a much better metaphor than snakes for the mechanics in Room to Grow. Plants continuously grow from a source point, while we all know that snakes only grow when they eat fruit. Additionally, cacti are much more rigid than snakes, which helps explain why you keep your shape when pushing against a wall in Room to Grow.
+2) Cacti are underrepresented in videogames, often relegated to being environmental extras. Snakes on the other hand (as this extensive list shows) have been overwhelmingly cast as the main character, particularly in puzzle games. Thus, not only are cacti more deserving of having a leading role, but by having a succulent protagonist, Room to Grow is able to stand out more from the crowd.
+>-Mischka Kamener
 
 -----
 
@@ -915,6 +943,7 @@ Bottom Feeder|Zach Abel|Feb 2020|Eat with your tail|Hard - Very Hard|11||Web
 Snaliens|João Ferreira|Feb 2020|Boxes, Switches, Circuits, and Snakes|Medium|92|$5-8|Win/Android
 Puddle Knights|Lockpickle|Mar 2020|Protect nobles from mud|Medium - Hard|127|$13|Win/Mac/Switch
 Worm Jazz|Yu He|Apr 2020|Explode segments and regenerate|Easy - Hard|57|$0-7|Win/Switch/Mobile
+Anhinga|Nathan Sturtevant|Apr 2020|Snakebird solver|Hard|7||Web
 Shackle|Steven Miller|May 2020|Drag a ball & chain|Medium - Very Hard|52||Win
 Crocodiles Love Cookies|Ethan Clark|June 2020|Retrieve cookie with tongue|Easy - Medium|12||Web
 Monty's Way Home|Alex Cline|July 2020|Grow or shrink, then fit inside|Easy|5||Web
@@ -979,6 +1008,10 @@ Almost a puzzle is [Chnakess](https://hempuli.itch.io/chnakess), a snake + chess
 Another infinite snake but-not-a-snake game is [Necroworm](https://store.steampowered.com/app/622890/NecroWorm/). The production value is high but the mechanics are not as interesting as in Slime Path.
 
 [The Giraffe](https://quentindelvallet.itch.io/the-giraffe) and its sequel [The Giraffe World](https://quentindelvallet.itch.io/the-giraffe-world) are games about extending giraffe necks in a snake-like fashion, though they can cross themselves perpendicularly.
+
+[Elephants have long trunks](https://competor.itch.io/elephants-have-long-trunks) is a game about eating fruit with an elephant trunk. It has a few differences from snake movement, but is very interesting and cute.
+
+[Tactical Hand Eye](https://www.puzzlescript.net/play.html?p=0ee2b2b0e60a60ab6d869587e84d319f) is a short joke-game based on someone's profile picture in the thinky puzzle games discord, but it's actually not bad. Involves multiple infinite snakes pushing crates.
 
 [Snackzzle](https://egordorichev.itch.io/snackzzle) technically fits but has some issues with arbitrary lock-key combinations, no undo, and uninteresting puzzles, so I didn’t include it.
 
