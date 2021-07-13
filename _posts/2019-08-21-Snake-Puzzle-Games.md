@@ -3,7 +3,7 @@ layout: post
 title: Snake Puzzle Games
 ---
 
-###### *July 2021 updates: added game Anhinga, author's text for Room to Grow, and a few new games to the omissions section*
+###### *July 2021 updates: added games Anhinga and Upaon, author's text for Room to Grow, and a few new games to the omissions section*
 ###### *Mar 2021 updates: added 4 games: Pushy Worm, Mortal Snake, Room to Grow, Shall We Golf*
 
 Here is a collection of all the snake puzzle games known to humans. (The snakes, we believe, are unaware and also cannot feel pain)  I'll try to write an update whenever a new game is released. The purpose of this article
@@ -93,6 +93,7 @@ Here are all the games, each with my description of them, a picture, and words f
 <a href="#tj-wriggle-by-andrea-gilbert-and-tom-jolly">TJ-Wriggle</a><br>
 <a href="#train-snaking-by-dario-zubović">Train Snaking</a><br>
 <a href="#unconventional-guns-by-rectangular-tim">Unconventional Guns</a><br>
+<a href="#upaon-a-snakes-journey-by-wired-dreams-studio">Upaon: A Snake's Journey</a><br>
 <a href="#vertebrae-by-ali-nikkhah">Vertebrae</a><br>
 <a href="#volcano-snek-by-justcamh">Volcano Snek</a><br>
 <a href="#worm-jazz-by-inconspicuous-creations">Worm Jazz</a><br>
@@ -728,7 +729,7 @@ A short retro style snake game where you eat pellets that either grow or shrink 
 
 ### [Snakes without Brakes](https://kodub.itch.io/snakes-without-brakes) by Kodub
 
-Snakes without Brakes is a hybrid of the *eat to grow* snake mechanic and ice (sliding) movement. While SNIKS was the first (and only other) snake game to incorporate sliding, this game uses it to different effect. Here the snakes grow quite a bit longer, there is a much larger level size, and the goal in this game is just to eat all the pellets. Solving these puzzles involves a lot of working backwards to see how a pellet can be reached via a sequence of ricochets. A few extra mechanics are added amongst the 20 levels, a couple of which are fairly specific to the sliding mechanic, so they also add to the game's character. Graphics are minimalist, which I guess makes sense as the game was submitted to LOWREZJAM 2020.
+Snakes without Brakes is a hybrid of the *eat to grow* snake mechanic and ice (sliding) movement. While SNIKS was the first (and only prior) snake game to incorporate sliding, this game uses it to different effect. Here the snakes grow quite a bit longer, there is a much larger level size, and the goal in this game is just to eat all the pellets. Solving these puzzles involves a lot of working backwards to see how a pellet can be reached via a sequence of ricochets. A few extra mechanics are added amongst the 20 levels, a couple of which are fairly specific to the sliding mechanic, so they also add to the game's character. Graphics are minimalist, which I guess makes sense as the game was submitted to LOWREZJAM 2020.
 
 ![brakes](https://joelthefox.github.io/img/Brakes.png)
 
@@ -849,6 +850,16 @@ While infinite length snakes sometimes feel like line-drawing instead of snake-m
 
 -----
 
+### [Upaon: A Snake's Journey](https://store.steampowered.com/app/1660040/Upaon_A_Snakes_Journey/) by Wired Dreams Studio
+
+Upaon describes itself as a casual puzzle game mixing Snake with Sokoban, but I would add that its main focus is on ice (sliding) movement. Like Snakes without Brakes above, the goal is to slide around the level and eat all the fruit. One difference is that in Upaon, running into your tail results in having to restart the level, rather than stopping yourself to ricochet in another direction. I found that to be one of the more interesting interactions between snake and ice mechanics, so it feels missing here.
+
+Mechanics are added along the way, including trap floors that you can only pass over once, and crates that you can push a single space at a time (instead of sliding like the snake usually does). Puzzle design is on the casual side, in the sense that there are multiple solutions to most puzzles, and they are intended to be solved in quick succession.
+
+![Upaon](https://joelthefox.github.io/img/Upaon.png)
+
+-----
+
 
 
 # Awards
@@ -955,6 +966,7 @@ Snakeoban|TeamDoodz|Nov 2020|infinite snake push boxes|Medium|22||Web
 Mortal Snake|Ryan Thomas|Jan 2021|Puzzle Hunt|Medium|10||Web
 Room to Grow|Mischka Kamener|Feb 2021|Grow, push off walls|Medium - Hard|106||Win/Mac
 Shall We Golf?|Nebu Soku|Mar 2021|Hit ball with body|Medium - Hard|15||Web
+Upaon|Thiago Oliveira|June 2021|Slide and Eat|Easy - Medium|100|$3|Win
 
 -----
 
