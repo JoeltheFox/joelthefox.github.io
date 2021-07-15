@@ -782,3 +782,31 @@ td.gutter {
   font-style: italic;
   font-size: 16px;
 }
+
+
+
+/*
+simple spoilers by Pedro PSI 2021
+pedropsi.github.io / pedro@puzzletype.com
+MIT License
+(script at main.js)
+*/
+
+.spoiler {
+	color: inherit;
+	background-color: inherit;
+	cursor: inherit;
+	transition-duration: 500ms /* how long the fading takes */
+}
+.spoiler.unspoiled, .spoiler.unspoiled * {
+	color: transparent !important;
+	background-color: #c0c0c0 !important; /* spoiler colour */
+	border-radius: 100px;	/* higher = rounder corners */
+	cursor: pointer;
+	text-shadow: unset;
+}
+
+.spoiler.unspoiled:hover,
+.spoiler.unspoiled:hover * {
+	background-color: #bebebe !important; /* slight change in colour when hovering */
+}

@@ -138,3 +138,31 @@ var main = {
 // 2fc73a3a967e97599c9763d05e564189
 
 document.addEventListener('DOMContentLoaded', main.init);
+
+
+
+/*
+simple spoilers by Pedro PSI 2021
+pedropsi.github.io / pedro@puzzletype.com
+MIT License
+(styles at main.css)
+*/
+
+UnSpoil=function(){
+	Array.from(document.getElementsByClassName("spoiler")).map(
+		function(e){
+			e.classList.add("unspoiled");
+			e.addEventListener("click",function(e){
+				e.preventDefault();
+				var p=e.currentTarget;
+				var nested=false;
+				while(!nested&&(p=p.parentElement)){
+					nested=p.classList.contains("unspoiled");
+				}
+				if(!nested)
+					e.currentTarget.classList.remove("unspoiled");
+			},{capture:false});
+		}
+	);		
+}
+document.addEventListener('DOMContentLoaded',UnSpoil);
