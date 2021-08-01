@@ -983,6 +983,12 @@ Upaon|Thiago Oliveira|June 2021|Slide and Eat|Easy - Medium|100|$3|Win
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
 [Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)
 
+And some games coming in the future despite already being released (AKA procrastination pile):
+[Snakoban](https://fonserbc.itch.io/snakoban)  
+[A Snake in a Maze](https://store.steampowered.com/app/1560050/A_Snake_In_A_Maze/)  
+[Mini Adventuring Squad](https://neonesque.itch.io/mini-adventuring-squad)  
+[Sneks](https://gamewolves.itch.io/sneks)
+
 -----
 
 
