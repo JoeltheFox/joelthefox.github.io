@@ -983,7 +983,7 @@ Upaon|Thiago Oliveira|June 2021|Slide and Eat|Easy - Medium|100|$3|Win
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
 [Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)
 
-And some games coming in the future despite already being released (AKA procrastination pile):
+And some games coming in the future despite already being released (AKA procrastination pile):  
 [Snakoban](https://fonserbc.itch.io/snakoban)  
 [A Snake in a Maze](https://store.steampowered.com/app/1560050/A_Snake_In_A_Maze/)  
 [Mini Adventuring Squad](https://neonesque.itch.io/mini-adventuring-squad)  
@@ -1034,7 +1034,7 @@ Another infinite snake but-not-a-snake game is [Necroworm](https://store.steampo
 
 [Snackzzle](https://egordorichev.itch.io/snackzzle) technically fits but has some issues with arbitrary lock-key combinations, no undo, and uninteresting puzzles, so I didn’t include it.
 
-[Getting Long](https://zeantwan.itch.io/getting-long) is a snake game disguised as a cute dog game. You need to eat all the crumpets without getting hit by a snail or spikes. Quite short and only a couple of real puzzles.  
+[Getting Long](https://zeantwan.itch.io/getting-long) is a snake game disguised as a cute dog game. You need to eat all the crumpets without getting hit by a snail or spikes. Quite short and only a couple of real puzzles.  Another game that would make my list of Dog Snake Puzzle Games is [Puzzle Puppers](https://cardboardkeep.itch.io/puzzle-puppers), which has infinite length dogs.
 
 [One Level](https://dario-zubovic.itch.io/one-level) by Dario Zubović has a fun snake puzzle in it, and he made a more challenging [Alternate Snake Level](https://dario-zubovic.github.io/PuzzleScript/play.html?p=b7566d59583508dcc266f60ad7682c6c) as well.  
 
