@@ -1018,6 +1018,7 @@ Alcazar was the most popular implementation of this type of puzzle game, but is 
 [Snek Konnect](https://nora-sellisa.itch.io/snek-konnekt) has a snake but no added mechanics.  
 [Cardinal Chains](https://danijmn.itch.io/cardinalchains) has numbers on each tile, and the path must take a non-decreasing sequence.  
 [Unium](https://store.steampowered.com/app/357600/Unium/) allows crossovers on any tile.  
+[Snake Pit](https://store.steampowered.com/app/1787470/Snake_Pit/) has tiles you must touch twice.  
 
 There are some games that used the same mechanics as Snakebird or Wriggle without mentioning their inspiration, and without new ideas. With Snakebird it seems very likely that the mechanics were copied, while with Wriggle it’s possible that other developers just hadn’t known about it. [Too Many Snakes](http://www.whalefoodgames.com/too-many-snakes), [TruPuzzle](https://apps.apple.com/us/app/trupuzzle/id430437507), and [Twisted Snake]( https://apps.apple.com/us/app/twisted-snake/id840047572) have the same mechanics as Wriggle, but came after Wriggle did.
 
