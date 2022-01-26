@@ -3,7 +3,7 @@ layout: post
 title: My Puzzles
 ---
 
-I have made a few puzzles for games I admire, as well as a couple of my own games. As not many people attempt or solve these puzzles, I would be excited to get feedback if you give them a try!
+I have made a few puzzles for games I admire, as well as a couple of my own games. Since not many people look at these puzzles, I would be excited to get feedback if you give them a try!
 
 My puzzles for other games include:
 
@@ -16,6 +16,8 @@ I made some contributions to Ali Nikkhah's [Vertebrae](https://draxes.itch.io/ve
 A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler)
 
 Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/)
+
+[Snake Prance](https://www.puzzlescript.net/play.html?p=f20d6426914d31a810967cd221216969), a variation on Dom Camus' [Snake Dance](https://bateleur.itch.io/snake-dance)
 
 A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11)
 
