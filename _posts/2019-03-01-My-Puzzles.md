@@ -7,7 +7,7 @@ I have made a few puzzles for games I admire, as well as a couple of my own game
 
 My puzzles for other games include:
 
-[Who Took All the Mud?](https://1drv.ms/u/s!Ar8m4sxHoFLQgr990X2qesy238jAdg?e=XTcDBQ) is a 10 level puzzle pack for Dom Camus' [The Golem](https://store.steampowered.com/app/1270390/The_Golem/). The included ReadMe has information on the levels and how to play them in the editor. I don't recommend looking at these until you've mostly finished the original game, and unfortunately the editor only runs on Windows right now. (last updated Feb 2022)  
+[Who Took All the Mud?](https://1drv.ms/u/s!Ar8m4sxHoFLQgr9-5_6lWQWVD021fw?e=W2O5qt) is a 10 level puzzle pack for Dom Camus' [The Golem](https://store.steampowered.com/app/1270390/The_Golem/). The included ReadMe has information on the levels and how to play them in the editor. I don't recommend looking at these until you've mostly finished the original game, and unfortunately the editor only runs on Windows right now. (last updated Feb 2022)  
 
 [Temple](https://wolfesoftware.com/snakefall/#level=HyRr4JK1&20&40?*b1*A0*31*D0110*32*40111*70*3201102*102*I02*10201102022202*30*02*70202220201102024202*I0202420201100020002*401*902000200011000*12*30*02*70*1200011*Y0*01*W0*01*U0*21*U0*21*U0*21*U0*21*V0*11*202*O0*11*202*N0*212*102*N0*81222*410*510*j1/f25?325/f26?483/f27?526/f10?569/f0?652/s4?705/f8?670/f11?550/f6?220/f12?258/f1?196/f4?238/f2?665/b3?612/b4?625/f3?255/f5?138/), built in the Snakefall demake of [Snakebird](https://snakebird.noumenongames.com/). I also designed some less original levels that you can find on the [wiki](https://github.com/thejoshwolfe/snakefall/wiki).  
 
