@@ -989,7 +989,8 @@ Games coming (to this article) in the future:
 [Mini Adventuring Squad](https://neonesque.itch.io/mini-adventuring-squad)  
 [Sneks](https://gamewolves.itch.io/sneks)  
 [Snakebaba](https://www.youtube.com/watch?v=ESTTajSUNf0)  
-[Snake Dance](https://bateleur.itch.io/snake-dance)
+[Snake Dance](https://bateleur.itch.io/snake-dance)  
+[Remnant Labs](https://neonesque.itch.io/remnant-labs)?  
 
 -----
 
