@@ -3,8 +3,8 @@ layout: post
 title: Snake Puzzle Games
 ---
 
+###### *Apr 2022 updates: added Snake Dance*
 ###### *July 2021 updates: added games Anhinga and Upaon, author's text for Room to Grow, and a few new games to the omissions section*
-###### *Mar 2021 updates: added 4 games: Pushy Worm, Mortal Snake, Room to Grow, Shall We Golf*
 
 Here is a collection of all the snake puzzle games known to humans. (The snakes, we believe, are unaware and also cannot feel pain)  I'll try to write an update whenever a new game is released. The purpose of this article
 
@@ -61,6 +61,7 @@ Here are all the games, each with my description of them, a picture, and words f
 <a href="#shitstain-by-dario-zubović">Shitstain</a><br>
 <a href="#shy-snake-by-daniel-freer-and-stephen-lavelle">Shy Snake</a><br>
 <a href="#snake-blocks-by-spooky-cat">Snake Blocks</a><br>
+<a href="#snake-dance-by-dom-camus">Snake Dance</a><br>
 <a href="#snake-escape-by-einar-sauskas">Snake Escape</a><br>
 <a href="#snake-maze-by-zilverphoenix">Snake Maze</a><br>
 <a href="#snake-slider-by-bas-de-reuver">Snake Slider</a><br>
@@ -601,11 +602,11 @@ Snake Sokoban Spiral is similar to Tail of the Serpent in that the goal is to ma
 
 ### [ENIGMASH](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c) by Jack Lance
 
-ENIGMASH is the Frankenstein's monster of puzzle games. Patching together different puzzle themes within individual puzzles, and then connecting those puzzles together in a single world, it's a marvel of PuzzleScript code and puzzle design. Whether Snakes appear in it is unknown. Perhaps I am including a game *without* snakes so that the next time I add a game with surprise snakes to my snake article, nobody will see it coming.
+ENIGMASH is the Frankenstein's Monster of puzzle games. Patching together different puzzle themes within individual puzzles, and then connecting those puzzles together in a single world, it's a marvel of PuzzleScript code and puzzle design. Whether Snakes appear in it is unknown. Perhaps I am including a game *without* snakes so that the next time I add a game with surprise snakes to my snake article, nobody will see it coming.
 
-If the suspense is causing you to languish in bed imprisoned with uncertainty, a shadow of your former self with bags under your eyes and your ears, an automaton merely going through the motions until the day comes when you are not *alive* enough to care about serpentine lore, if you find yourself in such unconscionable circumstances there is one way out: you must enter a parallel universe where intelligent snakes play games about insentient humans, and determine whether their ENIGMASH features humans. Though a redoubtable task, it will be aided by consultation with the eminent snake authority on human puzzle games<sup>†</sup>. You might protest - "but such a universe cannot exist, an *intelligent* snake studying frivolous human puzzle games is a contradiction!" Actually you're right, I hadn't thought of that. Still, we can surmise that if humans did appear in TRANSUNIVERSALENIGMASH, they would probably have the ability to decompose into their component blocks, which can then be rearranged and recombined.
+If the suspense is imprisoning you with uncertainty, turning you in a shadow of your former self with bags under your eyes and under your ears, waiting out the days until you are not *alive* enough to care about serpentine lore, if you find yourself in such unconscionable circumstances I suggest this remedy: you must enter a parallel universe where intelligent snakes play games about insentient humans, and determine whether their ENIGMASH features humans. Though a redoubtable task, it will be aided by consultation with the eminent snake authority on human puzzle games<sup>†</sup>. You might protest - "but such a universe cannot exist, an *intelligent* snake studying frivolous human puzzle games is a contradiction!" Actually you're right, I hadn't thought of that. Still, we can surmise that if humans did appear in TRANSUNIVERSALENIGMASH, they would probably have the ability to decompose into their component blocks, which can then be rearranged and recombined.
   
-<font size="2"><sup>†</sup>Liability waiver: by reading this article you agree to take all responsibility for the risks associated with interdimensional research including but not limited to being trapped in an infinite loop</font>
+<font size="2"><sup>†</sup>Liability waiver: by reading this article you agree to take all responsibility for the risks associated with interdimensional research including but not limited to being directed in an infinite loop</font>
 
 ![ENIGMASH](https://joelthefox.github.io/img/ENIGMASH.png)
 
@@ -860,6 +861,16 @@ Mechanics are added along the way, including trap floors that you can only pass 
 
 -----
 
+### [Snake Dance](https://bateleur.itch.io/snake-dance) by Dom Camus
+
+Snake Dance is a single level puzzle that was part of the 2021 [Confounding Calendar](https://confoundingcalendar.itch.io/), a collection of new puzzles from various designers to celebrate the winter holidays. In this game, you control a person who- wait, you don't control a snake? Well, part of the charm of each submission to the calendar was supposed to be figuring out the rules, so I won't spoil them here. I really like how they work though! Perhaps there weren't too many more puzzles to be made from these mechanics, but the one presented is certainly fun. ElectronDance [rated](https://twitter.com/ElectronDance/status/1471880049385164800) the difficulty as *juggling chainsaws*, though in my opinion it's mostly the intimidation of being plopped in a large level without first getting a hang of the rules and techniques. A mysterious user going by the pen name "Jom Fomus" made a follow-up puzzle called [Snake Prance](https://www.puzzlescript.net/play.html?p=f20d6426914d31a810967cd221216969). The difficulty is purportedly *juggling chainsaw jugglers*.
+
+If you're looking for more puzzles, my other two favorites from the Confounding Calendar (though the whole project is good) are [SokokoS](https://notaninart.itch.io/sokokos) by Notan and [Every Star Needs a Tree](https://toombler.itch.io/every-star-needs-a-tree) by Toombler. If you liked Snake Dance then consider Dom Camus' major puzzle game [The Golem](https://store.steampowered.com/app/1270390/The_Golem/), which is fantastic (but I may be biased).
+
+![SnakeDance](https://joelthefox.github.io/img/SnakeDance.png)
+
+-----
+
 
 
 # Awards
@@ -967,6 +978,7 @@ Mortal Snake|Ryan Thomas|Jan 2021|Puzzle Hunt|Medium|10||Web
 Room to Grow|Mischka Kamener|Feb 2021|Grow, push off walls|Medium - Hard|106||Win/Mac
 Shall We Golf?|Nebu Soku|Mar 2021|Hit ball with body|Medium - Hard|15||Web
 Upaon|Thiago Oliveira|June 2021|Slide and Eat|Easy - Medium|100|$3|Win
+Snake Dance|Dom Camus|Dec 2021|Prod Snakes|Hard|1||Web
 
 -----
 
@@ -989,7 +1001,6 @@ Games coming (to this article) in the future:
 [Mini Adventuring Squad](https://neonesque.itch.io/mini-adventuring-squad)  
 [Sneks](https://gamewolves.itch.io/sneks)  
 [Snakebaba](https://www.youtube.com/watch?v=ESTTajSUNf0)  
-[Snake Dance](https://bateleur.itch.io/snake-dance)  
 [Remnant Labs](https://neonesque.itch.io/remnant-labs)?  
 
 -----
