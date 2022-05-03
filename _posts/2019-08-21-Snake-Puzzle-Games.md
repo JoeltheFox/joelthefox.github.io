@@ -869,6 +869,9 @@ If you're looking for more puzzles, my other two favorites from the Confounding 
 
 ![SnakeDance](https://joelthefox.github.io/img/SnakeDance.png)
 
+>The idea for it came about because I was thinking about multi-character control systems in general and how block pushing games with different shapes in them can sometimes feel like multiple characters with an indirect control system. Once I had the idea of snakes which move when you push any part of them, the rest was just exploring that design space a bit.  
+>-Dom Camus
+
 -----
 
 
