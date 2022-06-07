@@ -989,14 +989,15 @@ Snake Dance|Dom Camus|Dec 2021|Prod Snakes|Hard|1||Web
 ## Games coming in the future
 
 [Boa Bonanza](https://boabonanza.com/)  
-[Snake Blocks](https://steven-miller.itch.io/snake-blocks) (awaiting revision)  
+[Snake Blocks](https://steven-miller.itch.io/snake-blocks) (awaiting update)  
 [Sausage Dog Tends to Infinity](https://store.steampowered.com/app/1299340/Sausage_Dog_Tends_To_Infinity/?curator_clanid=4777282&utm_source=SteamDB)  
 [Sushi Snake](https://benjamindav.is/sushisnake/) was previously published but ran into compatibility issues that are being worked on.  
 [Kukulcan](http://www.black-spoon.com/)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
-[Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)
+[Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)  
+[SNEKS](https://freezedice.itch.io/sneks) (awaiting post-jam version)
 
 Games coming (to this article) in the future:  
 [Snakoban](https://fonserbc.itch.io/snakoban)  
