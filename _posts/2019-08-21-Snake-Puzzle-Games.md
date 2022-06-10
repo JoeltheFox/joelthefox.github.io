@@ -421,7 +421,7 @@ Nice graphics and a good set of mechanics.  The objective in each puzzle is to g
 ### [Vertebrae](https://draxes.itch.io/vertebrae) by Ali Nikkhah  
 A brilliant, difficult game where you are a little mouse that gets stuck inside a snake skeleton’s skull.  Mechanically, the novel idea is that you can move backwards and attach vertebrae to your skeleton.  The challenge of each level is figuring out how to place boxes on buttons, similar to the snakeoban games, but the backwards motion really adds a lot more complexity than you would first imagine.  There are a remarkable number of original concepts explored throughout, with each level presenting a new idea.  If you like hard puzzle games, this is one of the all-time best.
 
-NB: Ali recently made a significant update to the puzzles in the game.  If you played it prior to August 2019 I would recommend playing again from the start.  Disclaimer - I helped a bit with the update. I also made some bonus puzzles you can find on my [other post](https://joelthefox.github.io/2019-03-01-Line-of_Sight/).  
+NB: Ali recently made a significant update to the puzzles in the game.  If you played it prior to August 2019 I would recommend playing again from the start. (Latest news, there will be a *3rd* edition coming out some time in the future.) Disclaimer - I helped a bit with the update. I also made some bonus puzzles you can find on my [other post](https://joelthefox.github.io/2019-03-01-Line-of_Sight/).  
 
 ![vertebrae](https://joelthefox.github.io/img/Vertebrae.png)
 
