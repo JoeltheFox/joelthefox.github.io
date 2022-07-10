@@ -999,13 +999,14 @@ Snake Dance|Dom Camus|Dec 2021|Prod Snakes|Hard|1||Web
 [Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)  
 [SNEKS](https://freezedice.itch.io/sneks) (awaiting post-jam version)
 
-Games coming (to this article) in the future:  
+Games coming (...to this article) in the future:  
 [Snakoban](https://fonserbc.itch.io/snakoban)  
 [A Snake in a Maze](https://store.steampowered.com/app/1560050/A_Snake_In_A_Maze/)  
 [Mini Adventuring Squad](https://neonesque.itch.io/mini-adventuring-squad)  
 [Sneks](https://gamewolves.itch.io/sneks)  
 [Snakebaba](https://www.youtube.com/watch?v=ESTTajSUNf0)  
 [Remnant Labs](https://neonesque.itch.io/remnant-labs)?  
+[Ssspicy](https://ssspicy.torcado.repl.co/)  
 
 -----
 
