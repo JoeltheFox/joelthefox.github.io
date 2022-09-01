@@ -224,7 +224,7 @@ One of Rosden Shadow’s game-a-day that he kept up for a remarkable 87 days, it
 -----
 
 ### [Ouroboros’ Eggs](https://marcosd.itch.io/ouroboros-eggs) by Marcos Donnantuoni
-A game where your snake lays eggs if it makes a loop around empty space, and each puzzle asks you to lay a certain number of eggs in the given terrain.  As with many of Marcos Donnantuoni’s games, the puzzles here were procedurally generated, though you might not have been able to tell based on just the level design.  It’s an interesting take on snake puzzles, certainly feeling different and worth trying.  There is variety in the solutions, but maybe not quite enough to justify the large number of puzzles in the game.  There are a few other puzzles game by different designers that are about catching your tail, but mostly didn't get past the work-in-progress phase: In [Ouroboros] by Connorses (https://www.puzzlescript.net/play.html?p=10346416), the only goal is to catch your tail. This is made nontrivial by having more complex maps, but it ends up feeling like mostly trial-and-error. [The Ouroboros Labyrinth](https://ect.itch.io/the-ouroboros-labyrinth) expands on that theme by having your snake shrink to its minimum length each time you eat your tail, and you must shrink to nothing in stages. [Ouroboros](https://grogge.itch.io/ouroboros) by Grogge adds some lock & keys, and blocks that mimic your snake’s movement.  Your tail stays put, so it feels more like the exit is coincidentally where you start, rather than chasing your tail. Unfortunately it also seems to add at least one major bug.  [Ouroboros](https://captandrey.itch.io/ouroborosweb) by CaptAndrey has blue and red pellets that you eat to grow, and you must eat a blue segment that is part of your body in order to win. [OuroBOOros](https://nekusoul.itch.io/ourobooros) by NekuSoul has you play a ghost that pushes rocks into the AI-controlled snake's way so that it changes paths, resulting in eating eggs to grow or eating its tail to complete the level. Overall Ouroboros’ Eggs is the most interesting exploration of the tail-eating idea.
+A game where your snake lays eggs if it makes a loop around empty space, and each puzzle asks you to lay a certain number of eggs in the given terrain.  As with many of Marcos Donnantuoni’s games, the puzzles here were procedurally generated, though you might not have been able to tell based on just the level design.  It’s an interesting take on snake puzzles, certainly feeling different and worth trying.  There is variety in the solutions, but maybe not quite enough to justify the large number of puzzles in the game.  There are a few other puzzles game by different designers that are about catching your tail, but mostly didn't get past the work-in-progress phase: In [Ouroboros] by Connorses (https://www.puzzlescript.net/play.html?p=10346416), the only goal is to catch your tail. This is made nontrivial by having more complex maps, but it ends up feeling like mostly trial-and-error. [The Ouroboros Labyrinth](https://ect.itch.io/the-ouroboros-labyrinth) expands on that theme by having your snake shrink to its minimum length each time you eat your tail, and you must shrink to nothing in stages. [Ouroboros](https://grogge.itch.io/ouroboros) by Grogge adds some lock & keys, and blocks that mimic your snake’s movement.  Your tail stays put, so it feels more like the exit is coincidentally where you start, rather than chasing your tail. Unfortunately it also seems to add at least one major bug.  [Ouroboros](https://captandrey.itch.io/ouroborosweb) by CaptAndrey has blue and red pellets that you eat to grow, and you must eat a blue segment that is part of your body in order to win. [OuroBOOros](https://nekusoul.itch.io/ourobooros) by NekuSoul has you play a ghost that pushes rocks into the AI-controlled snake's way so that it changes paths, resulting in eating eggs to grow or eating its tail to complete the level. [OUROBOROS](https://lmarchwiak.itch.io/ouroboros) is a minimalist "2-5 minute" puzzle experience that is a ... 450 MB download?? I haven't tried it. Overall Ouroboros’ Eggs is the most interesting exploration of the tail-eating idea.
 
 If you are interested in procedurally generated puzzle games, Marcos has made many other good ones – my favorites include [Always With the Magnets](https://marcosd.itch.io/always-with-the-magnets), [Seq-O-Ban](https://marcosd.itch.io/seq-o-ban), and [Dis Pontibus](https://marcosd.itch.io/dispontibus). (incidentally, Dis Pontibus has a small snake movement component too!)
 
@@ -998,6 +998,8 @@ Snake Dance|Dom Camus|Dec 2021|Prod Snakes|Hard|1||Web
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
 [Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)  
 [Can of Wormholes](https://store.steampowered.com/app/1295320/Can_of_Wormholes/)  
+[SobokoSnake](https://store.steampowered.com/app/2083650/SobokoSnake/)  
+
 
 Games coming (...to this article) in the future:  
 [Snakoban](https://fonserbc.itch.io/snakoban)  
@@ -1008,6 +1010,9 @@ Games coming (...to this article) in the future:
 [Remnant Labs](https://neonesque.itch.io/remnant-labs)?  
 [SNEKS](https://freezedice.itch.io/sneks)  
 [Ssspicy](https://ssspicy.torcado.repl.co/)  
+[Greedy Corgi](https://store.steampowered.com/app/1408930/Greedy_Corgi/)  
+[Snakefice](https://creationallabs.itch.io/snakefice)  
+[Tapeworm Disco Puzzle](https://lowtekgames.itch.io/tapeworm-disco-puzzle)
 
 -----
 
@@ -1038,9 +1043,9 @@ Alcazar was the most popular implementation of this type of puzzle game, but is 
 [Unium](https://store.steampowered.com/app/357600/Unium/) allows crossovers on any tile.  
 [Snake Pit](https://store.steampowered.com/app/1787470/Snake_Pit/) has tiles you must touch twice.  
 [Spacious Snake](https://store.steampowered.com/app/1782880/Spacious_Snake/) has tiles that turn into thin walls when touched.  
-[Snake Islands](https://outer-frog.itch.io/snake-islands) is a standard hamiltonian path puzzle, as a snake.
+[Snake Islands](https://outer-frog.itch.io/snake-islands) is a standard hamiltonian path puzzle, as a snake.  
 
-There are some games that used the same mechanics as Snakebird or Wriggle without mentioning their inspiration, and without new ideas. With Snakebird it seems very likely that the mechanics were copied, while with Wriggle it’s possible that other developers just hadn’t known about it. [Too Many Snakes](http://www.whalefoodgames.com/too-many-snakes), [TruPuzzle](https://apps.apple.com/us/app/trupuzzle/id430437507), and [Twisted Snake]( https://apps.apple.com/us/app/twisted-snake/id840047572) have the same mechanics as Wriggle, but came after Wriggle did.
+There are some games that used the same mechanics as Snakebird or Wriggle without mentioning their inspiration, and without new ideas. With Snakebird it seems very likely that the mechanics were copied, while with Wriggle it’s possible that other developers just hadn’t known about it. [Too Many Snakes](http://www.whalefoodgames.com/too-many-snakes), [TruPuzzle](https://apps.apple.com/us/app/trupuzzle/id430437507), and [Twisted Snake]( https://apps.apple.com/us/app/twisted-snake/id840047572) have the same mechanics as Wriggle, but came after Wriggle did. I don't really want to advertise the Snakebird clones but if you are curious I saw [this](https://store.steampowered.com/app/1602280/Gravity_Snake/), [this](https://www.coolmathgames.com/0-apple-worm), and [this](https://snekbirb.glitch.me/)
 
 [Choo Choo Puzzles](https://www.kongregate.com/games/yfan/choo-choo-puzzles) is like Wriggle on a hex grid, but also with pushing.  It does feel a bit more like moving vehicles around than snakes, but it’s a good concept (or am I just making an excuse to not do more work?).  [Blockwick 2](https://store.steampowered.com/app/377660/Blockwick_2/) is another game with some similarity to Wriggle; it is mostly a block sliding game, but snake movement makes an appearance.
 
@@ -1069,7 +1074,7 @@ Some puzzles by Rosden Shadow where you leave a trail like a snake, but the rest
 
 [Globule](https://www.kongregate.com/games/rowlandrose/globule) is a puzzle game about a robot guiding a puddle of slime, which acts very much like a two-headed snake would.   However, the levels are mostly tedious.
 
-[Snek](https://nyunesu.itch.io/snek) by Nyunesu is a short atmospheric puzzle game made for LDjam47. I will see if there's a post-jam version before considering adding it to the article. Another short jam game is [Snake Game](https://16msnow6.itch.io/snake-game) by 17msnow6, which has the simple *eat to grow then exit* rules.
+[Snek](https://nyunesu.itch.io/snek) by Nyunesu is a short atmospheric puzzle game made for LDjam47. I will see if there's a post-jam version before considering adding it to the article. Another short jam game is [Snake Game](https://16msnow6.itch.io/snake-game) by 17msnow6, which has the simple *eat to grow then exit* rules. [Snake Puzzle Nokia](https://zpshank.itch.io/snake-puzzle-nokia) is also a very short jam game with basic snake mechanics.
 
 [Snakeformer](https://blog.dragonlab.de/2014/10/snakeformer/) and [Coil](http://www.nitrome.com/games/coil/) are two snake platformer games that feel similar to snakebird, but have different physics and are less puzzly. [Dual Snake](https://store.steampowered.com/app/752600/Dual_Snake/) adds an extra head to the snake platforming idea, and it too has action elements.
 
