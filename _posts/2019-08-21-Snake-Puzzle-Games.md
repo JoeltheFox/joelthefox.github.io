@@ -1099,7 +1099,7 @@ Also omitted (due to both fundamental differences and my lack of experience) are
 Logic Masters India had snake variations contests in [2011](https://logicmastersindia.com/lmitests/?test=SVC2011) and [2015](https://logicmastersindia.com/lmitests/?test=SVC2015), and a [monthly set](https://logicmastersindia.com/lmitests/?test=PR201512) in 2015.  
 [Para’s Puzzle Site](https://puzzleparasite.blogspot.com/search?q=snake) (link is to search results for their snake puzzles.)  
 There is a Nikoli puzzle type called [Hebi](http://www.nikoli.co.jp/en/puzzles/hebi.html) that is about snakes of numbers, but it doesn't seem very popular. There is a small example [discussed by chaotic_iak](https://chaoticiak492.wordpress.com/puzzles/hebi-ichigo/).   
-Jack Lance made one [snake puzzle](https://jacoblance.wordpress.com/2014/11/04/puzzle-64-snake/).  
+Jack Lance made one [snake puzzle](https://jacoblance.wordpress.com/2014/11/04/puzzle-64-snake/), and here's a [Snake Park](https://ihnnpuzzles.blogspot.com/2020/03/puzzle-121-snake-park-statue-park.html) by IHNN.    
 Hempuli's [Ouroboros](https://www.hempuli.com/blogblog/archives/2272) is somewhat like Melon's puzzles above, and he has a few more snake puzzles on the blog.  
 Meandering Numbers is a another obscure genre with snakes, where pre-defined regions must be filled with numbers 1 to N in a snake shape, while not letting equal numbers touch vertically or diagonally with other snakes. [Here](https://puzz.link/db/?type=meander) are some of these puzzles hosted on puzz.link.  
 [Build-a-Snake](https://snake.radcliffe.dev/) is a puzzle where you try to find the longest snake possible in a given grid size, using the standard pen and paper snake definition.
