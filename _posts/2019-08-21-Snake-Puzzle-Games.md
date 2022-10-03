@@ -1012,7 +1012,11 @@ Games coming (...to this article) in the future:
 [Ssspicy](https://ssspicy.torcado.repl.co/)  
 [Greedy Corgi](https://store.steampowered.com/app/1408930/Greedy_Corgi/)  
 [Snakefice](https://creationallabs.itch.io/snakefice)  
-[Tapeworm Disco Puzzle](https://lowtekgames.itch.io/tapeworm-disco-puzzle)
+[Tapeworm Disco Puzzle](https://lowtekgames.itch.io/tapeworm-disco-puzzle)  
+[Martenitsa](https://anillak.itch.io/martenitsa)  
+[Snake on Ice](https://necrosen.itch.io/snake-on-ice)  
+[Snakey Snake](https://frozencow.itch.io/snakey-snake)  
+[SNAK'](https://tesselode.itch.io/snak)  
 
 -----
 
