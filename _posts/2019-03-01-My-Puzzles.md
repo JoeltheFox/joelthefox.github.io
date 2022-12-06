@@ -19,7 +19,7 @@ Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/)
 
 [Snake Prance](https://www.puzzlescript.net/play.html?p=f20d6426914d31a810967cd221216969), a variation on Dom Camus' [Snake Dance](https://bateleur.itch.io/snake-dance)
 
-A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11)
+A [desecration](https://www.puzzlescript.net/play.html?p=443f041b36f57539884e69d2df7bb212) of Jack Lance's [I'm Too Far Gone](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11), and a [debasement](https://www.puzzlescript.net/play.html?p=9f93643aa470177db0ee51126deaa522) of Jack Lance's [I'm Too Far Gone 4](https://jacklance.github.io/imtoofargone4/)
 
 A few contributions to Andy Duff's [Push Blox 2](https://store.steampowered.com/app/894430/Push_Blox_2/)
 
