@@ -1017,6 +1017,7 @@ Games coming (...to this article) in the future:
 [Snake on Ice](https://necrosen.itch.io/snake-on-ice)  
 [Snakey Snake](https://frozencow.itch.io/snakey-snake)  
 [SNAK'](https://tesselode.itch.io/snak)  
+[Snug Snek](https://cubestudio.itch.io/snug-snek)  
 
 -----
 
