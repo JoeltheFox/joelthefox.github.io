@@ -1019,6 +1019,7 @@ Games coming (...to this article) in the future:
 [SNAK'](https://tesselode.itch.io/snak)  
 [Snug Snek](https://cubestudio.itch.io/snug-snek)  
 [Shed Skin Eat Egg](https://dohz.itch.io/shed-skin-eat-egg)  
+[Not that Common Egg-Eater snake](https://le-slo.itch.io/not-that-common-egg-eater-snake)  
 
 -----
 
