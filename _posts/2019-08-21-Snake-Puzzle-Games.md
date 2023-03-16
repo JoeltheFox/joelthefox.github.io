@@ -1020,6 +1020,9 @@ Games coming (...to this article) in the future:
 [Snug Snek](https://cubestudio.itch.io/snug-snek)  
 [Shed Skin Eat Egg](https://dohz.itch.io/shed-skin-eat-egg)  
 [Not that Common Egg-Eater snake](https://le-slo.itch.io/not-that-common-egg-eater-snake)  
+[Clever Snake Game](https://clever-snake-game.vercel.app/)  
+[Pipi Linja](https://slimewitch.itch.io/pipi-linja)  
+[Lime Larry](https://horan.itch.io/lime-larry)  
 
 -----
 
