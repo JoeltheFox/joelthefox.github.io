@@ -1024,6 +1024,7 @@ Games coming (...to this article) in the future:
 [Pipi Linja](https://slimewitch.itch.io/pipi-linja)  
 [Lime Larry](https://horan.itch.io/lime-larry)  
 [Growmi](https://carlospedroso.itch.io/growmi)  
+[Taileater](https://szunami.itch.io/taileater)  
 
 -----
 
