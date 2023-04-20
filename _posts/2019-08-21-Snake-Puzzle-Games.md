@@ -997,11 +997,11 @@ Snake Dance|Dom Camus|Dec 2021|Prod Snakes|Hard|1||Web
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
 [Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)  
-[Can of Wormholes](https://store.steampowered.com/app/1295320/Can_of_Wormholes/)  
 [SobokoSnake](https://store.steampowered.com/app/2083650/SobokoSnake/)  
 
 
 Games coming (...to this article) in the future:  
+[Can of Wormholes](https://store.steampowered.com/app/1295320/Can_of_Wormholes/)  
 [Snakoban](https://fonserbc.itch.io/snakoban)  
 [A Snake in a Maze](https://store.steampowered.com/app/1560050/A_Snake_In_A_Maze/)  
 [Mini Adventuring Squad](https://neonesque.itch.io/mini-adventuring-squad)  
@@ -1025,6 +1025,7 @@ Games coming (...to this article) in the future:
 [Lime Larry](https://horan.itch.io/lime-larry)  
 [Growmi](https://carlospedroso.itch.io/growmi)  
 [Taileater](https://szunami.itch.io/taileater)  
+[Speleomorph](https://hcs64.itch.io/speleomorph)  
 
 -----
 
