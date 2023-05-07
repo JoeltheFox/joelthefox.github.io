@@ -1026,6 +1026,7 @@ Games coming (...to this article) in the future:
 [Growmi](https://carlospedroso.itch.io/growmi)  
 [Taileater](https://szunami.itch.io/taileater)  
 [Speleomorph](https://hcs64.itch.io/speleomorph)  
+[Snakehaus](https://alkhemi.itch.io/snakehaus)  
 
 -----
 
@@ -1115,7 +1116,8 @@ There is a Nikoli puzzle type called [Hebi](http://www.nikoli.co.jp/en/puzzles/h
 Jack Lance made one [snake puzzle](https://jacoblance.wordpress.com/2014/11/04/puzzle-64-snake/), and here's a [Snake Park](https://ihnnpuzzles.blogspot.com/2020/03/puzzle-121-snake-park-statue-park.html) by IHNN.    
 Hempuli's [Ouroboros](https://www.hempuli.com/blogblog/archives/2272) is somewhat like Melon's puzzles above, and he has a few more snake puzzles on the blog.  
 Meandering Numbers is a another obscure genre with snakes, where pre-defined regions must be filled with numbers 1 to N in a snake shape, while not letting equal numbers touch vertically or diagonally with other snakes. [Here](https://puzz.link/db/?type=meander) are some of these puzzles hosted on puzz.link.  
-[Build-a-Snake](https://snake.radcliffe.dev/) is a puzzle where you try to find the longest snake possible in a given grid size, using the standard pen and paper snake definition.
+[Build-a-Snake](https://snake.radcliffe.dev/) is a puzzle where you try to find the longest snake possible in a given grid size, using the standard pen and paper snake definition.  
+[Menderbug's Heyasnake](https://brokensign.com/puzzle/2023/04/29/heyasnake.html)  
 
 There's a type of physical puzzle called a snake cube, where you have a long string connecting small 1x1 cubes together in a snake-like shape, and you need to twist the snake into a 3x3 or 4x4 cube. I had one of these to practice on when I was younger, and would pretend that I hadn't seen them before and then solve it in 2 seconds. There is also the [Rubik's Snake](https://en.wikipedia.org/wiki/Rubik%27s_Snake) that involves twisting, but it is free-form and doesn't have a single objective.
 
