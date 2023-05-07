@@ -1027,6 +1027,8 @@ Games coming (...to this article) in the future:
 [Taileater](https://szunami.itch.io/taileater)  
 [Speleomorph](https://hcs64.itch.io/speleomorph)  
 [Snakehaus](https://alkhemi.itch.io/snakehaus)  
+[Tainakel](https://jme7.itch.io/tainakel)  
+[Maze with an S](https://prgames.itch.io/maze-with-an-s)  
 
 -----
 
