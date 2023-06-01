@@ -3,7 +3,7 @@ layout: post
 title: Jack Lance
 ---
 
-###### *June 2023 update: I will mostly preserve what I wrote the day I learned of Jack's passing. I have added a section below it of [resources](#Resources), and I plan to add a few things to the main article that I forgot to say initially*
+###### *June 2023 update: I will mostly preserve what I wrote the day I learned of Jack's passing. I have added a section below it of [resources](###Resources), and I plan to add a few things to the main article that I forgot to say initially*
 
 -----
 
