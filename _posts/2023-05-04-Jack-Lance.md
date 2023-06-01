@@ -78,4 +78,4 @@ Some older games that were probably omitted due to being a bit more primitive th
 
 Jack made [Dinosaur Love Story](https://www.puzzlescript.net/play.html?p=b6bd3eea22086318f5e7) with friends, and later made some [bonus levels](https://www.puzzlescript.net/play.html?p=22e7570761497c4b417c1883ad112dbd).
 
-[Level Selection](https://www.puzzlescript.net/play.html?p=4d1368bc277426dbda120ee885f087a4) was an early demo of a level selector in PuzzleScript, and has a few sokoban puzzles. [Rigidity] is a sokoban puzzle made to demonstrate rigid bodies in PuzzleScript.
+[Level Selection](https://www.puzzlescript.net/play.html?p=4d1368bc277426dbda120ee885f087a4) was an early demo of a level selector in PuzzleScript, and has a few sokoban puzzles. [Rigidity](https://www.puzzlescript.net/play.html?p=45a14244d3d80fc288adba2b5b8bf42b) is a sokoban puzzle made to demonstrate rigid bodies in PuzzleScript.
