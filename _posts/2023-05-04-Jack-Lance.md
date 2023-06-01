@@ -3,6 +3,10 @@ layout: post
 title: Jack Lance
 ---
 
+###### *June 2023 update: I will mostly preserve what I wrote the day I learned of Jack's passing. I have added a section below it of [resources](#Resources), and I plan to add a few things to the main article that I forgot to say initially*
+
+-----
+
 Jack Lance was a unique person whom I’m grateful I got to know, even in a small capacity. He was a designer of many types of puzzles – game puzzles, logic puzzles, and puzzle hunts, as well a finder of impossible plays on words. I am most familiar with his game puzzles since I spend more time in that area, but there’s nobody who could excite me more about a logic puzzle than Jack when sharing a new one. His overall puzzle output, not just the number of puzzles but their originality and breadth, is truly astounding. It’s hard to imagine that he composed all that by 25, and while working/studying full time for most of it (first at Google, then at Thekla making puzzles, but those aren’t even released yet for us to see). You can find his games [here](https://jacklance.github.io/games.html), his blog with logic puzzles [here](https://jacoblance.wordpress.com/), and his archive of twitter jokes [here](https://jacklance.github.io/twitter.html?).
 
 His puzzle games, though they are all great, have matured over time. Early PuzzleScript games like the seasons and his alliteration assortment (AA through FF, with HH coming a few years later) are short and clever games with a fun twist (though [EE](https://www.puzzlescript.net/play.html?p=a95269130d520a58adf710b692d1e52e) was an early sign of deep mischief brewing). Later games have more than just a twist, being conceptually entirely new and rule-defying. Examples of these are [ENIGMASH](https://jacklance.github.io/PuzzleScript/play.html?p=cfdcc6e23f1fb3e9de2fd42fafaf4d4c), [VEXT EDIT](https://www.puzzlescript.net/play.html?p=9eb8f8f3df4efb450b798a279eeba2e0), and I’m Too Far Gone [1](https://www.puzzlescript.net/play.html?p=a4bb2bf44284bdb9347cf3f1399d4f11) and [4](https://jacklance.github.io/imtoofargone4). In the middle he explored some *simulation* style games, where you design a setup and then run it (sometimes with participation in the running phase) starting with [Botsket Ball](https://www.puzzlescript.net/play.html?p=11e4b70206715622bc03cc5cae16e650), reaching great heights with [Coping Mechanisms](http://htmlpreview.github.io/?https://raw.githubusercontent.com/ThatScar/PuzzleScript/feat/mouse/play.html?p=b9ee2473a92586a8d0dc32f27a5f38f3) and [Gating](http://htmlpreview.github.io/?https://raw.githubusercontent.com/ThatScar/PuzzleScript/feat/mouse/play.html?p=5561f3438a9f1b1df0fa99fa6db960ec), and ending with a prototype called Swaygmlarg – I tested this unusually named game and loved it, and it influenced my upcoming game Loopoban (but don’t judge him based on my much lower standards!). I might try to find the latest version of Swaygmlarg and share it. I wish I knew if he would have wanted that.
@@ -37,4 +41,41 @@ Jack never stopped amazing us, and continuing beyond the above stories I had the
 
 It is strange feeling close to someone that I didn’t even know the name of. (Well, something must be up if he uses a different name for his website - Jack Lance - and his blog – Jacob Lance - but I assumed *one* of the two was his real name.) When I first realized how special he was I Googled what I thought was his name, expecting to find an overflowing list of accolades. Until reading his [obituary](https://www.douglassfh.com/obituary/zachary-polansky) I couldn’t figure out why I didn’t. I am both eager and hesitant to learn more about who this brilliant, beautiful person was.
 
-Rest in Peace
+Rest in Peace.
+
+
+-----
+
+### Resources
+
+Jack hadn’t posted every logic puzzle he made to his blog or twitter, so IHNN and some other members of Puzzlers Club collected them from various sources and listed them in [this spreadsheet](https://docs.google.com/spreadsheets/d/19VcSrt963W61Bt7Q944-KbLWaoKpKKzsWE8pGEDhWrI/edit#gid=0).
+
+Jack’s puzzle hunts sometimes required emailing him to proceed or check answers. There’s an ongoing effort to provide all useful information on [this wiki](https://www.puzzles.wiki/wiki/P.I.HUNT), which should be completed soon.
+
+My additional notes on Jack’s [puzzle game page](https://jacklance.github.io/), including some games that are omitted or unfinished:
+
+[Swaygmlarg](https://1drv.ms/u/s!Ar8m4sxHoFLQgtoMn-GY2WqW02SoxA) is a game Jack was working on intermittently. The version here is what I have from 2020, and it’s extra painful because he had really interesting plans for it. It was already a good game, so I think it’s worth sharing. There are some bugs you might encounter, such as the game crashing if you try to push a block into the border of a level, or into a star, but all the levels are solvable despite the bugs.
+
+[I’m Too Far Gone 4](https://jacklance.github.io/imtoofargone4/) isn’t listed on his site, he meant to get to it and must have forgotten. In case you’re curious, he intended it to go in the PuzzleScript column.
+
+Jack contributed a puzzle to the 2022 [Confounding Calendar](https://confoundingcalendar.itch.io/) called [Proof of Equivalence Via Explicit Construction of an Ambient Isotopy](https://jacklance.itch.io/proof-of-equivalence-via-explicit-construction-of-an-ambient-isotopy). It certainly fits the confounding criterion!
+
+Jack also contributed to the [CosmOS 9](https://store.steampowered.com/bundle/25434/CosmOS_9/) project with the platformer [Gordianaut](https://store.steampowered.com/app/1961780/Gordianaut/). It is shorter than the other games in the bundle, perhaps because Jack adhered more strictly to the project’s initial guidelines.
+
+Some other individual puzzles: [Wall](https://nohatcoder.dk/snakebird.htm#Alb_rnwk4mQvIs6MtE2BVwE97f8EuEsEgD8hNlqH3RvhitwHuFgCkqpmAU-CR2hoViR1J8jcInioWpX9icoW2Y3xNsDuFe3A1HxMyWExGtp1gX06E9F44H1BW0FmKFgVuyo24NZ4GkiImNpVRgHXsRkIlgEv6EgvQynxE0IvOM3py-AvPv4X3HsgxoG5WsyH) is a snakebird puzzle. His contributions to the Thinky Collective games include: Starting level of [What Gophers Go For](https://what-gophers-go-for.github.io/), level 15 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime), AB1 in [Conveyor Con-fusion](https://thinkycollective.itch.io/conveyor-confusion) (there’s no way to skip to this level without playing the rest of the game), and level 6 in [Lab Rat-ional Thinking](https://thinkycollective.itch.io/lab-rational-thinking).
+
+[Snakeoban](https://jacklance.itch.io/snakeoban) had 10 levels added to the end for the itch.io version, while the link on his site goes to the original, shorter PuzzleScript game.
+
+[Trains Love Snowmen](https://www.puzzlescript.net/play.html?p=39d3fa90727fdc37ce9bee9fc68ea73c) is a short mash-up of some Draknek games.
+
+Season Finale was updated in 2021 to fix a bug that caused level 10 to be broken (one of the objects would disappear). I assume it must have worked for some time initially, but it was broken when I first played.
+
+Some older games that were probably omitted due to being a bit more primitive than his later work:
+
+[Duplex](https://www.puzzlescript.net/play.html?p=d460ad883957d7d006aa92350e8e43f1) was initially hosted on Jack’s site, but seems to have been taken off, probably because it’s a weaker game. It was made under the restriction of having only 2 rules. He designed some extra levels at a later date which I compiled in the above puzzlescript link.
+
+[RGB](https://www.puzzlescript.net/play.html?p=11094463) is one of Jack’s first puzzlescript games, which he was going to extend but he either abandoned it or forgot to share the update.
+
+Jack made [Dinosaur Love Story](https://www.puzzlescript.net/play.html?p=b6bd3eea22086318f5e7) with friends, and later made some [bonus levels](https://www.puzzlescript.net/play.html?p=22e7570761497c4b417c1883ad112dbd).
+
+[Level Selection](https://www.puzzlescript.net/play.html?p=4d1368bc277426dbda120ee885f087a4) was an early demo of a level selector in PuzzleScript, and has a few sokoban puzzles. [Rigidity] is a sokoban puzzle made to demonstrate rigid bodies in PuzzleScript.
