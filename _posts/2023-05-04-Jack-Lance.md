@@ -56,6 +56,8 @@ My additional notes on Jack’s [puzzle game page](https://jacklance.github.io/)
 
 [Swaygmlarg](https://1drv.ms/u/s!Ar8m4sxHoFLQgtoMn-GY2WqW02SoxA) is a game Jack was working on intermittently. The version here is what I have from 2020, and it’s extra painful because he had really interesting plans for it. It was already a good game, so I think it’s worth sharing. There are some bugs you might encounter, such as the game crashing if you try to push a block into the border of a level, or into a star, but all the levels are solvable despite the bugs.
 
+The [Octogram](https://jacklance.github.io/octogram) link on the site is broken, it needed the trailing slash removed.
+
 [I’m Too Far Gone 4](https://jacklance.github.io/imtoofargone4/) isn’t listed on his site, he meant to get to it and must have forgotten. In case you’re curious, he intended it to go in the PuzzleScript column.
 
 Jack contributed a puzzle to the 2022 [Confounding Calendar](https://confoundingcalendar.itch.io/) called [Proof of Equivalence Via Explicit Construction of an Ambient Isotopy](https://jacklance.itch.io/proof-of-equivalence-via-explicit-construction-of-an-ambient-isotopy). It certainly fits the confounding criterion!
