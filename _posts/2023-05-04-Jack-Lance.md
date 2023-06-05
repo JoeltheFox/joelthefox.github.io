@@ -76,7 +76,7 @@ Some older games that were probably omitted due to being a bit more primitive th
 
 [Duplex](https://www.puzzlescript.net/play.html?p=d460ad883957d7d006aa92350e8e43f1) was initially hosted on Jack’s site, but seems to have been taken off, probably because it’s a weaker game. It was made under the restriction of having only 2 rules. He designed some extra levels at a later date which I compiled in the above puzzlescript link.
 
-[RGB](https://www.puzzlescript.net/editor.html?hack=11268297) is one of Jack’s first puzzlescript games, which was inspired by chaotic_iak's [12345](https://www.puzzlescript.net/play.html?p=8644380).
+[RGB](https://www.puzzlescript.net/editor.html?hack=11268297) is one of Jack’s first puzzlescript games, which was inspired by chaotic_iak's [12345](https://www.puzzlescript.net/play.html?p=8450765).
 
 Jack made [Dinosaur Love Story](https://www.puzzlescript.net/play.html?p=b6bd3eea22086318f5e7) with friends, and later made some [bonus levels](https://www.puzzlescript.net/play.html?p=22e7570761497c4b417c1883ad112dbd).
 
