@@ -58,7 +58,7 @@ My additional notes on Jack’s [puzzle game page](https://jacklance.github.io/)
 
 The [Octogram](https://jacklance.github.io/octogram) link on the site is broken, it needed the trailing slash removed.
 
-[I’m Too Far Gone 4](https://jacklance.github.io/imtoofargone4/) isn’t listed on his site, he meant to get to it and must have forgotten. In case you’re curious, he intended it to go in the PuzzleScript column.
+[I’m Too Far Gone 4](https://jacklance.github.io/imtoofargone4/) isn’t listed on his site, he meant to get to it and must have forgotten. For the curious, he was going to put it in the PuzzleScript column.
 
 Jack contributed a puzzle to the 2022 [Confounding Calendar](https://confoundingcalendar.itch.io/) called [Proof of Equivalence Via Explicit Construction of an Ambient Isotopy](https://jacklance.itch.io/proof-of-equivalence-via-explicit-construction-of-an-ambient-isotopy). It certainly fits the confounding criterion!
 
@@ -70,7 +70,7 @@ Some other individual puzzles: [Wall](https://nohatcoder.dk/snakebird.htm#Alb_rn
 
 [Trains Love Snowmen](https://www.puzzlescript.net/play.html?p=39d3fa90727fdc37ce9bee9fc68ea73c) is a short mash-up of some Draknek games.
 
-Season Finale was updated in 2021 to fix a bug that caused level 10 to be broken (one of the objects would disappear). I assume it must have worked for some time initially, but it was broken when I first played.
+Season Finale was updated in 2021 to fix a bug that caused level 10 to be broken (one of the objects would disappear). I assume it must have worked for some time initially, but it was broken when I first played. Jack told me he somewhat regretted making each season game as long as it is, because players might stop before seeing the highlight which is Season Finale. My recommendation would be to play each season as long as you feel like, then move on to the next, and be sure to at least look at the finale.
 
 Some older games that were probably omitted due to being a bit more primitive than his later work:
 
