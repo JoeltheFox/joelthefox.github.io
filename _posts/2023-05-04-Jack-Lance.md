@@ -64,6 +64,8 @@ Jack contributed a puzzle to the 2022 [Confounding Calendar](https://confounding
 
 Jack also contributed to the [CosmOS 9](https://store.steampowered.com/bundle/25434/CosmOS_9/) project with the platformer [Gordianaut](https://store.steampowered.com/app/1961780/Gordianaut/). It is shorter than the other games in the bundle, perhaps because Jack adhered more strictly to the project’s initial guidelines.
 
+The logic game [Patterna](https://store.steampowered.com/app/503860/Patterna/), which is in the family of Minesweeper / Hexcells / Tametsi, includes two level packs designed by Jack named "Colorful" and "Platonic Patterns."
+
 Some other individual puzzles: [Wall](https://nohatcoder.dk/snakebird.htm#Alb_rnwk4mQvIs6MtE2BVwE97f8EuEsEgD8hNlqH3RvhitwHuFgCkqpmAU-CR2hoViR1J8jcInioWpX9icoW2Y3xNsDuFe3A1HxMyWExGtp1gX06E9F44H1BW0FmKFgVuyo24NZ4GkiImNpVRgHXsRkIlgEv6EgvQynxE0IvOM3py-AvPv4X3HsgxoG5WsyH) is a snakebird puzzle. His contributions to the Thinky Collective games include: Starting level of [What Gophers Go For](https://what-gophers-go-for.github.io/), level 15 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime), AB1 in [Conveyor Con-fusion](https://thinkycollective.itch.io/conveyor-confusion) (there’s no way to skip to this level without playing the rest of the game), and level 6 in [Lab Rat-ional Thinking](https://thinkycollective.itch.io/lab-rational-thinking).
 
 [Snakeoban](https://jacklance.itch.io/snakeoban) had 10 levels added to the end for the itch.io version, while the link on his site goes to the original, shorter PuzzleScript game.
