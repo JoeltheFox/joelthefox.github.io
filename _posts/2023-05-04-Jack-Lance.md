@@ -68,7 +68,7 @@ The logic game [Patterna](https://store.steampowered.com/app/503860/Patterna/), 
 
 Some other individual puzzles: [Wall](https://nohatcoder.dk/snakebird.htm#Alb_rnwk4mQvIs6MtE2BVwE97f8EuEsEgD8hNlqH3RvhitwHuFgCkqpmAU-CR2hoViR1J8jcInioWpX9icoW2Y3xNsDuFe3A1HxMyWExGtp1gX06E9F44H1BW0FmKFgVuyo24NZ4GkiImNpVRgHXsRkIlgEv6EgvQynxE0IvOM3py-AvPv4X3HsgxoG5WsyH) is a snakebird puzzle. His contributions to the Thinky Collective games include: Starting level of [What Gophers Go For](https://what-gophers-go-for.github.io/), level 15 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime), AB1 in [Conveyor Con-fusion](https://thinkycollective.itch.io/conveyor-confusion) (there’s no way to skip to this level without playing the rest of the game), and level 6 in [Lab Rat-ional Thinking](https://thinkycollective.itch.io/lab-rational-thinking).
 
-[Snakeoban](https://jacklance.itch.io/snakeoban) had 10 levels added to the end for the itch.io version, while the link on his site goes to the original, shorter PuzzleScript game.
+[Snakeoban](https://jacklance.itch.io/snakeoban) had 2 levels added to the end for this itch.io version, compared to the PuzzleScript link on his site.  You can press X twice to skip a level, in case you want to go straight to the two extra puzzles.
 
 [Trains Love Snowmen](https://www.puzzlescript.net/play.html?p=39d3fa90727fdc37ce9bee9fc68ea73c) is a short mash-up of some Draknek games.
 
