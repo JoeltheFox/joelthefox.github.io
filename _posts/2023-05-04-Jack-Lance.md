@@ -48,7 +48,7 @@ Rest in Peace.
 
 ### Resources
 
-Jack hadn’t posted every logic puzzle he made to his blog or twitter, so IHNN and some other members of Puzzlers Club collected them from various sources and listed them in [this spreadsheet](https://docs.google.com/spreadsheets/d/19VcSrt963W61Bt7Q944-KbLWaoKpKKzsWE8pGEDhWrI/edit#gid=0).
+Jack hadn’t posted every logic puzzle he made to his blog or Twitter, so IHNN and some other members of Puzzlers Club collected them from various sources and listed them in [this spreadsheet](https://docs.google.com/spreadsheets/d/19VcSrt963W61Bt7Q944-KbLWaoKpKKzsWE8pGEDhWrI/edit#gid=0).  Puzzlers club user *non* also collected Jack's wordplay and other types of puzzles that he had posted in the Puzzlers Club discord but not Twitter or his blog, and those can be viewed [here](https://docs.google.com/spreadsheets/d/14rtQyunAHC9RTmsmJMUyonkEUN4Hj-zTfPJCazcHwTY/).
 
 Jack’s puzzle hunts sometimes required emailing him to proceed or check answers. There’s an ongoing effort to provide all useful information on [this wiki](https://www.puzzles.wiki/wiki/P.I.HUNT), which should be completed soon.
 
