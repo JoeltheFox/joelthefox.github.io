@@ -1029,6 +1029,8 @@ Games coming (...to this article) in the future:
 [Snakehaus](https://alkhemi.itch.io/snakehaus)  
 [Tainakel](https://jme7.itch.io/tainakel)  
 [Maze with an S](https://prgames.itch.io/maze-with-an-s)  
+[PortalSnake](https://bcat112a.itch.io/portalsnake)  
+[Elephants Hat Cheese](https://karoo13.itch.io/elephants-hat-cheese)  
 
 -----
 
