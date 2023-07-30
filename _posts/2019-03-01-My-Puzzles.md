@@ -15,7 +15,7 @@ I made some contributions to Ali Nikkhah's [Vertebrae](https://draxes.itch.io/ve
 
 A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler)
 
-Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/)
+My contributions to the [Thinky Collective](https://thinkycollective.itch.io/) games are: Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/), Level 33 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime), most of the story in [Ahoist Cratey](https://thinkycollective.itch.io/ahoist-cratey), level B18 and the B mechanic in [Conveyor Con-fusion](https://thinkycollective.itch.io/conveyor-confusion), and level 15 of [Lab Rat-ional Thinking](https://thinkycollective.itch.io/lab-rational-thinking).
 
 [Snake Prance](https://www.puzzlescript.net/play.html?p=f20d6426914d31a810967cd221216969), a variation on Dom Camus' [Snake Dance](https://bateleur.itch.io/snake-dance)
 
@@ -25,11 +25,16 @@ A few contributions to Andy Duff's [Push Blox 2](https://store.steampowered.com/
 
 A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc7efaa9df88607c) of Jack Kutilek's [Snakehole](https://jackkutilek.itch.io/snakehole)
 
-Level 33 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime)
+-----
+
+My latest game is Loopoban, which started as a submission to LDjam47 and was then expanded significantly afterwards (both ways to parse the end of that sentence are correct).  It's a sokoban game where you program a list of commands that will loop indefinitely, until all the crates are on their targets (or not).
+
+![Loopoban](https://joelthefox.github.io/img/Loopoban.png "An early Loopoban puzzle")  
+Which 5 directions would you input to get both crates onto their targets?
 
 -----
 
-A half-original game is my Weird Bug. The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun experiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn. [My version](https://joel-fox.itch.io/weird-bug) is a complete game based on the original.  
+A half-original game is my Weird Bug.  The [original Weird Bug](https://www.puzzlescript.net/play.html?p=9174930) by Jonah Ostroff is an incomplete puzzle game that is a fun experiment for anyone who knows [PuzzleScript](https://www.puzzlescript.net/) or wants to learn.  [My version](https://joel-fox.itch.io/weird-bug) is a complete game based on the original.  
 
 ![Weird Bug](https://joelthefox.github.io/img/WeirdBug.png "The first gem level in Weird Bug")  
 How will this shiny gem help you get past the fire ants and reach the fruit?
@@ -49,12 +54,6 @@ In [Line of Sight](https://joel-fox.itch.io/line-of-sight), movable *towers* are
 
 ![Line of Sight](https://joelthefox.github.io/img/LoSscreen.png "Level 3 of Line of Sight")  
 The blue towers in this position are satisfied because they can see each other vertically, while the one on the bottom is unsatisfied.  
-
------
-
-[Loopoban](https://joel-fox.itch.io/loopoban) was my submission to the Ludum Dare 47 game jam, where the theme was "stuck in a loop." I'll try to make an updated version with better puzzles when I have time.
-
-![Loopoban](https://joelthefox.github.io/img/Loopoban.png "Level 1 of Loopoban")  
 
 -----
 
