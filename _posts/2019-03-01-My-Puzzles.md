@@ -15,7 +15,7 @@ I made some contributions to Ali Nikkhah's [Vertebrae](https://draxes.itch.io/ve
 
 A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler)
 
-My contributions to the [Thinky Collective](https://thinkycollective.itch.io/) games are: Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/), Level 33 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime), most of the story in [Ahoist Cratey](https://thinkycollective.itch.io/ahoist-cratey), level B18 and the B mechanic in [Conveyor Con-fusion](https://thinkycollective.itch.io/conveyor-confusion), and level 15 of [Lab Rat-ional Thinking](https://thinkycollective.itch.io/lab-rational-thinking).
+My contributions to the [Thinky Collective](https://thinkycollective.itch.io/) games are: Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/), Level 33 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime), most of the story in [Ahoist Cratey](https://thinkycollective.itch.io/ahoist-cratey), the B mechanic and level B17 in [Conveyor Con-fusion](https://thinkycollective.itch.io/conveyor-confusion), and level 15 of [Lab Rat-ional Thinking](https://thinkycollective.itch.io/lab-rational-thinking).
 
 [Snake Prance](https://www.puzzlescript.net/play.html?p=f20d6426914d31a810967cd221216969), a variation on Dom Camus' [Snake Dance](https://bateleur.itch.io/snake-dance)
 
