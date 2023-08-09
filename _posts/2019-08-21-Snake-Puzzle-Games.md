@@ -1031,6 +1031,7 @@ Games coming (...to this article) in the future:
 [Maze with an S](https://prgames.itch.io/maze-with-an-s)  
 [PortalSnake](https://bcat112a.itch.io/portalsnake)  
 [Elephants Hat Cheese](https://karoo13.itch.io/elephants-hat-cheese)  
+[4S in 1](https://leaving-leaves.itch.io/4s-in-1)  
 
 -----
 
