@@ -1033,6 +1033,7 @@ Games coming (...to this article) in the future:
 [Elephants Hat Cheese](https://karoo13.itch.io/elephants-hat-cheese)  
 [4S in 1](https://leaving-leaves.itch.io/4s-in-1)  
 [Tough Love Machine](https://andrew-morrish.itch.io/tough-love-machine)  
+[Quetzals & Ladders](https://digitarium.itch.io/quetzals-ladders)  
 
 -----
 
