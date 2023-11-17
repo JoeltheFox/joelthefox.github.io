@@ -1034,6 +1034,7 @@ Games coming (...to this article) in the future:
 [4S in 1](https://leaving-leaves.itch.io/4s-in-1)  
 [Tough Love Machine](https://andrew-morrish.itch.io/tough-love-machine)  
 [Quetzals & Ladders](https://digitarium.itch.io/quetzals-ladders)  
+[Munchy Mammals](https://store.steampowered.com/app/2382920/Munchy_Mammals/)  
 
 -----
 
