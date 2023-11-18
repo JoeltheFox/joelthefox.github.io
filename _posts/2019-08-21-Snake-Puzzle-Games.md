@@ -994,10 +994,10 @@ Snake Dance|Dom Camus|Dec 2021|Prod Snakes|Hard|1||Web
 [Sushi Snake](https://benjamindav.is/sushisnake/) was previously published but ran into compatibility issues that are being worked on.  
 [Kukulcan](http://www.black-spoon.com/)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
-[Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
 [Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)  
 [SobokoSnake](https://store.steampowered.com/app/2083650/SobokoSnake/)  
+[SnakeOut](https://andreaboroni.itch.io/snakeout)  
 
 
 Games coming (...to this article) in the future:  
@@ -1035,6 +1035,7 @@ Games coming (...to this article) in the future:
 [Tough Love Machine](https://andrew-morrish.itch.io/tough-love-machine)  
 [Quetzals & Ladders](https://digitarium.itch.io/quetzals-ladders)  
 [Munchy Mammals](https://store.steampowered.com/app/2382920/Munchy_Mammals/)  
+[Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
 
 -----
 
