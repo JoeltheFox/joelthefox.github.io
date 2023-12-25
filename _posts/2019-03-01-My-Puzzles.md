@@ -13,7 +13,9 @@ My puzzles for other games include:
 
 I made some contributions to Ali Nikkhah's [Vertebrae](https://draxes.itch.io/vertebrae).  A few extra levels are pending judgment: [Bonus puzzle 1](https://www.puzzlescript.net/play.html?p=93866bdc4d383db31fc99c4d9a4db93c) is an alternate to level 19; [Bonus puzzle 2](https://www.puzzlescript.net/play.html?p=5aa21f6896e518d160197982fdaa322c) would fit around levels 27-29; [Bonus puzzle 3](https://www.puzzlescript.net/play.html?p=bb6fe1e13756f395845064849402d6d6) would fit into the game at level 33, but is really difficult.  
 
-A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler)
+A [fan-level](https://www.puzzlescript.net/play.html?p=e564118925b2fa677552548527fdeb7d) for Gate88's [Bubble Butler](https://gate.itch.io/bubble-butler)  
+
+Canyon[https://1drv.ms/u/s!Ar8m4sxHoFLQg5dY1Evl7YbBVQQ60Q?e=tI0mgM] is a (Recursed)[https://store.steampowered.com/app/497780/Recursed/] puzzle. If you are stuck and want a hint, solving (Valley)[https://1drv.ms/u/s!Ar8m4sxHoFLQg5dZxEsnYA92mc7n7w?e=QJbL8F] will help. To play these levels, copy them into the custom / missions folder. Full details in Portponky's (guide)[https://steamcommunity.com/sharedfiles/filedetails/?id=800043882] to custom levels.  
 
 My contributions to the [Thinky Collective](https://thinkycollective.itch.io/) games are: Level 23 of [What Gophers Go For](https://what-gophers-go-for.github.io/), Level 33 of [Dr Jelly and Mr Slime](https://thinkycollective.itch.io/dr-jelly-and-mr-slime), most of the story in [Ahoist Cratey](https://thinkycollective.itch.io/ahoist-cratey), the B mechanic and level B17 in [Conveyor Con-fusion](https://thinkycollective.itch.io/conveyor-confusion), and level 15 of [Lab Rat-ional Thinking](https://thinkycollective.itch.io/lab-rational-thinking).
 
