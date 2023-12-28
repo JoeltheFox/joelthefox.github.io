@@ -1036,6 +1036,7 @@ Games coming (...to this article) in the future:
 [Quetzals & Ladders](https://digitarium.itch.io/quetzals-ladders)  
 [Munchy Mammals](https://store.steampowered.com/app/2382920/Munchy_Mammals/)  
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
+[Oh No Wrong Room](https://sftrabbit.itch.io/oh-no-wrong-room)  
 
 -----
 
