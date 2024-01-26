@@ -1038,6 +1038,7 @@ Games coming (...to this article) in the future:
 [Temple Of Snek](https://store.steampowered.com/app/1208590/Temple_Of_Snek/)  
 [Oh No Wrong Room](https://sftrabbit.itch.io/oh-no-wrong-room)  
 [Blockado](https://delistedgames.com/blockado-puzzle-island/)  
+[Sideliner](https://wayedout.itch.io/sideliner)  
 
 -----
 
