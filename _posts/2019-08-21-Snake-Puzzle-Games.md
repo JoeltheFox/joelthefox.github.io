@@ -1039,6 +1039,9 @@ Games coming (...to this article) in the future:
 [Oh No Wrong Room](https://sftrabbit.itch.io/oh-no-wrong-room)  
 [Blockado](https://delistedgames.com/blockado-puzzle-island/)  
 [Sideliner](https://wayedout.itch.io/sideliner)  
+[Butteater](https://www.puzzlescript.net/play.html?p=735d0ec533b08b9dd13186bf2a6aaeb6)  
+[The Wormaid](https://store.steampowered.com/app/1478240/The_Wormaid/)  
+[Snake Solver](https://poki.com/en/g/snake-solver)  
 
 -----
 
