@@ -1042,6 +1042,7 @@ Games coming (...to this article) in the future:
 [Butteater](https://www.puzzlescript.net/play.html?p=735d0ec533b08b9dd13186bf2a6aaeb6)  
 [The Wormaid](https://store.steampowered.com/app/1478240/The_Wormaid/)  
 [Snake Solver](https://poki.com/en/g/snake-solver)  
+[Woodworm](https://spratt.itch.io/woodworm)  
 
 -----
 
