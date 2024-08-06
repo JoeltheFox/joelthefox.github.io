@@ -1043,6 +1043,7 @@ Games coming (...to this article) in the future:
 [The Wormaid](https://store.steampowered.com/app/1478240/The_Wormaid/)  
 [Snake Solver](https://poki.com/en/g/snake-solver)  
 [Woodworm](https://spratt.itch.io/woodworm)  
+[Unhinga](https://karoo13.itch.io/unhinga)  
 
 -----
 
