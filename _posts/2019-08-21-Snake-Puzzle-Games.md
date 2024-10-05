@@ -1044,6 +1044,7 @@ Games coming (...to this article) in the future:
 [Snake Solver](https://poki.com/en/g/snake-solver)  
 [Woodworm](https://spratt.itch.io/woodworm)  
 [Unhinga](https://karoo13.itch.io/unhinga)  
+[Walking Dots](https://nebu-soku.itch.io/walking-dots)  
 
 -----
 
