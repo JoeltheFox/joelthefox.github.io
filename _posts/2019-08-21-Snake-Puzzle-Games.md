@@ -1047,6 +1047,8 @@ Games coming (...to this article) in the future:
 [Walking Dots](https://nebu-soku.itch.io/walking-dots)  
 [Constrictor](https://beepyeah.itch.io/constrictor)  
 [Fillsnake](https://beepyeah.itch.io/fillsnake)  
+[204Snake](https://sodoj.itch.io/204snake)  
+[Artillipede](https://wryandbeary.itch.io/artillipede)  
 
 -----
 
