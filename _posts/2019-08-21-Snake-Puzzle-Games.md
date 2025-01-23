@@ -1049,6 +1049,8 @@ Games coming (...to this article) in the future:
 [Fillsnake](https://beepyeah.itch.io/fillsnake)  
 [204Snake](https://sodoj.itch.io/204snake)  
 [Artillipede](https://wryandbeary.itch.io/artillipede)  
+[Gulping Snake](https://store.steampowered.com/app/3150660/Gulping_snake/)  
+[Worm Game](https://eggsucker888.itch.io/worm-game)  
 
 -----
 
