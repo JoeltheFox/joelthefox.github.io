@@ -1082,6 +1082,7 @@ Alcazar was the most popular implementation of this type of puzzle game, but is 
 [Snake Pit](https://store.steampowered.com/app/1787470/Snake_Pit/) has tiles you must touch twice.  
 [Spacious Snake](https://store.steampowered.com/app/1782880/Spacious_Snake/) has tiles that turn into thin walls when touched.  
 [Snake Islands](https://outer-frog.itch.io/snake-islands) is a standard hamiltonian path puzzle, as a snake.  
+[Blobun](https://store.steampowered.com/app/3401180/Blobun_Demo/) has a bunch of extra mechanics.  
 
 There are some games that used the same mechanics as Snakebird or Wriggle without mentioning their inspiration, and without new ideas. With Snakebird it seems very likely that the mechanics were copied, while with Wriggle it’s possible that other developers just hadn’t known about it. [Too Many Snakes](http://www.whalefoodgames.com/too-many-snakes), [TruPuzzle](https://apps.apple.com/us/app/trupuzzle/id430437507), and [Twisted Snake]( https://apps.apple.com/us/app/twisted-snake/id840047572) have the same mechanics as Wriggle, but came after Wriggle did. I don't really want to advertise the Snakebird clones but if you are curious I saw [this](https://store.steampowered.com/app/1602280/Gravity_Snake/), [this](https://www.coolmathgames.com/0-apple-worm), and [this](https://snekbirb.glitch.me/)
 
