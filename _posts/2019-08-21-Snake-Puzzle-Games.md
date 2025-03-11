@@ -992,7 +992,6 @@ Snake Dance|Dom Camus|Dec 2021|Prod Snakes|Hard|1||Web
 [Snake Blocks](https://steven-miller.itch.io/snake-blocks) (awaiting update)  
 [Sausage Dog Tends to Infinity](https://store.steampowered.com/app/1299340/Sausage_Dog_Tends_To_Infinity/?curator_clanid=4777282&utm_source=SteamDB)  
 [Sushi Snake](https://benjamindav.is/sushisnake/) was previously published but ran into compatibility issues that are being worked on.  
-[Kukulcan](http://www.black-spoon.com/)  
 [snekoban](https://twitter.com/blubberquark/status/1227506247005458432)  
 [Snaklops](https://ejbarreto.itch.io/snaklops)  
 [Hebi Hebi](https://taylorritenour.itch.io/hebi-hebi)  
@@ -1051,6 +1050,9 @@ Games coming (...to this article) in the future:
 [Artillipede](https://wryandbeary.itch.io/artillipede)  
 [Gulping Snake](https://store.steampowered.com/app/3150660/Gulping_snake/)  
 [Worm Game](https://eggsucker888.itch.io/worm-game)  
+[Kukulcan](http://www.black-spoon.com/)  
+[Snakeloop](https://store.steampowered.com/app/3336460/Snakeloop/)  
+[Year of the Snake](https://cassowary.itch.io/year-of-the-snake)  
 
 -----
 
