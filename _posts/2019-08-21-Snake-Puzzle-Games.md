@@ -1054,6 +1054,8 @@ Games coming (...to this article) in the future:
 [Snakeloop](https://store.steampowered.com/app/3336460/Snakeloop/)  
 [Year of the Snake](https://cassowary.itch.io/year-of-the-snake)  
 [BederSNAKE](https://bedersnake.com/)  
+[Snekburd](https://werxzy.itch.io/snekburd)  
+[Snakebird Math](https://www.playmath.org/game/snakebird-math)  
 
 -----
 
