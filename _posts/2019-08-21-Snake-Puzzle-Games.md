@@ -1056,6 +1056,7 @@ Games coming (...to this article) in the future:
 [BederSNAKE](https://bedersnake.com/)  
 [Snekburd](https://werxzy.itch.io/snekburd)  
 [Snakebird Math](https://www.playmath.org/game/snakebird-math)  
+[Shack-o'-Lantern](https://steven-miller.itch.io/shack-o-lantern)  
 
 -----
 
