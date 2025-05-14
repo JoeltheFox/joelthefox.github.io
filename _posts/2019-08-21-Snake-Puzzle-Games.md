@@ -1057,6 +1057,7 @@ Games coming (...to this article) in the future:
 [Snekburd](https://werxzy.itch.io/snekburd)  
 [Snakebird Math](https://www.playmath.org/game/snakebird-math)  
 [Shack-o'-Lantern](https://steven-miller.itch.io/shack-o-lantern)  
+[Hebird](https://david-pfx.github.io/PuzzleScriptNext/src/play.html?p=5ddd0569697361191ae5211cdd5b65fa)  
 
 -----
 
