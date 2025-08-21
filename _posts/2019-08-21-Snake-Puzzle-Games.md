@@ -1058,6 +1058,9 @@ Games coming (...to this article) in the future:
 [Snakebird Math](https://www.playmath.org/game/snakebird-math)  
 [Shack-o'-Lantern](https://steven-miller.itch.io/shack-o-lantern)  
 [Hebird](https://david-pfx.github.io/PuzzleScriptNext/src/play.html?p=5ddd0569697361191ae5211cdd5b65fa)  
+[Goop Snake](https://quail-weaver.itch.io/goop-snake)  
+[Snekoban](https://blessedsleepseeker.itch.io/snekoban)  
+[Serpent Circuit](https://astral28.itch.io/circuit-serpent)  
 
 -----
 
