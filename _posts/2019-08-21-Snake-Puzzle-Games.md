@@ -1061,6 +1061,7 @@ Games coming (...to this article) in the future:
 [Goop Snake](https://quail-weaver.itch.io/goop-snake)  
 [Snekoban](https://blessedsleepseeker.itch.io/snekoban)  
 [Serpent Circuit](https://astral28.itch.io/circuit-serpent)  
+[Snekcross](https://justcamh.itch.io/snekcross)  
 
 -----
 
