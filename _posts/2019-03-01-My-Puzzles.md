@@ -29,10 +29,17 @@ A [modified level 7](https://www.puzzlescript.net/play.html?p=2569c0d26a4331cffc
 
 -----
 
-My latest game is Loopoban, which started as a submission to LDjam47 and was then expanded significantly afterwards (both ways to parse the end of that sentence are correct).  It's a sokoban game where you program a list of commands that will loop indefinitely, until all the crates are on their targets (or not).
+My latest original game is Loopoban, which started as a submission to LDjam47 and was then expanded significantly afterwards (both ways to parse the end of that sentence are correct).  It's a sokoban game where you program a list of commands that will loop indefinitely, until all the crates are on their targets (or not).
 
 ![Loopoban](https://joelthefox.github.io/img/Loopoban.png "An early Loopoban puzzle")  
 Which 5 directions would you input to get both crates onto their targets?
+
+-----
+
+[TEMET](https://joel-fox.itch.io/temet) is based on the famous movie Tenet, which deals with the directionality of time and was produced by a beloved titan of the industry, but the similarities stop there.
+I made TEMET for the 2023 [Confounding Calendar](https://confoundingcalendar.itch.io/) (hence the color scheme), however I didn't submit it because I wanted to design a second, more challenging puzzle. Eventually I gave up because that was too hard, and published the game with only the single original puzzle.
+
+![TEMET](https://joelthefox.github.io/img/TEMET.png "This is the only puzzle in the game")  
 
 -----
 
