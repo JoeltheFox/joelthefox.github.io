@@ -1067,6 +1067,8 @@ Games coming (...to this article) in the future:
 [Snakey](https://vertex88.itch.io/snakey)  
 [Woodworm](https://store.steampowered.com/app/3404590/Woodworm/)  
 [nuworm](https://cubestudio.itch.io/nuworm)  
+[Golden Snakeloop](https://dumplingaru.itch.io/golden-snakeloop)  
+[Bombsnake](https://yuangan.itch.io/bombsnake)  
 
 -----
 
